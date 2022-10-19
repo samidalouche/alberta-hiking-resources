@@ -1,0 +1,11 @@
+// https://nuxt.com/docs/api/configuration/nuxt-config
+export default defineNuxtConfig({
+  devtools: { enabled: true },
+  extends: ['shadcn-docs-nuxt'],
+
+  // Make static generation work on Github Pages
+  // https://nuxt.com/docs/getting-started/prerendering
+  routeRules: {
+    "/": { prerender: true },
+  },
+});
