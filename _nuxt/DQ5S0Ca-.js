@@ -1,0 +1,1 @@
+import{_ as o,o as n,c as t,r as c}from"./Bdc-ioIQ.js";const r={},s={class:"relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono inline-code"};function a(e,d){return n(),t("code",s,[c(e.$slots,"default",{},void 0,!0)])}const l=o(r,[["render",a],["__scopeId","data-v-ac80d87a"]]);export{l as default};
