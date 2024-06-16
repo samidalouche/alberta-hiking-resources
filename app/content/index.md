@@ -1,30 +1,27 @@
 ---
-title: Home
+title: Alberta Hiking Groups
 navigation: false
 ---
 
 ::hero
 ---
 announcement:
-  title: 'Release v0.2.0'
+  title: 'New to Alberta Hiking Groups?'
   icon: 'noto:party-popper'
   to: /getting-started
 actions:
   - name: Get Started
     to: /getting-started
-  - name: GitHub
+  - name: Contribute to this site
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: /getting-started/contributing
     leftIcon: 'lucide:github'
 ---
 
 #title
-Effortless and Beautiful<br>Docs Template.
+Alberta Hiking Groups
 
 #description
-Beautifully designed Nuxt Content template with shadcn-vue.<br>Customizable. Compatible. Open Source.
+Find your way in the jungle of FB and Meetup groups.<br>Hiking Partners. Information. Ideas.
 ::
 
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/writing/components" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>
