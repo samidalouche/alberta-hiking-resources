@@ -30,8 +30,8 @@ where members can connect, share experiences, and build lasting friendships.
 
 - The group caters to those with an intermediate to advanced skill level in either hiking or climbing. 
 - The group is not dedicated to finding activity partners, but the community is tight-knit and people use the group to coordinate activities.
-- The groupsis used to post about trail conditions, scrambling routes, to find partners for avalanche and crevasse rescue courses, etc.
-- The groups is a place where you interact with people first (share tips, ask information, etc) to build connections, and then find hiking/scrambling/climbing partners as a result of the interaction.
+- The group is used to post about trail conditions, scrambling routes, to find partners for avalanche and crevasse rescue courses, etc.
+- The group is a place where you interact with people first (share tips, ask information, etc) to build connections, and then find hiking/scrambling/climbing partners as a result of the interaction.
   
 ## Safety warnings
 
