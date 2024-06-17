@@ -38,17 +38,26 @@ export default defineAppConfig({
     toc: {
       enable: true,
       title: 'On This Page',
-      links: [{
-        title: 'Star on GitHub',
-        icon: 'lucide:star',
-        to: 'https://github.com/samidalouche/alberta-hiking-groups',
-        target: '_blank',
-      }, {
-        title: 'Create Issues',
-        icon: 'lucide:circle-dot',
-        to: 'https://github.com/samidalouche/alberta-hiking-groups/issues',
-        target: '_blank',
-      }],
+      links: [
+        {
+          title: 'Star on GitHub',
+          icon: 'lucide:star',
+          to: 'https://github.com/samidalouche/alberta-hiking-groups',
+          target: '_blank',
+        },
+        {
+          title: 'Create Issues',
+          icon: 'lucide:circle-dot',
+          to: 'https://github.com/samidalouche/alberta-hiking-groups/issues',
+          target: '_blank',
+        },
+        {
+          title: 'Contact Us',
+          icon: 'lucide:circle-dot',
+          to: 'https://www.instagram.com/samidalouche/',
+          target: '_blank',
+        },
+      ],
     },
     search: {
       enable: true,
