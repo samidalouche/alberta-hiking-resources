@@ -69,3 +69,4 @@ This work is licensed under a
 
 - [ ] Proper domain
 - [ ] https://content.nuxt.com/recipes/sitemap
+- [ ] Weather, Gear Info, Books, etc
