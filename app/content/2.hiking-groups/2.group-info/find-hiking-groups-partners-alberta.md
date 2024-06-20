@@ -28,9 +28,10 @@ icon: 'lucide:facebook'
 [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) is a **private** Facebook group to advertise and join hiking events:
 
 - The group's **sole objective** is to provide a space to connect hikers and organizers. Please **refrain from posting any other information**. 
-  There are [better groups](/hiking-groups/by-category/trail-information) to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
+  There are [better groups](/hiking-groups/by-category/practical-information) to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
 - The [rules](https://www.facebook.com/groups/1835212146753367) of the group are minimalistic and mostly common sense: as long as you are respectful and stay on topic, you can participate to the group.
-
+- The group provides a chat for meetups.
+- 
 ## Safety warnings
 
 ::alert{type="danger" icon="lucide:circle-x"}

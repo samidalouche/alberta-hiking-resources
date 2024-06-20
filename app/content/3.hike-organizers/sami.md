@@ -59,7 +59,8 @@ In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the f
   1. I don't insist on the group staying together the whole time, so it is perfectly fine if part of the group splits to complete the hike. 
   2. Join the early/late season hikes when the temperature is colder. I don't insist on long breaks when it's freezing outside.
 - **Finish the hike at a reasonable time**: I usually camp on Saturday nights, and hike the next day. So I'm usually trying to complete the hike by 5pm, to give a little time 
-  for a cold dip and a beer with the team. I don't mind finishing a bit later on Sundays, as I'm not trying to beat the traffic, but rather let it go and get back home after the rush.
+  for a cold dip (always bring a swimming suit) and a beer with the team. I don't mind finishing a bit later on Sundays, as I'm not trying to beat the traffic, 
+  but rather let it go and get back home after the rush.
 
 
 ### Your Safety, Your Responsibility
@@ -154,3 +155,10 @@ I first create an event on [Alberta Hikers Together](/hiking-groups/group-info/a
 - Even if I wanted to vet people, how good would I be at that? I recently moved to Alberta, and don't have that much experience with the mountains.
 - Honestly, most of the people I have hiked/scrambled with are more experienced and do better research than me anyways. So I would feel a bit of an imposter.
 
+### Why do you post your hikes so late in the week?
+
+The more unreliable the weather and conditions are (late snow, etc), the more I wait before posting a hike. I will often keep (what I consider) the best 
+and longest hikes for when the weather is good/perfect, and adjust the objectives when I don't get the weather I wish.
+
+So that can lead me to post a Saturday hike on Thursday night or Friday afternoon. If you would like a heads up of what I am considering for the week-end, feel
+free to reach out to me. 
