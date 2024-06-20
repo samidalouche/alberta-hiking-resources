@@ -162,3 +162,98 @@ and longest hikes for when the weather is good/perfect, and adjust the objective
 
 So that can lead me to post a Saturday hike on Thursday night or Friday afternoon. If you would like a heads up of what I am considering for the week-end, feel
 free to reach out to me. 
+
+### Do you keep a log of your hikes?
+
+Yes. You can find it in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Bi9QlnNzdtOEetXOotyN7IZTlS3qCa3vKy4vbVL_n-w/edit?usp=sharing).
+Among others, the spreadsheet also contains links to the corresponding Garmin activities. The portal doesn't provide the GPS traces, but 
+don't hesitate to reach out if you want some traces, I can share them with you.
+
+### Can you provide the template that you use to create FB events?
+
+Sure! Here are a couple:
+
+Event 1:
+```
+Participants:
+- Sami
+- Mo Sleiman
+
+Trail info:
+- AllTrails: https://www.alltrails.com/trail/canada/alberta/old-baldy-peak
+- Bob Spirko: http://bobspirko.ca/Hiking/Kananaskis/OldBaldy/OldBaldy.html
+- We can do the Bob Spirko loop
+- If you have a different, more exciting trail to suggest that we haven't 
+  done and that is reasonably close to Lower Lake Campground 
+  (we camp in Peter Lougheed), we're open to it.
+  It's just hard to find objectives that have a reasonable chance of 
+  being ready these days.
+
+Time:
+- Meeting time 06h45 at the AllTrails trailhead
+- Start at 07h00 on the dot
+- Intermediate/moderate pace with plenty of photo breaks. Possibly a 1h+ break 
+  at the top if the weather allows it, but there will probably be too much wind 
+  to make that enjoyable, we will see. 
+- Return early/mid afternoon (hopefully) so we can hang out at Upper Kananaskis Lake
+
+After Hike
+- Cold dip and BBQ (What Mo calls the Steak Heaven Party) mid to late afternoon at
+  Upper Kananaskis Lake, hopefully with the sun still out (and not too much wind, is 
+  that too much to ask for?).
+- You're welcome to join us around the camp fire at the Lower Lake Campground after 
+that as well.
+
+Forecasts
+- Accuweather: https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
+- Mountain forecast of a mountain nearby: https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
+
+Logistics
+- Will lose connectivity Friday late afternoon as we will be camping. So let's chat before, 
+  or see you at the trailhead directly.
+- Message me if interested, so that I can add you to the private chat.
+
+Please note that I am not a professional guide. I have average mountain and navigation skills 
+and you assume all responsibility for your safety and well-being and preparedness. 
+Do your own research to ensure that you know what you are getting into and be prepared 
+to be self-reliant in case we have to split.
+
+If we haven't hiked together before, you will most certainly want to check out this page 
+that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-groups/hike-organizers/sami
+```
+
+Event 2:
+```
+Participants:
+- Sami
+- Mo Sleiman
+
+Trail info:
+- AllTrails: https://www.alltrails.com/trail/canada/alberta/kent-ridge-north
+- We don't really know whether the trail is ready, so we will probably have some surprises.
+  If you know it's not doable yet, please let us know so we attempt another one :)
+
+Time:
+- Meeting time 07h45 at the AllTrails trailhead
+- Start at 08h00 on the dot
+- Intermediate/moderate pace with plenty of photo breaks. Possibly a 1h+ break at 
+  the top if the weather allows it. 
+
+After Hike
+- Cold dip, bring a swimmit suit!
+
+Forecasts
+- Accuweather: https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
+
+Logistics
+- Will lose connectivity Friday late afternoon as we will be camping. So let's chat before, or see you at the trailhead directly.
+- Message me if interested, so that I can add you to the private chat.
+
+Please note that I am not a professional guide. I have average mountain and navigation skills and 
+you assume all responsibility for your safety and well-being and preparedness. 
+Do your own research to ensure that you know what you are getting into and be prepared to be 
+self-reliant in case we have to split.
+
+If we haven't hiked together before, you will most certainly want to check out this page 
+that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-groups/hike-organizers/sami
+```
