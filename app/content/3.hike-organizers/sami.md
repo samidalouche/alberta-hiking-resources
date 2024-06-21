@@ -155,6 +155,24 @@ I first create an event on [Alberta Hikers Together](/hiking-groups/group-info/a
 - Even if I wanted to vet people, how good would I be at that? I recently moved to Alberta, and don't have that much experience with the mountains.
 - Honestly, most of the people I have hiked/scrambled with are more experienced and do better research than me anyways. So I would feel a bit of an imposter.
 
+
+### I would like to join one of your hikes, but can't commit now
+
+Some organizers take it personally if someone says they would come but doesn't. I don't. If you can come, that's great. If you can't, then see you next time!
+
+If there's a chance you won't make it, just let me know you're a maybe, and avoid making car pooling arrangements with others that mess up everyone's plan if you can't come.
+
+### Can we carpool from Calgary?
+
+I often camp on Friday and Saturday nights from end of June to the beginning of September, so it is not possible for me to carpool on these weekends.
+When I do the return trip from Calgary, we can generally carpool from the [Petro Canada at the intersection of Highway 1 and 22](https://maps.app.goo.gl/MiFTBkwnhJCzxCEe7).
+
+However, I do create a group chat for every hike, feel free to use it to look for car pooling opportunities.
+
+### What is the typical number of people who participate to your hikes?
+
+Most of my hikes are 3-4 people hikes. It does happen that we have bigger groups (7-8).
+
 ### Why do you post your hikes so late in the week?
 
 The more unreliable the weather and conditions are (late snow, etc), the more I wait before posting a hike. I will often keep (what I consider) the best 
