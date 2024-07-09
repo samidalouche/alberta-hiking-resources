@@ -40,7 +40,7 @@ Instead of an "interview process", I favour shared responsibilities between you 
 
 In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the following:
 - **Early start**: 7am for a regular day at the trailhead, and often **earlier for longer hikes** to give plenty of time for breaks without rushing. 
-  Spring and Fall hikes do not necessarily start as early, as the temperature/weather isn't conducive to stopping all the time 
+  Spring and Fall hikes may not start as early, as the temperature/weather isn't conducive to stopping all the time 
   for pictures and taking extended breaks.
 - **Start on time**: To be respectful of everyone who shows up on time, we start the hike at the time that is advertised. 
   Keep in mind that the meeting time is always 15 minutes before the start. So if you are 5 minutes late, you are not 5 minutes late, 
@@ -102,7 +102,7 @@ However, in practice, some things have to be considered:
 - Car pooling arrangements are also something to consider when splitting the group.
 
 If anyone joining my hikes feels strongly about staying together all the time, it is best to discuss it before the hike to align the expectations. Otherwise, we will just try to use common sense depending
-on the situation to ensure that we don't split the group in a dumb way if a natural split happens.
+on the situation to ensure that we don't split the group in a dumb way.
 
 ## Frequently Asked Questions
 
@@ -147,10 +147,9 @@ I first create an event on [Alberta Hikers Together](/hiking-groups/group-info/a
 ### Why don't you vet people who join your hikes like most other organizers do?
 
 - I don't see myself as a full-fledged "organizer". I just go hiking, and I am happy to share (part of) the trail with others. 
-  Same idea as when going hiking with friends, except that some participants are not friends (yet).
-- I suspect that the meetup organizers who have a vetting process in place spend a non-negligeable amount of time on that, which I would like to avoid for as long as possible.
+- I suspect that the meetup organizers who have a vetting process in place spend a non-negligible amount of time on that, which I would like to avoid for as long as possible.
 - So far, I'm running at a pace of roughly one potentially-avoidable incident worth mentionning per summer (May-Nov), and so far, these incidents have not been catastrophic. 
-  Is it worth spending days vetting people to avoid these rare and minor incidents? Would my vetting process be so good that I would avoid these incidents anyways?
+  Is it worth spending a lot of time vetting people to avoid these rare and minor incidents? Would my vetting process be so good that I would avoid these incidents anyways?
 - Some of the incidents were arguably partly my fault where I set the wrong expectations. So I hope that by being more mindful about setting expectations, it would solve part of the problem.
 - Even if I wanted to vet people, how good would I be at that? I recently moved to Alberta, and don't have that much experience with the mountains.
 - Honestly, most of the people I have hiked/scrambled with are more experienced and do better research than me anyways. So I would feel a bit of an imposter.
