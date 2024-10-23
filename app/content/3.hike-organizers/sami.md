@@ -39,8 +39,8 @@ Instead of an "interview process", I favour shared responsibilities between you 
 ## What to expect on Sami's hikes
 
 In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the following:
-- **Early start**: 7am for a regular day at the trailhead, and often **earlier for longer hikes** to give plenty of time for breaks without rushing. 
-  Spring and Fall hikes may not start as early, as the temperature/weather isn't conducive to stopping all the time 
+- **Early start**: 5am for a regular day at the trailhead, and sometimes **earlier for special hikes** to give plenty of time for breaks without rushing. 
+  Spring and Fall hikes often start at 7am instead, as the temperature/weather isn't conducive to stopping all the time 
   for pictures and taking extended breaks.
 - **Start on time**: To be respectful of everyone who shows up on time, we start the hike at the time that is advertised. 
   Keep in mind that the meeting time is always 15 minutes before the start. So if you are 5 minutes late, you are not 5 minutes late, 
@@ -106,7 +106,7 @@ on the situation to ensure that we don't split the group in a dumb way.
 
 ## Frequently Asked Questions
 
-### Why are your hikes starting so early?
+### Why do your hikes start so early?
 
 Different people are willing to make different compromises to enjoy their hiking days.
 
@@ -114,7 +114,7 @@ In my case, the priority goes to:
 - Taking my time during the hike with plenty of picture breaks.
 - Enjoying extended breaks at the summit (several hours during the core of the summer).
 - Finishing early (~5pm) to enjoy a beer and a cold dip with the rest of the team, and have enough time to eat and go to bed early to be ready for the next hike.
-- Having extra room for when things don't go exactly according to plan.
+- Having extra room for when things don't go exactly according to plan. If you're looking for days that go according to plan, I'm not your guy.
 
 As a result, I simply start the hike early-enough to be able to achieve all that. 
 
@@ -174,7 +174,7 @@ Most of my hikes are 3-4 people hikes. It does happen that we have bigger groups
 
 ### Why do you post your hikes so late in the week?
 
-The more unreliable the weather and conditions are (late snow, etc), the more I wait before posting a hike. I will often keep (what I consider) the best 
+The more unreliable the weather and conditions are (late snow, smoke, etc), the more I wait before posting a hike. I will often keep (what I consider) the best 
 and longest hikes for when the weather is good/perfect, and adjust the objectives when I don't get the weather I wish.
 
 So that can lead me to post a Saturday hike on Thursday night or Friday afternoon. If you would like a heads up of what I am considering for the week-end, feel
@@ -185,6 +185,12 @@ free to reach out to me.
 Yes. You can find it in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Bi9QlnNzdtOEetXOotyN7IZTlS3qCa3vKy4vbVL_n-w/edit?usp=sharing).
 Among others, the spreadsheet also contains links to the corresponding Garmin activities. The portal doesn't provide the GPS traces, but 
 don't hesitate to reach out if you want some traces, I can share them with you.
+
+### Do you hike when it's smoky?
+
+I don't usually hike or scramble when it's smoky. I will usually cancel an event if the smoke forecast changes drastically.
+However, if the rest of the group still wants to do the hike/scramble, feel free to do it without me.
+
 
 ### Can you provide the template that you use to create FB events?
 
