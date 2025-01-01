@@ -242,7 +242,7 @@ Do your own research to ensure that you know what you are getting into and be pr
 to be self-reliant in case we have to split.
 
 If we haven't hiked together before, you will most certainly want to check out this page 
-that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-groups/hike-organizers/sami
+that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-resources/hike-organizers/sami
 ```
 
 Event 2:
@@ -278,5 +278,5 @@ Do your own research to ensure that you know what you are getting into and be pr
 self-reliant in case we have to split.
 
 If we haven't hiked together before, you will most certainly want to check out this page 
-that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-groups/hike-organizers/sami
+that highlights what you can expect from my hikes: https://samidalouche.github.io/alberta-hiking-resources/hike-organizers/sami
 ```
