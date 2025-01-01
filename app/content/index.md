@@ -1,12 +1,12 @@
 ---
-title: Alberta Hiking Groups
+title: Alberta Hiking Resources
 navigation: false
 ---
 
 ::hero
 ---
 announcement:
-  title: 'New to Alberta Hiking Groups?'
+  title: 'New to Alberta Hiking Resources?'
   icon: 'noto:party-popper'
   to: /getting-started
 actions:
@@ -19,7 +19,7 @@ actions:
 ---
 
 #title
-Alberta Hiking Groups
+Alberta Hiking Resources
 
 #description
 Find your way in the jungle of FB and Meetup groups.<br>Hiking Partners. Information. Ideas.
