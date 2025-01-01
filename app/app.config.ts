@@ -1,11 +1,11 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'Alberta Hiking Groups',
+      name: 'Alberta Hiking Resources',
       description: 'Find your way in the jungle of FB and Meetup groups.Hiking Partners. Information. Ideas.',
     },
     header: {
-      title: 'Alberta Hiking Groups',
+      title: 'Alberta Hiking Resources',
       showTitle: true,
       darkModeToggle: false,
       logo: {
