@@ -47,7 +47,7 @@ In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the f
   you are 20 minutes late. 
 - **Lots of pictures along the way**: When the weather / conditions are right, I take a lot of pictures. 
   If you hate picture breaks, you are 
-  more likely to enjoy my company when the weather is cold and I restrict them to a minimum. 
+  more likely to enjoy my company when the weather is cold (the colder, the less pictures). 
   If you do love picture breaks, make sure to wear flashy colors so we can have good shots!
   I always share my pictures in full quality/resolution after the hike.
 - **Moderate/intermediate pace**: Unless stated otherwise, I aim to go at a moderate pace for most of my hikes. The hard part about this point is that 
@@ -101,6 +101,9 @@ However, in practice, some things have to be considered:
 - Are there lots of other people on the trail?
 - Car pooling arrangements are also something to consider when splitting the group.
 
+And in case you are wondering, these guidelines are symmetric. It's not just "other people" who have to wait for the group to come back, it also happened to me that I didn't feel comfortable pushing
+to the summit because of the conditions, and waited for the group to summit and return.
+
 If anyone joining my hikes feels strongly about staying together all the time, it is best to discuss it before the hike to align the expectations. Otherwise, we will just try to use common sense depending
 on the situation to ensure that we don't split the group in a dumb way.
 
@@ -139,10 +142,11 @@ Factors motivating this system:
 
 ### What groups do you advertise your hikes on?
 
-I first create an event on [Alberta Hikers Together](/hiking-groups/group-info/alberta-hikers-together) (public group, so events can be seen by anyone), and then share it to:
-- [Find Hiking Groups/Partners, Alberta](/hiking-groups/group-info/find-hiking-groups-partners-alberta) (private group)
-- [Alberta Hikers & Climbers](/hiking-groups/group-info/alberta-hikers-and-climbers) (private group)
+I first create an event on [Alberta Hikers Together](https://www.facebook.com/groups/406674690939732) (public group, so events can be seen by anyone), and then share it to:
+- [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) (private group)
+- [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628) (private group)
 
+There is an entire section on [meetup groups](/hiking-groups/by-category/meetups)
 
 ### Why don't you vet people who join your hikes like most other organizers do?
 
