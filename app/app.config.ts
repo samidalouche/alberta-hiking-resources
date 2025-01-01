@@ -15,7 +15,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/samidalouche/alberta-hiking-groups',
+        to: 'https://github.com/samidalouche/alberta-hiking-resources',
         target: '_blank',
       }],
     },
@@ -42,13 +42,13 @@ export default defineAppConfig({
         {
           title: 'Star on GitHub',
           icon: 'lucide:star',
-          to: 'https://github.com/samidalouche/alberta-hiking-groups',
+          to: 'https://github.com/samidalouche/alberta-hiking-resources',
           target: '_blank',
         },
         {
           title: 'Create Issues',
           icon: 'lucide:circle-dot',
-          to: 'https://github.com/samidalouche/alberta-hiking-groups/issues',
+          to: 'https://github.com/samidalouche/alberta-hiking-resources/issues',
           target: '_blank',
         },
         {

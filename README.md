@@ -32,7 +32,7 @@
 
     ```bash
     # cd app && pnpm run generate
-    export NUXT_APP_BASE_URL=/alberta-hiking-groups/
+    export NUXT_APP_BASE_URL=/alberta-hiking-resources/
     cd app && npx nuxt build --preset github_pages
     ```
 2. Preview the generated static website
