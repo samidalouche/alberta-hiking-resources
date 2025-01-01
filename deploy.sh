@@ -2,7 +2,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-export NUXT_APP_BASE_URL=/alberta-hiking-groups/
+export NUXT_APP_BASE_URL=/alberta-hiking-resources/
 
 cd app
 npx nuxt build --preset github_pages
