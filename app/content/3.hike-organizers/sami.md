@@ -36,7 +36,7 @@ Instead of an "interview process", I favour shared responsibilities between you 
 - If you have doubts or questions, reach out to me and we will sort it out. 
 - Don't let perfect be the enemy of good, all we are trying to do here is to get rid of outlier outcomes where there is an obvious misfit.
 
-## What to expect on Sami's hikes
+## What to expect when joining Sami's hikes
 
 In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the following:
 - **Early start**: 5am for a regular day at the trailhead, and sometimes **earlier for special hikes** to give plenty of time for breaks without rushing. 
