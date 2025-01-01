@@ -107,6 +107,27 @@ to the summit because of the conditions, and waited for the group to summit and 
 If anyone joining my hikes feels strongly about staying together all the time, it is best to discuss it before the hike to align the expectations. Otherwise, we will just try to use common sense depending
 on the situation to ensure that we don't split the group in a dumb way.
 
+## What to expect when joining a multi-day camping or hut trip
+
+First of all, let me make it clear that the multi-day trips that I enjoy the most are the ones where nobody comes with the expectation of doing everything with everyone.
+In my opinion, the best trips happen when everyone feels free to plan their days the way they prefer, and that we happen to do *some* of the hiking/scrambling together
+when the desires and plans are compatible. And regardless of what everyone decided to do during the day, we can enjoy some quality time and share some food at night around a fire.
+
+Here are some of the factors motivating this:
+- Each person has done different hikes in a given area.
+- Everyone has their own preferences of pace, amount of breaks, start time, etc. My preferences are explained in the [previous section](#what-to-expect-when-joining-samis-hikes), but vary based on the weather, etc.
+- Different people don't always need the same amount of rest days on longer multi-day trips. 
+- We don't need to match 100% to do a trip together. I'm not an all-or-nothing person, I'm more of a pick-and-choose one.
+- Even when [my hiking preferences](#what-to-expect-when-joining-samis-hikes) don't match yours, average to bad weather will usually modulate these preferences towards less extreme ones (start later, shorten the breaks, etc), which might make them closer to yours, so it's impossible to know ahead of time (at least for me) what the "ideal" plan would be.
+
+Also worth highlighting that as far as I am concerned, weather and smoke conditions play a big role in influencing my plans:
+- The nicer / warmer / sunnier the weather is, the earlier I'll start, and the more breaks I'll take. And I will usually want to pick the "best" hikes for the "best" days.
+- Smoke means that I don't hike. I will use the smoke days as rest days and 100% enjoy the nice days instead. 
+- Cloudy days are days for the more average hikes.
+- Rain means that I will need someone who acts as a cheerleader to convince me that it's a great idea to climb 1200mEG to enjoy zero view ;-)
+
+Finally, the [What to expect when joining Sami's hikes](#what-to-expect-when-joining-samis-hikes) section is definitely relevant here.
+
 ## Frequently Asked Questions
 
 ### Why do your hikes start so early?
