@@ -21,6 +21,14 @@ icon: 'gis:hiker'
   target: _blank
   ---
   ::
+  ::card
+  ---
+  title: Threads
+  icon: mingcute:threads-line
+  to: https://www.threads.net/@samidalouche
+  target: _blank
+  ---
+  ::
 ::
 
 ## Purpose
@@ -77,7 +85,6 @@ More specifically:
 - Make sure to bring enough food and water. Don't forget that on nice, sunny days, we will take extended breaks, so you will consume more water than usual.
 - Depending on the conditions, make sure to bring the gear you need (helmet, spikes/crampons, ice axe, etc). Do not hesitate to ask the rest of the group what gear they are considering bringing.
 - Things don't necessarily go according to plan. Bringing a headlight and warmer clothes is never a bad idea.
-- TODO: link to a nice checklist, someone must have already compiled one online
 
 ### Staying all together vs splitting the group
 
