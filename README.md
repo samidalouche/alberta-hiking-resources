@@ -51,6 +51,12 @@
 pnpm dlx nuxi@latest init app -t github:ZTL-UwU/shadcn-docs-nuxt-starter
 ```
 
+
+## Resources
+- shadcn-docs: [Homepage](https://shadcn-docs-nuxt.vercel.app/), [Github](https://github.com/ZTL-UwU/shadcn-docs-nuxt?tab=readme-ov-file)
+- components: [shadcn-ui (The original components)](https://ui.shadcn.com/), [shadcn-vue (The Vue port of the components, for use with shadcn-docs)](https://www.shadcn-vue.com/)
+- Icons: [smart-icon](https://shadcn-docs-nuxt.vercel.app/components/docs/icon#smart-icon) can use any [iconify](https://iconify.design/) icons
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
