@@ -77,4 +77,4 @@ This work is licensed under a
 - [ ] https://content.nuxt.com/recipes/sitemap
 - [ ] Camping Bookings / Reservation Launch Dates (National Parks, AB Provincial Parks, ACC Huts)
 - [ ] Safety Checklist
-- [ ] Other resources on trail info such as Bob Spirko,Explor8ion, etc
+- [ ] Other resources on trail info such as Bob Spirko,Explor8ion, Annie Ouellet
