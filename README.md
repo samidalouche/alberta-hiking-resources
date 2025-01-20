@@ -75,4 +75,6 @@ This work is licensed under a
 
 - [ ] Proper domain
 - [ ] https://content.nuxt.com/recipes/sitemap
-- [ ] Weather, Gear Info, Books, etc
+- [ ] Camping Bookings / Reservation Launch Dates (National Parks, AB Provincial Parks, ACC Huts)
+- [ ] Safety Checklist
+- [ ] Other resources on trail info such as Bob Spirko,Explor8ion, etc
