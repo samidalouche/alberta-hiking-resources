@@ -21,6 +21,9 @@ importers:
         specifier: ^4.5.0
         version: 4.5.0(vue@3.5.13(typescript@5.7.2))
     devDependencies:
+      '@iconify-json/arcticons':
+        specifier: ^1.2.15
+        version: 1.2.15
       '@iconify-json/game-icons':
         specifier: ^1.2.1
         version: 1.2.1
@@ -30,6 +33,9 @@ importers:
       '@iconify-json/mingcute':
         specifier: ^1.2.3
         version: 1.2.3
+      '@iconify-json/noto':
+        specifier: ^1.2.2
+        version: 1.2.2
 
 packages:
 
@@ -507,6 +513,9 @@ packages:
   '@floating-ui/vue@1.1.5':
     resolution: {integrity: sha512-ynL1p5Z+woPVSwgMGqeDrx6HrJfGIDzFyESFkyqJKilGW1+h/8yVY29Khn0LaU6wHBRwZ13ntG6reiHWK6jyzw==}
 
+  '@iconify-json/arcticons@1.2.15':
+    resolution: {integrity: sha512-6ZnrUj7i0mfTTUX4czJCqB24R+m7u2PMVONX1yjD76AXsnmUYaXIXASm4A9q37TXq7mGsNvFc1Vfjc3ziMAmWw==}
+
   '@iconify-json/game-icons@1.2.1':
     resolution: {integrity: sha512-JrKwJT+xmee87QRGIoUdR59fxMzqykS9NUnG7P0XVeznKwr3WkAw5IVWSQVQDLcN6+X3mdMFme3Hbhh6f0qTDw==}
 
@@ -518,6 +527,9 @@ packages:
 
   '@iconify-json/mingcute@1.2.3':
     resolution: {integrity: sha512-yiEQfLBF5iwyOdxuY0kEU06+8Mp6Mrp14KVXTb+5jjSVuD71C9EQrzM/mm1Efd8Nu2amJalTPisl3loC8pHBqQ==}
+
+  '@iconify-json/noto@1.2.2':
+    resolution: {integrity: sha512-nVyjbd3CJ1AhSXdvzlPyku1hZ4cQPzXEgZh65rDUdZi2sEgvHJHdiDcr//6ynoCbFnWb8o1ck6x/s/HND4mWFA==}
 
   '@iconify-json/vscode-icons@1.2.8':
     resolution: {integrity: sha512-nmPc4MFCXwtLW9B587P0tRxzUM34+5PP4mxjVGvfRzWYsBVOKwsoxGYU8MDZw/BI+FVdHtrMT+E+aZORdV7hRw==}
@@ -4885,6 +4897,10 @@ snapshots:
       - '@vue/composition-api'
       - vue
 
+  '@iconify-json/arcticons@1.2.15':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/game-icons@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
@@ -4898,6 +4914,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/mingcute@1.2.3':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/noto@1.2.2':
     dependencies:
       '@iconify/types': 2.0.0
 
