@@ -28,12 +28,12 @@
 
 ## Deployment
 
+Check deploy.sh for additional notes regarding deployment
+
 1. Generate the static website
 
     ```bash
-    # cd app && pnpm run generate
-    export NUXT_APP_BASE_URL=/alberta-hiking-resources/
-    cd app && npx nuxt build --preset github_pages
+    cd app && npx nuxi build --prerender --preset github_pages
     ```
 2. Preview the generated static website
 

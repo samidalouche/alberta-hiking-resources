@@ -4,6 +4,11 @@ export default defineAppConfig({
       name: 'Alberta Hiking Resources',
       description: 'Find your way in the jungle of FB and Meetup groups.Hiking Partners. Information. Ideas.',
     },
+    theme: {
+      customizable: false,
+      color: 'zinc',
+      radius: 0.5,
+    },
     header: {
       title: 'Alberta Hiking Resources',
       showTitle: true,
@@ -28,7 +33,7 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
+      credits: 'Copyright © 2025',
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
