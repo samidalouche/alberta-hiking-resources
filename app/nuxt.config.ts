@@ -3,12 +3,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   extends: ['shadcn-docs-nuxt'],
 
-  // Make static generation work on Github Pages
+  // Because of --prerender in deploy.sh, this is probably not needed
   // https://nuxt.com/docs/getting-started/prerendering
-  routeRules: {
-    "/": { prerender: true },
-    "/**": { prerender: true },
-  },
+  // routeRules: {
+  //   "/": { prerender: true },
+  //   "/**": { prerender: true },
+  // },
 
   // https://vercel.com/docs/frameworks/nuxt#static-rendering
   // nitro: {
