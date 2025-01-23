@@ -1,1 +1,0 @@
-import{d as a,o,c as n,r as t,t as c,u as d,f as l}from"./BgZafMXJ.js";const u=a({__name:"Card",props:{class:{}},setup(s){const e=s;return(r,p)=>(o(),n("div",{class:c(d(l)("rounded-lg border bg-card text-card-foreground shadow-sm",e.class))},[t(r.$slots,"default")],2))}});export{u as _};
