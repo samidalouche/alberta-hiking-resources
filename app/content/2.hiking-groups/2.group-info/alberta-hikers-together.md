@@ -25,14 +25,13 @@ icon: 'lucide:facebook'
 
 ## Purpose
 
-[Alberta Hikers Together](https://www.facebook.com/groups/406674690939732) is a **public** Facebook group to advertise and join hiking events:
+[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Find hiking friends by advertising and joining hiking/scrambling events. 
 
-- The group's **sole objective** is to provide a space to connect hikers and organizers. Please **refrain from posting any other information**, except 
-  pictures of previously-advertised hikes that help build the desire to join the next hiking events. There are [better groups](/hiking-groups/by-category/practical-information) 
-  to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
-- The content can be accessed without joining the group. This makes it possible for instance to create and 
-  share an [event](https://www.facebook.com/groups/albertahikerstogether/events/) to people who are not members of the group (for instance in other groups, private discussions, etc).
-- The [rules](https://www.facebook.com/groups/406674690939732/about) of the group are minimalistic and mostly common sense: as long as you are respectful and stay on topic, you can participate to the group.
+The group's **sole objective** is to provide a space to connect hikers and organizers. Please **refrain from posting any other information**, except pictures of previously-advertised hikes that help build the desire to join the next hiking events.
+- Understand [how this group relates to other groups](https://www.alberta-hiking-resources.org/hiking-groups/group-info/alberta-hikers-together). In particular, there are [better groups](/hiking-groups/by-category/practical-information) to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
+- Note that this is a **public** group (the content can be accessed without joining the group). This makes it possible for instance to create and 
+  share an [event](https://www.facebook.com/groups/albertahikerstogether/events/) to people who are not members of the group (i.e. in other groups, private discussions, etc).
+- The [rules](https://www.facebook.com/groups/albertahikerstogether/about) of the group are minimalistic and mostly common sense: as long as you are respectful and **stay on topic**, you can participate to the group.
 - The group provides a chat for meetups.
 
 ## Safety warnings
@@ -45,6 +44,6 @@ icon: 'lucide:facebook'
 The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to advertise your own hikes with the rules you want.
 ::
 
-## Difference with other groups
+## Difference with other meetup groups
 
 See [Meetup Groups](/hiking-groups/by-category/meetups)
