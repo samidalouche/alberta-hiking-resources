@@ -1,0 +1,2 @@
+const t=`import{_ as r}from"./BM0DVG7s.js";import{d as c,v as s,o as i,e as m,x as p}from"./CYbnhFt7.js";import"./DIT4_jaS.js";import"./D6qRzvDJ.js";import"./BSP8v4yS.js";const y=c({__name:"CodeGroup",props:{inStack:{type:Boolean,default:!1},sync:{}},setup(t){const e=s();function o(){var n;const a=((n=e==null?void 0:e.default)==null?void 0:n.call(e))||[];return p(r,{variant:"card",inStack:t.inStack,sync:t.sync},()=>a)}return(a,n)=>(i(),m(o))}});export{y as default};
+`;export{t as default};
