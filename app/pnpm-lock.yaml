@@ -21,21 +21,36 @@ importers:
         specifier: ^4.5.0
         version: 4.5.0(vue@3.5.13(typescript@5.7.3))
     devDependencies:
+      '@iconify-json/ant-design':
+        specifier: ^1.2.5
+        version: 1.2.5
       '@iconify-json/arcticons':
         specifier: ^1.2.17
         version: 1.2.17
+      '@iconify-json/fluent':
+        specifier: ^1.2.12
+        version: 1.2.12
+      '@iconify-json/fontisto':
+        specifier: ^1.2.1
+        version: 1.2.1
       '@iconify-json/game-icons':
         specifier: ^1.2.1
         version: 1.2.1
       '@iconify-json/gis':
         specifier: ^1.2.3
         version: 1.2.3
+      '@iconify-json/icon-park-outline':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/mingcute':
         specifier: ^1.2.3
         version: 1.2.3
       '@iconify-json/noto':
         specifier: ^1.2.2
         version: 1.2.2
+      '@iconify-json/qlementine-icons':
+        specifier: ^1.2.1
+        version: 1.2.1
 
 packages:
 
@@ -513,14 +528,26 @@ packages:
   '@floating-ui/vue@1.1.6':
     resolution: {integrity: sha512-XFlUzGHGv12zbgHNk5FN2mUB7ROul3oG2ENdTpWdE+qMFxyNxWSRmsoyhiEnpmabNm6WnUvR1OvJfUfN4ojC1A==}
 
+  '@iconify-json/ant-design@1.2.5':
+    resolution: {integrity: sha512-SYxhrx1AFq2MBcXk77AERYz2mPhLQes1F0vtvG64+dJZWyge9studXo7MiR8PPeLjRjZdWRrReRbxiwdRMf70Q==}
+
   '@iconify-json/arcticons@1.2.17':
     resolution: {integrity: sha512-IEJVyYHHgGeQib7w95bnWJK4AKjLwh/FViP6u67rj9buQHf8ptpTYjk7LT4muYrRygyegCiCl9A6IPe3TVI6nQ==}
+
+  '@iconify-json/fluent@1.2.12':
+    resolution: {integrity: sha512-0wIO9ff5Nsl6AzjpjNHkgwCTJTOUI1Ph2jwrL9KBbEXk/iMRdrtEtnlyp6wiKpnDtnzX9skHNsC2L2PN9aS6UA==}
+
+  '@iconify-json/fontisto@1.2.1':
+    resolution: {integrity: sha512-RoZA/Cqey08bGWB5MD8KPMQuic4ZA3iH3ruuFI85bi0svmEXO9npnTTkNwnRXLM/DLcUYJSEJ9wNrvSYgKs+Jg==}
 
   '@iconify-json/game-icons@1.2.1':
     resolution: {integrity: sha512-JrKwJT+xmee87QRGIoUdR59fxMzqykS9NUnG7P0XVeznKwr3WkAw5IVWSQVQDLcN6+X3mdMFme3Hbhh6f0qTDw==}
 
   '@iconify-json/gis@1.2.3':
     resolution: {integrity: sha512-Y7oob/i9ggnfa8HuBM78vb/H/w86ky9w4R/0TpVzrHJUVWVbJPaLJexyW2NFSNu7MJvCZguv+1WZA4cK7hGGUw==}
+
+  '@iconify-json/icon-park-outline@1.2.2':
+    resolution: {integrity: sha512-7VkMWOZTIMNkC9+oAL4I5kVlVC5Pq3nQpruZ4E3cLyKaeV95gaUrEilUkvGW71fgsFYCBWAmOZ3KpM4ux0j0zA==}
 
   '@iconify-json/lucide@1.2.24':
     resolution: {integrity: sha512-MZ61WEAMlVaM3BkuZR4vVw63hPVdaeF5KQEogLcy5qh+zCXLcSpKOyMyoylSTnYUlcKsqTeBsUzRxPsvxe+P3g==}
@@ -530,6 +557,9 @@ packages:
 
   '@iconify-json/noto@1.2.2':
     resolution: {integrity: sha512-nVyjbd3CJ1AhSXdvzlPyku1hZ4cQPzXEgZh65rDUdZi2sEgvHJHdiDcr//6ynoCbFnWb8o1ck6x/s/HND4mWFA==}
+
+  '@iconify-json/qlementine-icons@1.2.1':
+    resolution: {integrity: sha512-DScWKjayaTwHvJhY3mHDimCOhxx4vDcxYCHmyYcqYMjDADGgw1P1u7osVnLo5K0DAdgjXW+/Q9v0u1u87+ZqOA==}
 
   '@iconify-json/vscode-icons@1.2.10':
     resolution: {integrity: sha512-qjp/j2RcHEZkesuAT6RP8BfcuHa+oERr7K1twfsulrIHrKZlpxxBeEyFm+3evZSAOgD+sjgU5CuTYS3RfCL+Pg==}
@@ -4921,7 +4951,19 @@ snapshots:
       - '@vue/composition-api'
       - vue
 
+  '@iconify-json/ant-design@1.2.5':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/arcticons@1.2.17':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fluent@1.2.12':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fontisto@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -4930,6 +4972,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/gis@1.2.3':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/icon-park-outline@1.2.2':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -4942,6 +4988,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/noto@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/qlementine-icons@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
