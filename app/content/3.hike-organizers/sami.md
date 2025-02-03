@@ -124,7 +124,7 @@ Here are some of the factors motivating this:
 - Each person has done different hikes in a given area.
 - Everyone has their own preferences of pace, amount of breaks, start time, etc. My preferences are explained in the [previous section](#what-to-expect-when-joining-samis-hikes), but vary based on the weather, etc.
 - Different people don't always need the same amount of rest days on longer multi-day trips. 
-- We don't need to match 100% to do a trip together. I'm not an all-or-nothing person, I'm more of a pick-and-choose one.
+- We don't need to match 100% to do a trip together. But make sure to express your preferences/concerns first.
 - Even when [my hiking preferences](#what-to-expect-when-joining-samis-hikes) don't match yours, average to bad weather will usually modulate these preferences towards less extreme ones (start later, shorten the breaks, etc), which might make them closer to yours, so it's impossible to know ahead of time (at least for me) what the "ideal" plan would be.
 
 Also worth highlighting that as far as I am concerned, weather and smoke conditions play a big role in influencing my plans:
