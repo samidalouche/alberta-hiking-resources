@@ -73,8 +73,9 @@ This work is licensed under a
 
 ## TODO
 
-- [ ] Proper domain
 - [ ] https://content.nuxt.com/recipes/sitemap
-- [ ] Camping Bookings / Reservation Launch Dates (National Parks, AB Provincial Parks, ACC Huts)
 - [ ] Safety Checklist
-- [ ] Other resources on trail info such as Bob Spirko,Explor8ion, Annie (Trip Reports)
+- [ ] ACC booking: 180 dys before last day of the trip
+- [ ] Better presentation of index page of each section
+- [ ] More appealing graphics, generally
+- [ ] Reorganize order of sections
