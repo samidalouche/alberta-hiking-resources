@@ -74,7 +74,7 @@ In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the f
 ### Your Safety, Your Responsibility
 
 Please note that I am not a professional guide. 
-I have average mountain and navigation skills and you assume all responsibility for your safety and well-being and preparedness. 
+I have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. 
 Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
 
 More specifically:
@@ -269,7 +269,7 @@ Logistics
 - Message me if interested, so that I can add you to the private chat.
 
 Please note that I am not a professional guide. I have average mountain and navigation skills 
-and you assume all responsibility for your safety and well-being and preparedness. 
+and you assume all responsibility for your safety, well-being and preparedness. 
 Do your own research to ensure that you know what you are getting into and be prepared 
 to be self-reliant in case we have to split.
 
@@ -305,7 +305,7 @@ Logistics
 - Message me if interested, so that I can add you to the private chat.
 
 Please note that I am not a professional guide. I have average mountain and navigation skills and 
-you assume all responsibility for your safety and well-being and preparedness. 
+you assume all responsibility for your safety, well-being and preparedness. 
 Do your own research to ensure that you know what you are getting into and be prepared to be 
 self-reliant in case we have to split.
 
