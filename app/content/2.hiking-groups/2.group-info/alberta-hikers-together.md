@@ -27,7 +27,7 @@ icon: 'lucide:facebook'
 
 [Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Find hiking friends by advertising and joining hiking/scrambling events. 
 
-The group's **sole objective** is to provide a space to connect hikers. Please **refrain from posting any other information**, except pictures of **previously-advertised** hikes that help build the desire to join the next hiking events. Additionally, if you have an extra camping spot that you won't use, you are welcome to advertise it for the same face value.
+**Objective**: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
 You are **highly encouraged** to create actionable posts or events that advertise a specific hike, with a meeting time. If you're looking for hiking partners in general, but don't have specific hikes/dates in mind, [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) may be a better place for you to post.
 
@@ -66,15 +66,23 @@ The rest of this section describes the rationale for each of the rules that are 
 
 ### Stay on topic
 
-> The group's objective is to organize and participate to hiking events in AB,BC, and MT. Photos and trip reports of events previously announced on the group are welcome to encourage others to join the next events. Questions about hikes, trail conditions, etc should be redirected to other groups such as Alberta Hikers&Climbers, or Wild Canadian Rocky Mountain Hikers that have more active communities in that regard. Let's do one thing, and do it well: find hiking buddies for AB, BC, MT.
+> Let’s keep it simple and focused: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
-**Why do we have this rule in place?** The reason Alberta Hikers Together was created was because the other groups made it harder to organize or join events as the meetup posts are diluted in the amount of other information being provided. So the idea is to keep this group hyper-focused on finding hiking partners. Posting pictures / trip reports is only encouraged for people who posts their hikes on the group, as it helps to build excitement about joining the next trips. But people who do not post their hikes on the group should refrain from posting their pictures. [Inspirational Groups](/hiking-groups/by-category/inspirational) and groups providing [practical information](/hiking-groups/by-category/practical-information) are a better match for this purpose.
+**Why do we have this rule in place?** The reason Alberta Hikers Together has been created because the other groups made it harder to organize or join events as the meetup posts were diluted in the amount of other information being provided. So the idea is to keep this group hyper-focused on finding hiking partners. 
+
+Posting pictures / trip reports is exclusively encouraged for people who post their hikes on the group, as it helps to build excitement about joining the upcoming trips. [Inspirational Groups](/hiking-groups/by-category/inspirational) and groups providing [practical information](/hiking-groups/by-category/practical-information) are a better match for people who want to share pictures of their adventures without the intent of sharing the trail.
+
+Finally, we want people to be specific with regard to the date, time, and specific trails/hikes that are considered. In addition to being more actionable for other members of the group, it helps combat spammers who have a tendency to post vague and unactionable requests to find hiking partners.
+
+If you’re looking to post general requests for hiking partners, check out [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367)—they’re happy to welcome those kinds of posts.
 
 ### Your safety is your responsibility
 
 > None of the trips are hosted by professional guides and all of us have average navigation skills. You assume all responsibility for your safety, well-being, and preparedness.
 
 **Why do we have this rule in place?** To remind people that nobody in the group is a professional guide. You should assume that the people you hike with have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
+
+If you want more structured events, check out the [Meetup.com groups](/hiking-groups/by-category/meetups#meetupcom-groups) that tend to have stable organizers that enforce stricter rules.
 
 ### No unsolicited direct messages
 
