@@ -223,6 +223,14 @@ don't hesitate to reach out if you want some traces, I can share them with you.
 I don't usually hike or scramble when it's smoky. I will usually cancel an event if the smoke forecast changes drastically.
 However, if the rest of the group still wants to do the hike/scramble, feel free to do it without me.
 
+### Can we go camping together?
+
+Sure! Check out the [What to expect when joining a multi-day camping or hut trip](#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) section.
+
+Reach out to me in November/December every year, when I make the booking plans for the summers. The reservations usually launch in January for the national parks.
+If you're more of a last-minute person, then just watch for my posts in [the groups I usually post to](#what-groups-do-you-advertise-your-hikes-on), 
+I'll usually advertise when someone cancels and we have room for an extra car/tent.
+
 
 ### Can you provide the template that you use to create FB events?
 
