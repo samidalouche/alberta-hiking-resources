@@ -122,10 +122,10 @@ when the desires and plans are compatible. And regardless of what everyone decid
 
 Here are some of the factors motivating this:
 - Each person has done different hikes in a given area.
-- Everyone has their own preferences of pace, amount of breaks, start time, etc. My preferences are explained in the [previous section](#what-to-expect-when-joining-samis-hikes), but vary based on the weather, etc.
+- Everyone has their own preferences of pace, amount of breaks, start time, etc. My preferences are explained in the [previous section](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) , but vary based on the weather, etc.
 - Different people don't always need the same amount of rest days on longer multi-day trips. 
 - We don't need to match 100% to do a trip together. But make sure to express your preferences/concerns first.
-- Even when [my hiking preferences](#what-to-expect-when-joining-samis-hikes) don't match yours, average to bad weather will usually modulate these preferences towards less extreme ones (start later, shorten the breaks, etc), which might make them closer to yours, so it's impossible to know ahead of time (at least for me) what the "ideal" plan would be.
+- Even when [my hiking preferences](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) don't match yours, average to bad weather will usually modulate these preferences towards less extreme ones (start later, shorten the breaks, etc), which might make them closer to yours, so it's impossible to know ahead of time (at least for me) what the "ideal" plan would be.
 
 Also worth highlighting that as far as I am concerned, weather and smoke conditions play a big role in influencing my plans:
 - The nicer / warmer / sunnier the weather is, the earlier I'll start, and the more breaks I'll take. And I will usually want to pick the "best" hikes for the "best" days.
@@ -133,7 +133,7 @@ Also worth highlighting that as far as I am concerned, weather and smoke conditi
 - Cloudy days are days for the more average hikes.
 - Rain means that I will need someone who acts as a cheerleader to convince me that it's a great idea to climb 1200mEG to enjoy zero view ;-)
 
-Finally, the [What to expect when joining Sami's hikes](#what-to-expect-when-joining-samis-hikes) section is definitely relevant here.
+Finally, the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) section is definitely relevant here.
 
 ## Frequently Asked Questions
 
@@ -225,10 +225,10 @@ However, if the rest of the group still wants to do the hike/scramble, feel free
 
 ### Can we go camping together?
 
-Sure! Check out the [What to expect when joining a multi-day camping or hut trip](#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) section.
+Sure! Check out the [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) section.
 
 Reach out to me in November/December every year, when I make the booking plans for the summers. The reservations usually launch in January for the national parks.
-If you're more of a last-minute person, then just watch for my posts in [the groups I usually post to](#what-groups-do-you-advertise-your-hikes-on), 
+If you're more of a last-minute person, then just watch for my posts in [the groups I usually post to](/hike-organizers/sami#what-groups-do-you-advertise-your-hikes-on), 
 I'll usually advertise when someone cancels and we have room for an extra car/tent.
 
 
