@@ -13,6 +13,11 @@ export default defineAppConfig({
       title: 'Alberta Hiking Resources',
       showTitle: true,
       darkModeToggle: false,
+      languageSwitcher: {
+        enable: false,
+        triggerType: 'icon',
+        dropdownType: 'select',
+      },
       logo: {
         light: '/logo.svg',
         dark: '/logo-dark.svg',
@@ -36,7 +41,7 @@ export default defineAppConfig({
       credits: 'Copyright © 2025',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/samidalouche/',
         target: '_blank',
       }],
     },
