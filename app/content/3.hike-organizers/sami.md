@@ -8,7 +8,7 @@ icon: 'gis:hiker'
   ::card
   ---
   title: Facebook
-  icon: lucide:facebook
+  icon: streamline-ultimate-color:facebook-logo
   to: https://www.facebook.com/sami.dalouche
   target: _blank
   ---
@@ -16,7 +16,7 @@ icon: 'gis:hiker'
   ::card
   ---
   title: Instagram
-  icon: lucide:instagram
+  icon: skill-icons:instagram
   to: https://www.instagram.com/samidalouche/
   target: _blank
   ---

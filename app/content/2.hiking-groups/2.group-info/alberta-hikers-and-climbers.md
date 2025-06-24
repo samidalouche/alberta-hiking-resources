@@ -1,7 +1,7 @@
 ---
 title: Alberta Hikers & Climbers
 description: Alberta Hikers & Climbers's Purpose
-icon: 'lucide:facebook'
+icon: 'streamline-ultimate-color:facebook-logo'
 ---
 
 ::card-group

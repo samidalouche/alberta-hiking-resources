@@ -1,7 +1,7 @@
 ---
 title: Alberta Hikers Together
 description: Alberta Hikers Together's Purpose
-icon: 'lucide:facebook'
+icon: 'streamline-ultimate-color:facebook-logo'
 ---
 
 ::card-group
