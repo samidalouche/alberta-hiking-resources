@@ -27,9 +27,18 @@ importers:
       '@iconify-json/arcticons':
         specifier: ^1.2.26
         version: 1.2.26
+      '@iconify-json/emojione':
+        specifier: ^1.2.1
+        version: 1.2.1
+      '@iconify-json/emojione-v1':
+        specifier: ^1.2.1
+        version: 1.2.1
       '@iconify-json/fluent':
         specifier: ^1.2.21
         version: 1.2.21
+      '@iconify-json/fluent-color':
+        specifier: ^1.2.15
+        version: 1.2.15
       '@iconify-json/fontisto':
         specifier: ^1.2.1
         version: 1.2.1
@@ -39,9 +48,15 @@ importers:
       '@iconify-json/gis':
         specifier: ^1.2.3
         version: 1.2.3
+      '@iconify-json/icon-park':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/icon-park-outline':
         specifier: ^1.2.2
         version: 1.2.2
+      '@iconify-json/material-icon-theme':
+        specifier: ^1.2.13
+        version: 1.2.13
       '@iconify-json/material-symbols':
         specifier: ^1.2.21
         version: 1.2.21
@@ -51,9 +66,24 @@ importers:
       '@iconify-json/noto':
         specifier: ^1.2.3
         version: 1.2.3
+      '@iconify-json/openmoji':
+        specifier: ^1.2.9
+        version: 1.2.9
       '@iconify-json/qlementine-icons':
         specifier: ^1.2.6
         version: 1.2.6
+      '@iconify-json/skill-icons':
+        specifier: ^1.2.0
+        version: 1.2.0
+      '@iconify-json/streamline-stickies-color':
+        specifier: ^1.2.0
+        version: 1.2.0
+      '@iconify-json/streamline-ultimate-color':
+        specifier: ^1.2.0
+        version: 1.2.0
+      '@iconify-json/twemoji':
+        specifier: ^1.2.2
+        version: 1.2.2
 
 packages:
 
@@ -395,6 +425,15 @@ packages:
   '@iconify-json/arcticons@1.2.26':
     resolution: {integrity: sha512-se2ytUg9N7+XbA3rNWZ4Ii/dn/C+wGf25wd6/n4/In6U1RkOXGqhXEcWxEomH2LKYITmGyBpiMWNDJaCrE5tUQ==}
 
+  '@iconify-json/emojione-v1@1.2.1':
+    resolution: {integrity: sha512-JHOLhXdoevJQoa81m09Ciau/dDw3Gxzok15YKT39ZoaSqmrd8NUMA/rD+T6dCQM/lKXSYc/hb1pZeyiSEXbJFA==}
+
+  '@iconify-json/emojione@1.2.1':
+    resolution: {integrity: sha512-F63lXycySmeq9b/utAjb9C7dHm326dSFAFQis8j/QlVivP0zLJQWolDUiUCggpU0nEpni08w5Wx4BDk6ysbkqQ==}
+
+  '@iconify-json/fluent-color@1.2.15':
+    resolution: {integrity: sha512-ZvMpmCpiKzxSo+W3K/XlZtWAY9YiiGtB6r9FpP+9XScpFVzQhU8ETDztYjQF2X6SbhTxryLNGEjmQmUth5fGLA==}
+
   '@iconify-json/fluent@1.2.21':
     resolution: {integrity: sha512-nLX6I/+KuW4XapOjShZYSCS3Ze+CVqG2ORwCqxC2KTvDiSgsPlYtz3kJ5F1KRzurIij/iskHj36kXxItP4eRdQ==}
 
@@ -410,8 +449,14 @@ packages:
   '@iconify-json/icon-park-outline@1.2.2':
     resolution: {integrity: sha512-7VkMWOZTIMNkC9+oAL4I5kVlVC5Pq3nQpruZ4E3cLyKaeV95gaUrEilUkvGW71fgsFYCBWAmOZ3KpM4ux0j0zA==}
 
+  '@iconify-json/icon-park@1.2.2':
+    resolution: {integrity: sha512-MdC180Mfz0h9RLTCcT49uKdllynCcG2V0nmggAkTn9pEJig9bOvQzC+05otNSlMjloAPzryj/RCf2P/nHiEeHg==}
+
   '@iconify-json/lucide@1.2.44':
     resolution: {integrity: sha512-lOwXoOtkFm4Zj1duPj5xqhPKKMUvxVRMfIHi0YDfwLjEEgrhzsJZ4JCpE119L8P8p6zi4on4b9cPZdVXCUuDoQ==}
+
+  '@iconify-json/material-icon-theme@1.2.13':
+    resolution: {integrity: sha512-hm3Fv6IMoRVa18/2KGXYo9XYjOVARv74LLwzBxRAtL0/K6x/xjjh6rDFlJUn/OwULPHYH1USVqmct79VmfCcEw==}
 
   '@iconify-json/material-symbols@1.2.21':
     resolution: {integrity: sha512-78o99N3oYeWY91EvZDl5bAPSPtO3rgkPwuOfgk4iBLbpb2peE6ueZFiMA/RURpy8jf4Pyt9rUtjP34UJIkVAcA==}
@@ -422,8 +467,23 @@ packages:
   '@iconify-json/noto@1.2.3':
     resolution: {integrity: sha512-YvsF8je31tPUAkhXw+aydVlmF5LOTNGRE5foOdsZVuniymr4r4020JUN9Kc/i2eOqmHDodBKmX62Um4+o8c6UQ==}
 
+  '@iconify-json/openmoji@1.2.9':
+    resolution: {integrity: sha512-h7PlQmNLghbNfoZyu87BRygWrEZmgqrCf3frJtq/L279njH4xnyJ2AnDyn5IUGicjbxUdgy4dyT4IIDWiYgKUw==}
+
   '@iconify-json/qlementine-icons@1.2.6':
     resolution: {integrity: sha512-jUKUGXrXXjUw7rVBEzCeKco9gq03yRGmhxVP9n1A3YyCRWOmxoxotXDAgQIdeHJNvD8TyO0tu2LrS1oLtQ+doA==}
+
+  '@iconify-json/skill-icons@1.2.0':
+    resolution: {integrity: sha512-5zlPrzF5pelV1wut7C88zmAiYONvGxvFw11dXW1Pr1oIhUOtYhC7x3zkErSTFkyZ3m5fEgcEUrcO1W3UhNJVpw==}
+
+  '@iconify-json/streamline-stickies-color@1.2.0':
+    resolution: {integrity: sha512-9WI1unnFp0xOnCHEY4KXsZWt0tCkyjQcL7qvySQ/6zOHQTSAYDVvcy8uPqgu+dyWJXdVULTPWcjOSPjeQ9O6ow==}
+
+  '@iconify-json/streamline-ultimate-color@1.2.0':
+    resolution: {integrity: sha512-7RuZmOOMcSsPz80dG4T8Hemlmy16Bx9On5Um0Zgz+LCJsFqReamvN4r7UdY4vOjz35Q/Msi6qlEajV5oMNSwnw==}
+
+  '@iconify-json/twemoji@1.2.2':
+    resolution: {integrity: sha512-ckWEY5KhIQgdFd9VGvfhecTtYUx3ihXycwlZcEws87LxuvIThMHNBCblrQQ5afhbGMfg21dF+z9F+ODMRDYHMg==}
 
   '@iconify-json/vscode-icons@1.2.21':
     resolution: {integrity: sha512-velkIWAZRxvM9VuhkVeD6obyw0UXjTFk7lqcaxIzY+X7lXx2+yX2MoMbIwgpH3PbgqjvymS/SujBb4aWYcfmhw==}
@@ -5554,6 +5614,18 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/emojione-v1@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/emojione@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fluent-color@1.2.15':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/fluent@1.2.21':
     dependencies:
       '@iconify/types': 2.0.0
@@ -5574,7 +5646,15 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/icon-park@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/lucide@1.2.44':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/material-icon-theme@1.2.13':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -5590,7 +5670,27 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/openmoji@1.2.9':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/qlementine-icons@1.2.6':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/skill-icons@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/streamline-stickies-color@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/streamline-ultimate-color@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/twemoji@1.2.2':
     dependencies:
       '@iconify/types': 2.0.0
 
