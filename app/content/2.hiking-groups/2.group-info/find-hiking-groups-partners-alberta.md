@@ -1,7 +1,7 @@
 ---
 title: Find Hiking Groups/Partners, Alberta
 description: Find Hiking Groups/Partners, Alberta's Purpose
-icon: 'lucide:facebook'
+icon: 'streamline-ultimate-color:facebook-logo'
 ---
 
 ::card-group
