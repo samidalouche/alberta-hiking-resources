@@ -68,7 +68,7 @@ The rest of this section describes the rationale for each of the rules that are 
 
 > Let’s keep it simple and focused: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
-**Why do we have this rule in place?** The reason Alberta Hikers Together has been created because the other groups made it harder to organize or join events as the meetup posts were diluted in the amount of other information being provided. So the idea is to keep this group hyper-focused on finding hiking partners. 
+**Why do we have this rule in place?** The reason Alberta Hikers Together has been created is because the other groups made it harder to organize or join events as the meetup posts were diluted in the amount of other information being provided. So the idea is to keep this group hyper-focused on finding hiking partners to avoid diluting the meetup posts/events. 
 
 Posting pictures / trip reports is exclusively encouraged for people who post their hikes on the group, as it helps to build excitement about joining the upcoming trips. [Inspirational Groups](/hiking-groups/by-category/inspirational) and groups providing [practical information](/hiking-groups/by-category/practical-information) are a better match for people who want to share pictures of their adventures without the intent of sharing the trail.
 
