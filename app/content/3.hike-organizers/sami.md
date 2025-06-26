@@ -375,7 +375,7 @@ It’s tricky right now to find trails that are actually ready… but we’re op
   • 🏔️ Mountain forecast of a mountain nearby [5]
 
 🛠️ Logistics
-  • 🔊 Bring your Rocky Talkie if you have one -- Set it up to Channel 06, Privacy Code (CT) 02.
+  • 🔊 Bring your Rocky Talkie if you have one — Set it up to Channel 06, Privacy Code (CT) 02.
   • 📵 We’ll lose cell service Friday afternoon — let’s coordinate before, or just meet at the trailhead
   • 📲 Message me if you’re interested and I’ll add you to the private chat group 🔒👥
 
