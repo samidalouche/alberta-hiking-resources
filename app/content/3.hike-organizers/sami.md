@@ -31,292 +31,369 @@ icon: 'gis:hiker'
   ::
 ::
 
-## Purpose
+## 🎯 What’s This All About?
 
-If you are reading this page, chances are that you followed a link from one of my invites for hiking, and are wondering what to expect from the hike.
+If you’ve landed on this page, chances are you followed a link from one of my hiking invites 👣📨 and you’re wondering:
+“What exactly am I signing up for here?”
 
-**Important to keep in mind**: Unlike many others, I don't vet people to decide whether they have the skills, experience and fitness the join my hikes. 
-Instead of an "interview process", I favour shared responsibilities between you and me:
-- I attempt to best represent my hiking philosophy so you can judge whether there is a good fit, based on how you like hiking.
-- You do all the necessary research to determine whether you are comfortable and experienced enough to attempt the hike/scramble. 
-  Please point to me anything that looks fishy with my plan, as I'm no expert, I could be pushing for something that doesn't make sense.
-- You decide what equipment, gear, maps, and amount of food & water you need to bring in order to tackle the hike/scramble.
-- If you have doubts or questions, reach out to me and we will sort it out. 
-- Don't let perfect be the enemy of good, all we are trying to do here is to get rid of outlier outcomes where there is an obvious misfit.
+Well — welcome! 😄🧭 Let’s get into it:
 
-## What to expect when joining Sami's hikes
+⸻
 
-In brief, a typical Summer Sami hike on a nice, hot, sunny day, looks like the following:
-- **Early start**: 5am for a regular day at the trailhead, and sometimes **earlier for special hikes** to give plenty of time for breaks without rushing. 
-  Spring and Fall hikes often start at 7am instead, as the temperature/weather isn't conducive to stopping all the time 
-  for pictures and taking extended breaks.
-- **Start on time**: To be respectful of everyone who shows up on time, we start the hike at the time that is advertised. 
-  Keep in mind that the meeting time is always 15 minutes before the start. So if you are 5 minutes late, you are not 5 minutes late, 
-  you are 20 minutes late. 
-- **Lots of pictures along the way**: When the weather / conditions are right, I take a lot of pictures. 
-  If you hate picture breaks, you are 
-  more likely to enjoy my company when the weather is cold (the colder, the less pictures). 
-  If you do love picture breaks, make sure to wear flashy colors so we can have good shots!
-  I always share my pictures in full quality/resolution after the hike.
-- **Moderate/intermediate pace**: Unless stated otherwise, I aim to go at a moderate pace for most of my hikes. The hard part about this point is that 
-  everyone seems to have a different definition of "moderate pace", so it is a bit hard to accurately describe. 
-  My version of "moderate" pace has a tendency to turn into a "fast" pace on the "boring" sections (approach roads without views, etc), and into a slow pace because of pictures
-  when the views are amazing and the sun welcomes us. 
-- **Long break at the top**: When the weather is good, I love spending **several hours** at the summit. It's not everyone's thing, so it makes it even more important to mention.
-  If you don't like long breaks, I have two options for you:
-  1. I don't insist on the group staying together the whole time, so it is perfectly fine if part of the group splits to complete the hike. 
-  2. Join the early/late season hikes when the temperature is colder. I don't insist on long breaks when it's freezing outside.
-- **Finish the hike at a reasonable time**: I usually camp on Saturday nights, and hike the next day. So I'm usually trying to complete the hike by 5pm, to give a little time 
-  for a cold dip (always bring a swimming suit) and a beer with the team. I don't mind finishing a bit later on Sundays, as I'm not trying to beat the traffic, 
-  but rather let it go and get back home after the rush.
+🧠 No Interviews. Just Trail Vibes.
+
+Unlike some organizers, I don’t run a vetting process — no fitness tests, no gear checklists, no “are-you-worthy-of-this-hike” quizzes 📝🙅‍♂️
+
+Instead, I believe in shared responsibility and good communication 🤝💬:
+
+⸻
+
+🔄 Here’s the Deal:
+- 🧭 I do my best to describe my hiking style and trip philosophy so you can decide if it feels like a good match 💛🥾
+- 🔍 You do your research to see if the hike fits your skills, experience, and comfort level.
+(And if my plan seems fishy 🐟 or sketchy ❓— call me out! I’m no expert, just a stoked hiker with a spreadsheet.)
+- 🎒 You choose your own adventure gear — food, water, maps, spikes, rainbow windbreakers — it’s all up to you 🗺️🥪💧
+- 🤔 Got questions or doubts? Just message me! I’m always down to chat and sort things out.
+- 🎯 The goal isn’t perfection. We’re just trying to avoid those rare “oops-this-wasn’t-a-fit” moments 🚫🤕
+
+⸻
+
+So if you like your hikes with honesty, flexibility, and a sprinkle of shared accountability…
+Welcome to the crew 🏕️🫶
+
+Let’s plan smart, hike happy, and enjoy the wild together! 🌄✨
 
 
-### Your Safety, Your Responsibility
 
-Please note that I am not a professional guide. 
-I have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. 
-Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
+## 🥾☀️ What to Expect on a Classic Sami Hike
 
-More specifically:
-- Don't take for granted that I know what I am doing. I have some ideas/plans, but these may not be realistic/possible under the current conditions, or at all. 
-- Do your own research to get your own feel of the adventure
-- Make sure you have all the maps and directions that you need. 
-- Plan the adventure like if the group will need to split.
-- Make sure to bring enough food and water. Don't forget that on nice, sunny days, we will take extended breaks, so you will consume more water than usual.
-- Depending on the conditions, make sure to bring the gear you need (helmet, spikes/crampons, ice axe, etc). Do not hesitate to ask the rest of the group what gear they are considering bringing.
-- Things don't necessarily go according to plan. Bringing a headlight and warmer clothes is never a bad idea.
+So, you’re thinking of joining a Sami hike? Woohoo! 🎉
+Here’s what a typical Summer Sami Special™ looks like when the sun is shining and the vibes are high:
 
-### Staying all together vs splitting the group
+⸻
 
-One of the subjects that seems to create division is whether the group has to stay together all the time, or if it is fine to split the group.
+⏰ Early Starts = Maximum Fun
+- 5:00am at the trailhead is the norm 😴🌄 — sometimes even earlier for those extra-spicy objectives 🏔️🔥
+- In Spring/Fall, we sleep in (a little) — usually around 7:00am starts, since it’s too chilly for long snack + photo breaks ❄️
 
-My take is that philosophically, I'm perfectly fine with splitting. Especially with bigger groups (7-9), it often happens that 
-different people end up adopting a different pace, and that things are simply more harmonious if we let the group split rather than artifically 
-keep it together. Live, and let live! Whatever moments shared together are good moments that don't need to last for the entire hike. 
-Sharing part of the hike is better than not sharing the hike at all.
+⸻
 
-Also part of the debate is if someone overestimated their ability to complete a hike/scramble safely, is it fair to ask the whole group to turn back? 
-In this particular case, my personal take is unless the person's life is in danger, we should try to find practical arrangements for the 
-person to either turn back or wait for the group. Things can get tricker if the hike is a loop, though.
+🚦 Starts On Time, Every Time
+- Respecting the early birds 🐦 means we start at the posted time!
+- Meeting time = 15 mins before the hike begins.
+So if the hike starts at 5am and you roll up at 5:05… you’re actually 20 minutes late. Oops! ⏳😅
 
-However, in practice, some things have to be considered:
-- If the hike has a restriction on the minimum number of people in the group (e.g. Parks Canada bear safety), then splitting a smaller group may not be an option
-- Out and back vs loop. If going out and back, it is less stressful to leave some people behind and wait for them at the summit as the group is necessarily coming back anyways. 
-  But what about loops? How confident are we that the people behind can safely complete the loop or turn back?
-- Maps and directions: Everyone in the group is **expected** to have all the maps and directions. But are we sure that the people we leave behind indeed do have all the information?
-- Technicality of the hike/scramble vs experience of the team: is the hike comparable to a "walk in the park", or is it a more intense scramble?
-- Are there lots of other people on the trail?
-- Car pooling arrangements are also something to consider when splitting the group.
+⸻
 
-And in case you are wondering, these guidelines are symmetric. It's not just "other people" who have to wait for the group to come back, it also happened to me that I didn't feel comfortable pushing
-to the summit because of the conditions, and waited for the group to summit and return.
+📸 Picture Breaks Galore
+- When the sun’s out and the mountains are sparkling ✨, I’m on a photo frenzy. Expect lots of stops!
+- Hate photo breaks? Join a colder weather hike — the colder it is, the fewer pics I take 😬📷
+- Love being trail-famous? Wear bright colors and strike a pose — I share all pics in full-res after! 🎨👯‍♂️🖼️
 
-If anyone joining my hikes feels strongly about staying together all the time, it is best to discuss it before the hike to align the expectations. Otherwise, we will just try to use common sense depending
-on the situation to ensure that we don't split the group in a dumb way.
+⸻
 
-## What to expect when joining a multi-day camping or hut trip
+🐢🏃‍♂️ “Moderate” Pace — Whatever That Means
+- I say moderate… but everyone defines that differently 🤷‍♂️
+- Boring trail? We zoom 🛣️💨
+Epic views? We slow to a crawl for photos and oohs and ahhs 🐌📸🌄
+- If the event is listed as “fast,” I mean it! Otherwise, expect a mixed rhythm that adapts to the trail.
 
-First of all, let me make it clear that the multi-day trips that I enjoy the most are the ones where nobody comes with the expectation of doing everything with everyone.
-In my opinion, the best trips happen when everyone feels free to plan their days the way they prefer, and that we happen to do *some* of the hiking/scrambling together
-when the desires and plans are compatible. And regardless of what everyone decided to do during the day, we can enjoy some quality time and share some food at night around a fire.
+⸻
 
-Here are some of the factors motivating this:
-- Each person has done different hikes in a given area.
-- Everyone has their own preferences of pace, amount of breaks, start time, etc. My preferences are explained in the [previous section](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) , but vary based on the weather, etc.
-- Different people don't always need the same amount of rest days on longer multi-day trips. 
-- We don't need to match 100% to do a trip together. But make sure to express your preferences/concerns first.
-- Even when [my hiking preferences](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) don't match yours, average to bad weather will usually modulate these preferences towards less extreme ones (start later, shorten the breaks, etc), which might make them closer to yours, so it's impossible to know ahead of time (at least for me) what the "ideal" plan would be.
+🧀🛋️ Summit = Lounge Zone
+- If the weather’s nice, expect to chill for hours at the top 😎🧺
+Food, naps, views, deep chats — it’s a summit hang, not a summit sprint.
+- Not a fan of long breaks? You’ve got options:
+	1.	👋 It’s cool to split off early if you want to head down.
+	2.	🧊 Come on colder-season hikes — I’m not a summit-sitter when it’s freezing!
 
-Also worth highlighting that as far as I am concerned, weather and smoke conditions play a big role in influencing my plans:
-- The nicer / warmer / sunnier the weather is, the earlier I'll start, and the more breaks I'll take. And I will usually want to pick the "best" hikes for the "best" days.
-- Smoke means that I don't hike. I will use the smoke days as rest days and 100% enjoy the nice days instead. 
-- Cloudy days are days for the more average hikes.
-- Rain means that I will need someone who acts as a cheerleader to convince me that it's a great idea to climb 1200mEG to enjoy zero view ;-)
+⸻
 
-Finally, the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) section is definitely relevant here.
+🏁 Finishing with Style
+- Goal = wrap up by 5pm, especially on Saturdays so we can:
+- 🏊‍♂️ Go for a cold dip
+- 🍻 Celebrate with a post-hike beer
+- 🏕️ Still have time to chill at camp and get ready for the next day
+- On Sundays, I’m happy to finish later — let traffic pass and ride the mellow wave home 🚗💤
 
-## Frequently Asked Questions
+⸻
 
-### Why do your hikes start so early?
+Ready for adventure? Bring good vibes, bright gear, and maybe a snack to share 😄👟🌈
+See you on the trail! 🏔️💛
 
-Different people are willing to make different compromises to enjoy their hiking days.
+### ⚠️ Your Safety = Your Responsibility
 
-In my case, the priority goes to:
-- Taking my time during the hike with plenty of picture breaks.
-- Enjoying extended breaks at the summit (several hours during the core of the summer).
-- Finishing early (~5pm) to enjoy a beer and a cold dip with the rest of the team, and have enough time to eat and go to bed early to be ready for the next hike.
-- Having extra room for when things don't go exactly according to plan. If you're looking for days that go according to plan, I'm not your guy.
+Just a friendly heads-up: I’m not a pro mountain guide 🧢❌⛰️.
+I’ve got average navigation skills, decent mountain sense, and a big love for adventure — but you are 100% in charge of your own safety, prep, and decisions 🧭🥾
 
-As a result, I simply start the hike early-enough to be able to achieve all that. 
+Think of me as your enthusiastic trail buddy, not your personal GPS or mountain guru 🤓✨
 
-To give realistic examples of what early starts mean for longer day hikes, 
-- We started [Pharaoh Peak](https://www.alltrails.com/trail/canada/alberta/pharaoh-peak--2) at 4am and caught the sunrise on Healy Pass around 7am (August 2022)
-- We started the [Skyline Trail](https://www.alltrails.com/trail/canada/alberta/skyline-trail-jasper) at 5am (September 2023).
+⸻
 
-And for what it's worth, I advertised both of these hikes as "FAST" hikes, not "moderate pace" ones.
+📌 Here’s what that means in practice:
+- ❗ Don’t assume I fully know what I’m doing — I often have plans, but Mother Nature might have other ideas ☁️🪨
+- 🔍 Do your own research — read up, map it out, and know what you’re getting into
+- 🗺️ Bring your own maps and route info — be ready in case we need to split or adjust plans
+- 🧃 Pack food + water like we’re doing an epic — sunny days + long breaks = thirstier hikers 😅☀️
+- 🪖 Bring the right gear (helmet, spikes, axe, whatever the mountain calls for). Not sure? Ask the crew!
+- 🔦 Plans change! Extra layers and a headlamp can go from “nice to have” to “thank goodness I brought this” real fast 🌄🥶
 
-### Why don't you wait for people who are late?
+⸻
 
-When I create an event, I set the meeting time 15 minutes before we actually start the hike, to give people enough time to put their boots on, go to the washrooms, adjust their gear, etc.
+The mountain doesn’t care how confident we sound — so let’s all come prepared, stay humble, and have each other’s backs 💚🏕️🧠
 
-So, when someone doesn't show up by the time we start the hike, we have technically already waited for 15 minutes:
-- Isn't 15 minutes a fair time to wait for late people? 
-- If not, what is a fair amount of time to wait for?
-
-Factors motivating this system:
-- Consistent/easy to grasp rules regardless of the availaibilty of cellular network at the trailhead to receive messages about people behind late or not coming. 
-- Fairness to people who show up on time. Especially with early starts when the temperature is often cold even during the summer.
-- Without cellular connectivity, it isn't even possible to know whether people will join or whether they cancelled.
-
-### What groups do you advertise your hikes on?
-
-I first create an event on [Alberta Hikers Together](https://www.facebook.com/groups/406674690939732) (public group, so events can be seen by anyone), and then share it to:
-- [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) (private group)
-- [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628) (private group)
-
-There is an entire section on [meetup groups](/hiking-groups/by-category/meetups)
-
-### Why don't you vet people who join your hikes like most other organizers do?
-
-- I don't see myself as a full-fledged "organizer". I just go hiking, and I am happy to share (part of) the trail with others. 
-- I suspect that the meetup organizers who have a vetting process in place spend a non-negligible amount of time on that, which I would like to avoid for as long as possible.
-- So far, I'm running at a pace of roughly one potentially-avoidable incident worth mentionning per summer (May-Nov), and so far, these incidents have not been catastrophic. 
-  Is it worth spending a lot of time vetting people to avoid these rare and minor incidents? Would my vetting process be so good that I would avoid these incidents anyways?
-- Some of the incidents were arguably partly my fault where I set the wrong expectations. So I hope that by being more mindful about setting expectations, it would solve part of the problem.
-- Even if I wanted to vet people, how good would I be at that? I recently moved to Alberta, and don't have that much experience with the mountains.
-- Honestly, most of the people I have hiked/scrambled with are more experienced and do better research than me anyways. So I would feel a bit of an imposter.
+We’ll have way more fun knowing we’ve got the essentials just in case! 👣🎒
 
 
-### I would like to join one of your hikes, but can't commit now
+### 🧩 Sticking Together vs. Splitting the Group
 
-Some organizers take it personally if someone says they would come but doesn't. I don't. If you can come, that's great. If you can't, then see you next time!
+Ah yes — the great trail debate: Should we all hike together like one big happy trail family? 👣👨‍👩‍👧‍👦
+Or is it cool to split up if people are vibing at different paces? 🤷‍♂️🏃‍♀️🐢
 
-If there's a chance you won't make it, just let me know you're a maybe, and avoid making car pooling arrangements with others that mess up everyone's plan if you can't come.
+Here’s my take:
+I’m 100% chill with splitting — especially in bigger groups (7–9 folks). It’s totally normal for different hikers to settle into different paces 🚶‍♀️🏃‍♂️ and honestly, forcing a group to move as one mega-hiker can make things feel clunky and weird.
 
-### Can we carpool from Calgary?
+✨ Live and let hike! ✨
+Sharing part of the trail is still sharing something special — even if we don’t stick together the whole way 🏔️🧡
 
-I often camp on Friday and Saturday nights from end of June to the beginning of September, so it is not possible for me to carpool on these weekends.
-When I do the return trip from Calgary, we can generally carpool from the [Petro Canada at the intersection of Highway 1 and 22](https://maps.app.goo.gl/MiFTBkwnhJCzxCEe7).
+⸻
 
-However, I do create a group chat for every hike, feel free to use it to look for car pooling opportunities.
+🧭 But What If Someone Overestimated the Hike?
 
-### What is the typical number of people who participate to your hikes?
+It happens — we’re all human (and occasionally overconfident 😅).
+If someone’s not feeling it, my take is: unless it’s a safety emergency, we should look for smart, kind options 💡❤️ — like having them chill at a scenic spot while the group continues, or turning back safely.
 
-Most of my hikes are 3-4 people hikes. It does happen that we have bigger groups (7-8).
+🔁 Loops are trickier than out-and-backs, so let’s think things through before we split.
 
-### Why do you post your hikes so late in the week?
+⸻
 
-The more unreliable the weather and conditions are (late snow, smoke, etc), the more I wait before posting a hike. I will often keep (what I consider) the best 
-and longest hikes for when the weather is good/perfect, and adjust the objectives when I don't get the weather I wish.
+🧠 Things to Keep in Mind if We Do Split:
+- 🐻 Minimum group size rules (hello, Parks Canada bear safety!) mean splitting may not be allowed
+- ↩️ Out-and-backs are easier to manage — we’ll be returning the same way anyway!
+- 🗺️ Everyone should have maps + route info — don’t assume someone else has it!
+- 🧗‍♂️ How technical is the hike? A mellow walk or a spicy scramble?
+- 🚶‍♀️ Is the trail busy or are we totally alone in the wilderness?
+- 🚗 Carpool chaos is real — don’t leave your ride behind without a plan 😬
 
-So that can lead me to post a Saturday hike on Thursday night or Friday afternoon. If you would like a heads up of what I am considering for the week-end, feel
-free to reach out to me. 
+⸻
 
-### Do you keep a log of your hikes?
+BTW — this goes both ways! 💯
+There have been times when I didn’t feel good about pushing for a summit and waited for the group to go up and come back. It’s all about mutual respect and using common sense 🧘‍♂️🌤️
 
-Yes. You can find it in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Bi9QlnNzdtOEetXOotyN7IZTlS3qCa3vKy4vbVL_n-w/edit?usp=sharing).
-Among others, the spreadsheet also contains links to the corresponding Garmin activities. The portal doesn't provide the GPS traces, but 
-don't hesitate to reach out if you want some traces, I can share them with you.
+If you’re someone who really prefers sticking together the whole time, no problem! Just let me know before the hike so we can set expectations and avoid awkward trail drama 🗣️🤝
 
-### Do you hike when it's smoky?
+⸻
 
-I don't usually hike or scramble when it's smoky. I will usually cancel an event if the smoke forecast changes drastically.
-However, if the rest of the group still wants to do the hike/scramble, feel free to do it without me.
+Bottom line: We use our brains, our hearts, and our GPS 📍💚🗺️ — and try not to split the group in silly ways. Deal?
 
-### Can we go camping together?
+## 🏕️✨ What to Expect on a Multi-Day Camping or Hut Trip
 
-Sure! Check out the [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) section.
+First things first — my fave multi-day trips are the chill, flexible, go-with-the-flow kind 😎🌄. That means: no pressure to do everything together. Seriously.
 
-Reach out to me in November/December every year, when I make the booking plans for the summers. The reservations usually launch in January for the national parks.
-If you're more of a last-minute person, then just watch for my posts in [the groups I usually post to](/hike-organizers/sami#what-groups-do-you-advertise-your-hikes-on), 
-I'll usually advertise when someone cancels and we have room for an extra car/tent.
+The best vibes happen when everyone feels free to do their own thing by day — hike solo, chill at camp, chase peaks, nap in a meadow 💤🌼 — and then come together in the evening for laughs, shared food, and cozy campfire hangs 🔥🍲🌌.
+
+Here’s why I love this style:
+- 🗺️ Everyone’s explored different trails — we’ve all got different “must-dos”
+- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes), but I adapt depending on the vibe & weather 🌦️
+- 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪
+- 🤝 We don’t need to match 100% — just be upfront about your style/preferences!
+- 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
+
+☀️🌧️ How Weather & Smoke Shape My Plans:
+- Bluebird skies + warm temps? Count me in for early starts and long, leisurely summit hangs 😍📸
+- Smoky skies? I’m out. Those are rest/snack/book/lake float days 😷📖🛶
+- Cloudy but dry? Let’s hit the mid-tier hikes — still fun, just a little less photogenic ☁️
+- Rainy? You’ll need to be my motivational hype squad to get me up 1200m for a whiteout summit 😂⛰️☔️
+
+⸻
+
+🎯 Bottom line: We don’t need to do everything together to have a great trip — just be kind, be clear, and be open to adapting. That’s the real summit 🧡
+
+And don’t miss the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) — it totally applies here too! 📚👀
 
 
-### Can you provide the template that you use to create FB events?
+## 🏕️❓ Frequently Asked Questions
 
-Sure! Here are a couple:
+### ⏰ Why do your hikes start sooo early?
 
-Event 1:
+Ah yes, the infamous alpine start 🌄 — while some folks are hitting snooze, I’m already tying my boots in the dark 😴🥾
+
+Here’s the deal: different hikers have different priorities. Mine? I like to squeeze the juice out of every hiking day 🍋👣
+
+Here’s what I’m aiming for:
+- 📸 Plenty of photo breaks — yes, we’re hiking, but also yes, you will be asked to pose on a rock like a majestic mountain goat 🐐✨
+- 🏔️ Long summit hangs — think hours at the top, soaking in views, sunshine, snacks, and trail tea 🧃☀️🧀
+- 🍻 Early finish (~5pm) — so we can celebrate with a cold dip 🏊‍♂️ and a cold beer 🍺 (or both!), followed by real food and early zzz’s 😴
+- 🛠️ Wiggle room for chaos — because let’s be real: plans are great until the trail says “plot twist!” 🤪⛰️
+
+To make all that magic happen, we start early. Like, really early.
+Real-life examples:
+- 🌅 Pharaoh Peak: started at 4am, caught sunrise at Healy Pass 🌄 (August 2022)
+- 🏞️ Skyline Trail: started at 5am, because Jasper sun waits for no one 😎 (September 2023)
+
+Oh — and just so you know, both of those were listed as “FAST” hikes 🏃‍♀️💨, not your average leisurely strolls. Pace yourself accordingly!
+
+
+### 🕒 Why don’t you wait for people who are late?
+
+Great question! When I post a hike, the meeting time is actually 15 minutes before we hit the trail 🥾⏳ — that buffer is built in for bathroom breaks 🚻, gear tweaks 🎒, and tying those stubborn boot laces 👟.
+
+So if we start hiking “on time,” we’ve actually already waited 15 minutes ⌛ — which feels like a fair grace period, right?
+- Is 15 minutes a fair wait? I think so! 🤷‍♂️
+- If not… what is? 🤔 Should we bring a stopwatch and take votes? 😄
+
+Here’s why I stick to this system:
+- 📶 Many trailheads have no cell service, so waiting around for a text that never comes just doesn’t work.
+- 🧊 Early mornings can be chilly, and it’s not fair to leave the punctual folks shivering while we wait.
+- ✅ It keeps things simple, consistent, and respectful of everyone’s time — especially at 4am when we’re all half-asleep anyway 😴☕️
+
+Bottom line: I love hiking with people… but I also love starting on time. If you’re ever unsure, message me ahead of time or aim to arrive a little early 😋
+
+### 📣 Where do you post your hikes?
+
+I usually kick things off by creating an event on [Alberta Hikers Together](https://www.facebook.com/groups/406674690939732) 🏞️ — it’s a public group, so anyone can see and join the fun! 🎉👀
+
+Then I share it with a few other awesome trail-loving communities:
+-	🔒 [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) – a private group full of friendly folks looking to hit the trails.
+-	🔒 [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628) – for the mountain goats and rock scramblers among us 🐐🧗‍♀️
+
+Also! There’s a whole section on [meetup groups](/hiking-groups/by-category/meetups) if you’re curious about more ways to connect and hike with others 📅👣💬
+
+
+### 🤔 Why don’t you “vet” people like other organizers do?
+
+Good question! Here’s the deal:
+- I don’t really see myself as a capital-O Organizer 🙅‍♂️📋 — I’m just someone who loves hiking and enjoys sharing the trail with cool humans 🥾❤️
+- Some organizers go full interview-mode before each hike… and honestly, that sounds like a lot of admin for my dirtbag lifestyle 😅⛺️. I’d rather spend that time chasing peaks than reading bios.
+- So far, my track record is: one “oops” moment per summer (May–Nov) 🤷‍♂️ — nothing catastrophic, just the kind of thing you laugh about after snacks and rehydration 🧃🍫
+- Plus, a few of those oopsies were kinda on me — setting better expectations is something I’m working on 👀📝
+- And even if I wanted to vet folks… how good would I be at it? I’m still pretty new to Alberta 🐣⛰️ and learning this whole mountain game one trail at a time.
+- Honestly? Most of the people I hike with are way more experienced and better prepared than me 🧠📚. Sometimes I feel like I’m tagging along on their hike!
+
+So yeah — no gatekeeping here. Just vibes, transparency, and good-faith effort. Let’s hike, learn, and laugh it off together 💬👣🔥
+
+
+### 🤷‍♀️ I want to join a hike but can’t commit just yet…
+
+No worries at all — I’m super chill about it! 😎 If you can make it, awesome! If not, no hard feelings — catch you on the next adventure! 👋🥾
+
+Just a tiny favor: if you’re a maybe, please give me a heads-up 🙋‍♂️ and try not to lock in any carpool plans 🚗🚫 that could throw a wrench in everyone else’s groove. Sharing is caring, after all! 💖✨
+
+### 🚗 Can we carpool from Calgary?
+
+I’m usually out camping under the stars 🌌 on Friday and Saturday nights from late June through early September — so carpooling on those weekends isn’t in the cards for me. 🏕️✨
+
+But when we’re heading back from Calgary, I usually rally the troops to meet up and carpool from the trusty old [Petro Canada at Hwy 1 & 22](https://maps.app.goo.gl/MiFTBkwnhJCzxCEe7) ⛽️🚙. Perfect spot to fuel up and hit the road together!
+
+Plus — every hike gets its own group chat 📱💬, so talk to you in there to find your carpool crew, share rides, or even trade snacks for the trip. 🥨🍫 Let’s make the ride as fun as the hike!
+
+### 🤔 What’s the usual crew size on your hikes?
+
+Most of my adventures roll with a cozy crew of 3-4 awesome humans 👫🥾— just the right vibe for good chats and laughs 😄.
+Every now and then, we get a bigger party going — think 7-8 trailblazers strong! 🎉👣 More fun, more stories, more pictures 📸 !
+
+### 🤔 Why do you post your hikes so late in the week?
+
+Great question! Here’s the deal: I’m in a committed relationship with good weather 😎☀️ — and I don’t like getting ghosted by last-minute snowstorms ❄️ or surprise smoke 😷🔥.
+
+The more unpredictable the conditions (hello, June and July!), the longer I wait to lock in the plan. I like to save the big, epic hikes 🏔️💪 for those perfect bluebird days 🌈, and swap in more chill or flexible options when the forecast plays hard to get.
+
+So yeah… sometimes a Saturday hike doesn’t show up until Thursday night or even Friday afternoon 🕵️‍♂️📲. If you’re curious what’s cooking before I post, just shoot me a message — happy to give you a sneak peek 👀👟🎒
+
+### 📝 Do you keep a log of your hikes?
+
+You bet I do! 🤓🥾
+Welcome to my treasure trove of trails — check out [the spreadsheet here](https://docs.google.com/spreadsheets/d/1Bi9QlnNzdtOEetXOotyN7IZTlS3qCa3vKy4vbVL_n-w/edit?usp=sharing) 📊✨
+It’s packed with all the goodies: hike dates 📅, peak names 🏔️, stats 📈, and links to my Garmin adventures ⌚️💥
+
+The Garmin portal doesn’t show GPS tracks directly (rude, I know 😤), but if you want GPX files 🧭 or route info 🗺️, just give me a shout! I’m always happy to share the trail love 💌🌲
+
+
+### 😷 Do you hike when it's smoky? 
+
+Not really my vibe — I like my lungs the way they are! 💨🫁
+If the smoke rolls in and the forecast takes a turn, I’ll usually cancel the hike or scramble.
+
+That said, if you’re feeling brave and still want to go full mountain goat without me, go for it! I’ll be cheering you on from somewhere with cleaner air (and probably snacks).
+
+### ⛺️ Can we go camping together?
+
+Heck yes! I’d love that.
+
+Start by checking out [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) — it’s full of helpful info and a few spicy surprises. 🌶️
+
+If you’re a planner, hit me up in 📅 November or December — that’s when I start scheming and dreaming up 🌞 summer adventures. (Most of the national park bookings go live in January — it’s a race, and we’re in it to win it.)
+
+If you’re more of a last-minute butterfly 🦋, no worries — keep an eye on [the groups I post to](/hike-organizers/sami#what-groups-do-you-advertise-your-hikes-on). Sometimes magic happens: someone cancels, and 💥 boom! 
+ There’s space for you to join the fun.
+
+### 🥾  What is a perfect Summer Sami Hike?
+
+You’ll know it’s a true Summer Sami Hike when the magic recipe comes together just right:
+-	🌞 Weather: That dreamy summer sweet sun, bluebird skies, and zero wildfire smoke in the air. Yes please.
+-	🏔️ The Big Objective: A deliciously ridiculous goal — jaw-dropping views and a Type 2 fun sufferfest that leaves everyone's legs and soul equally wrecked (in the best way).
+-	🎉 The Vibe: An amazing crew that turns a hike into a rolling party — full of laughs, deep chats, trail weirdness, and unforgettable memories.
+-	⏰ Alpine Start O’Clock: If it’s not before 4am, is it even a real Sami hike? Nope. Bonus points for starting in the dark and watching the sun rise from high up.
+-	📸 Photoshoots Galore: We’re talking model behavior here — goofy poses, epic action shots, candid trail joy, and more camera clicks than summit steps.
+-	🍻 Post-Hike Joy: Done early enough to celebrate — cold drinks, lakeside dips, shared snacks, and stories flowing around a picnic table or campsite fire.
+
+I don’t get to pick the weather (unfortunately), but when the skies look good, I’ll bring the big mountain goals — and yes, that means a very early start. The rest — the crew, the fun, the magic — that’s all you. 🤝 Deal? 
+
+### 🗓️ Can you provide the template that you use to create FB events?
+
+Sure! 
+
 ```
-Participants:
-- Sami
-- Mo Sleiman
+📚 New to Sami’s Hikes? Read the intro [1].
 
-Trail info:
-- AllTrails: https://www.alltrails.com/trail/canada/alberta/old-baldy-peak
-- Bob Spirko: http://bobspirko.ca/Hiking/Kananaskis/OldBaldy/OldBaldy.html
-- We can do the Bob Spirko loop
-- If you have a different, more exciting trail to suggest that we haven't 
-  done and that is reasonably close to Lower Lake Campground 
-  (we camp in Peter Lougheed), we're open to it.
-  It's just hard to find objectives that have a reasonable chance of 
-  being ready these days.
+👥 Participants:
+  • Sami
+  • Mo Sleiman
 
-Time:
-- Meeting time 06h45 at the AllTrails trailhead
-- Start at 07h00 on the dot
-- Intermediate/moderate pace with plenty of photo breaks. Possibly a 1h+ break 
-  at the top if the weather allows it, but there will probably be too much wind 
-  to make that enjoyable, we will see. 
-- Return early/mid afternoon (hopefully) so we can hang out at Upper Kananaskis Lake
+📍 Trail Info
+  • 🗺️ AllTrails [2]
+  • 📖 Bob Spirko [3]
+  • 🔄 We can do the Bob Spirko loop
+  • 💡 Got a more exciting suggestion that’s close to Lower Lake Campground (Peter Lougheed)? Hit us up!
+It’s tricky right now to find trails that are actually ready… but we’re open 👀
 
-After Hike
-- Cold dip and BBQ (What Mo calls the Steak Heaven Party) mid to late afternoon at
-  Upper Kananaskis Lake, hopefully with the sun still out (and not too much wind, is 
-  that too much to ask for?).
-- You're welcome to join us around the camp fire at the Lower Lake Campground after 
-that as well.
+⏰ Time
+  • 🕕 Meet at 06:45 at the AllTrails trailhead
+  • 🚶‍♂️ Start hiking at 07:00 sharp
+  • 🐢 Intermediate/moderate pace with plenty of photo breaks 📸
+  • 🧺 Possible 1h+ summit break if it’s not too windy 💨🤷
+  • 🎯 Aim to return early/mid afternoon, then off to chill mode 😌
 
-Forecasts
-- Accuweather: https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
-- Mountain forecast of a mountain nearby: https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
+🏖️ After Hike
+  • 🏊 Cold dip -- bring a swimming suit 🩳👙
+  • 🥩🍻 BBQ at Upper Kananaskis Lake — aka “Steak Heaven Party” 🥳🔥
+  • ☀️ Fingers crossed for sun, not wind! (Manifesting good weather 🙏)
+  • 🔥 You’re also welcome to join us around the campfire at Lower Lake Campground after 🍫🌌
 
-Logistics
-- Will lose connectivity Friday late afternoon as we will be camping. So let's chat before, 
-  or see you at the trailhead directly.
-- Message me if interested, so that I can add you to the private chat.
+🌤️ Forecasts
+  • 🌦️ Accuweather [4]
+  • 🏔️ Mountain forecast of a mountain nearby [5]
 
-Please note that I am not a professional guide. I have average mountain and navigation skills 
-and you assume all responsibility for your safety, well-being and preparedness. 
-Do your own research to ensure that you know what you are getting into and be prepared 
-to be self-reliant in case we have to split.
+🛠️ Logistics
+  • 📵 We’ll lose cell service Friday afternoon — let’s coordinate before, or just meet at the trailhead
+  • 📲 Message me if you’re interested and I’ll add you to the private chat group 🔒👥
 
-If we haven't hiked together before, you will most certainly want to check out this page 
-that highlights what you can expect from my hikes: https://www.alberta-hiking-resources.org/hike-organizers/sami
-```
+⚠️ Quick Safety Note
 
-Event 2:
-```
-Participants:
-- Sami
-- Mo Sleiman
+I’m not a pro guide — just a stoked hiker with average mountain + nav skills 🧭😄
+You are fully responsible for your safety, prep, and gear. Please:
+  • Do your own research 🧠
+  • Bring proper gear 🎒
+  • Be self-reliant if the group splits 🧍‍♂️🧍‍♀️
 
-Trail info:
-- AllTrails: https://www.alltrails.com/trail/canada/alberta/kent-ridge-north
-- We don't really know whether the trail is ready, so we will probably have some surprises.
-  If you know it's not doable yet, please let us know so we attempt another one :)
+📚 New to Sami’s Hikes?
 
-Time:
-- Meeting time 07h45 at the AllTrails trailhead
-- Start at 08h00 on the dot
-- Intermediate/moderate pace with plenty of photo breaks. Possibly a 1h+ break at 
-  the top if the weather allows it. 
+Start here → https://www.alberta-hiking-resources.org/hike-organizers/sami
 
-After Hike
-- Cold dip, bring a swimmit suit!
+[1] https://www.alberta-hiking-resources.org/hike-organizers/sami
+[2] https://www.alltrails.com/trail/canada/alberta/old-baldy-peak
+[3] http://bobspirko.ca/Hiking/Kananaskis/OldBaldy/OldBaldy.html
+[4] https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
+[5] https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
 
-Forecasts
-- Accuweather: https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
-
-Logistics
-- Will lose connectivity Friday late afternoon as we will be camping. So let's chat before, or see you at the trailhead directly.
-- Message me if interested, so that I can add you to the private chat.
-
-Please note that I am not a professional guide. I have average mountain and navigation skills and 
-you assume all responsibility for your safety, well-being and preparedness. 
-Do your own research to ensure that you know what you are getting into and be prepared to be 
-self-reliant in case we have to split.
-
-If we haven't hiked together before, you will most certainly want to check out this page 
-that highlights what you can expect from my hikes: https://www.alberta-hiking-resources.org/hike-organizers/sami
 ```
