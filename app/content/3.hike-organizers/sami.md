@@ -65,7 +65,9 @@ Let’s plan smart, hike happy, and enjoy the wild together! 🌄✨
 
 
 
-## 🥾☀️ What to Expect on a Classic Sami Hike
+## 🥾 What to Expect on a Classic Sami Hike
+
+### 💡 Key Takeaways
 
 So, you’re thinking of joining a Sami hike? Woohoo! 🎉
 Here’s what a typical Summer Sami Special™ looks like when the sun is shining and the vibes are high:
@@ -186,7 +188,7 @@ If you’re someone who really prefers sticking together the whole time, no prob
 
 Bottom line: We use our brains, our hearts, and our GPS 📍💚🗺️ — and try not to split the group in silly ways. Deal?
 
-## 🏕️✨ What to Expect on a Multi-Day Camping or Hut Trip
+## 🏕️ What to Expect on a Multi-Day Camping or Hut Trip
 
 First things first — my fave multi-day trips are the chill, flexible, go-with-the-flow kind 😎🌄. That means: no pressure to do everything together. Seriously.
 
@@ -194,7 +196,7 @@ The best vibes happen when everyone feels free to do their own thing by day — 
 
 Here’s why I love this style:
 - 🗺️ Everyone’s explored different trails — we’ve all got different “must-dos”
-- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes), but I adapt depending on the vibe & weather 🌦️
+- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the vibe & weather 🌦️
 - 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪
 - 🤝 We don’t need to match 100% — just be upfront about your style/preferences!
 - 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
@@ -209,10 +211,10 @@ Here’s why I love this style:
 
 🎯 Bottom line: We don’t need to do everything together to have a great trip — just be kind, be clear, and be open to adapting. That’s the real summit 🧡
 
-And don’t miss the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-when-joining-samis-hikes) — it totally applies here too! 📚👀
+And don’t miss the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) — it totally applies here too! 📚👀
 
 
-## 🏕️❓ Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 ### ⏰ Why do your hikes start sooo early?
 
@@ -296,7 +298,7 @@ Every now and then, we get a bigger party going — think 7-8 trailblazers stron
 
 Great question! Here’s the deal: I’m in a committed relationship with good weather 😎☀️ — and I don’t like getting ghosted by last-minute snowstorms ❄️ or surprise smoke 😷🔥.
 
-The more unpredictable the conditions (hello, June and July!), the longer I wait to lock in the plan. I like to save the big, epic hikes 🏔️💪 for those perfect bluebird days 🌈, and swap in more chill or flexible options when the forecast plays hard to get.
+The more unpredictable the conditions (hello, Alberta!), the longer I wait to lock in the plan. I like to save the big, epic hikes 🏔️💪 for those perfect bluebird days 🌈, and swap in more chill or flexible options when the forecast plays hard to get.
 
 So yeah… sometimes a Saturday hike doesn’t show up until Thursday night or even Friday afternoon 🕵️‍♂️📲. If you’re curious what’s cooking before I post, just shoot me a message — happy to give you a sneak peek 👀👟🎒
 
@@ -320,11 +322,11 @@ That said, if you’re feeling brave and still want to go full mountain goat wit
 
 Heck yes! I’d love that.
 
-Start by checking out [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami#what-to-expect-when-joining-a-multi-day-camping-or-hut-trip) — it’s full of helpful info and a few spicy surprises. 🌶️
+Start by checking out [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami%EF%B8%8F-what-to-expect-on-a-multi-day-camping-or-hut-trip) — it’s full of helpful info and a few spicy surprises. 🌶️
 
 If you’re a planner, hit me up in 📅 November or December — that’s when I start scheming and dreaming up 🌞 summer adventures. (Most of the national park bookings go live in January — it’s a race, and we’re in it to win it.)
 
-If you’re more of a last-minute butterfly 🦋, no worries — keep an eye on [the groups I post to](/hike-organizers/sami#what-groups-do-you-advertise-your-hikes-on). Sometimes magic happens: someone cancels, and 💥 boom! 
+If you’re more of a last-minute butterfly 🦋, no worries — keep an eye on [the groups I post to](/hike-organizers/sami#where-do-you-post-your-hikes). Sometimes magic happens: someone cancels, and 💥 boom! 
  There’s space for you to join the fun.
 
 ### 🥾  What is a perfect Summer Sami Hike?
