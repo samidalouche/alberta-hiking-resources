@@ -322,7 +322,7 @@ That said, if you’re feeling brave and still want to go full mountain goat wit
 
 Heck yes! I’d love that.
 
-Start by checking out [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami%EF%B8%8F-what-to-expect-on-a-multi-day-camping-or-hut-trip) — it’s full of helpful info and a few spicy surprises. 🌶️
+Start by checking out [What to expect when joining a multi-day camping or hut trip](/hike-organizers/sami#%EF%B8%8F-what-to-expect-on-a-multi-day-camping-or-hut-trip) — it’s full of helpful info and a few spicy surprises. 🌶️
 
 If you’re a planner, hit me up in 📅 November or December — that’s when I start scheming and dreaming up 🌞 summer adventures. (Most of the national park bookings go live in January — it’s a race, and we’re in it to win it.)
 
