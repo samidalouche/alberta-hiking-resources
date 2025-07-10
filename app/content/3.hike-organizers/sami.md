@@ -7,7 +7,7 @@ icon: 'gis:hiker'
 ::card-group
   ::card
   ---
-  title: Facebook
+  title: Facebook (sami.dalouche)
   icon: streamline-ultimate-color:facebook-logo
   to: https://www.facebook.com/sami.dalouche
   target: _blank
@@ -15,7 +15,7 @@ icon: 'gis:hiker'
   ::
   ::card
   ---
-  title: Instagram
+  title: Instagram (@samidalouche)
   icon: skill-icons:instagram
   to: https://www.instagram.com/samidalouche/
   target: _blank
@@ -23,7 +23,7 @@ icon: 'gis:hiker'
   ::
   ::card
   ---
-  title: Threads
+  title: Threads (@samidalouche)
   icon: mingcute:threads-line
   to: https://www.threads.net/@samidalouche
   target: _blank
@@ -70,7 +70,7 @@ Let’s plan smart, hike happy, and enjoy the wild together! 🌄✨
 ### 💡 Key Takeaways
 
 So, you’re thinking of joining a Sami hike? Woohoo! 🎉
-Here’s what a typical Summer Sami Special™ looks like when the sun is shining and the vibes are high:
+Here’s what a typical Summer hike looks like when the sun is shining and the vibes are high:
 
 ⸻
 
@@ -115,8 +115,9 @@ Food, naps, views, deep chats — it’s a summit hang, not a summit sprint.
 - Goal = wrap up by 5pm, especially on Saturdays so we can:
 - 🏊‍♂️ Go for a cold dip
 - 🍻 Celebrate with a post-hike beer
-- 🏕️ Still have time to chill at camp and get ready for the next day
-- On Sundays, I’m happy to finish later — let traffic pass and ride the mellow wave home 🚗💤
+- 🏕️ Still have time to chill at camp
+- 🛌 💤 Go to bed early, to be ready for another adventure the next day!
+- 📆 On Sundays (Fundays), I’m happy to finish later — let traffic pass and ride the mellow wave home 🚗
 
 ⸻
 
@@ -163,7 +164,7 @@ Sharing part of the trail is still sharing something special — even if we don�
 🧭 But What If Someone Overestimated the Hike?
 
 It happens — we’re all human (and occasionally overconfident 😅).
-If someone’s not feeling it, my take is: unless it’s a safety emergency, we should look for smart, kind options 💡❤️ — like having them chill at a scenic spot while the group continues, or turning back safely.
+If someone’s not feeling it, my take is: unless it’s a safety emergency, we should look for smart, kind options 💡❤️ — like having them chill at a scenic spot while the group continues.
 
 🔁 Loops are trickier than out-and-backs, so let’s think things through before we split.
 
@@ -329,13 +330,13 @@ If you’re a planner, hit me up in 📅 November or December — that’s when 
 If you’re more of a last-minute butterfly 🦋, no worries — keep an eye on [the groups I post to](/hike-organizers/sami#where-do-you-post-your-hikes). Sometimes magic happens: someone cancels, and 💥 boom! 
  There’s space for you to join the fun.
 
-### 🥾  What is a perfect Summer Sami Hike?
+### 🥾 What is a Summer Sami Special™?
 
-You’ll know it’s a true Summer Sami Hike when the magic recipe comes together just right:
+You’ll know it’s a Summer Sami Special™ when the magic recipe comes together just right:
 -	🌞 Weather: That dreamy summer sweet sun, bluebird skies, and zero wildfire smoke in the air. Yes please.
 -	🏔️ The Big Objective: A deliciously ridiculous goal — jaw-dropping views and a Type 2 fun sufferfest that leaves everyone's legs and soul equally wrecked (in the best way).
--	🎉 The Vibe: An amazing crew that turns a hike into a rolling party — full of laughs, deep chats, trail weirdness, and unforgettable memories.
--	⏰ Alpine Start O’Clock: If it’s not before 4am, is it even a real Sami hike? Nope. Bonus points for starting in the dark and watching the sun rise from high up.
+-	🎉 The Vibe: An amazing crew that turns a hike into a rolling party — full of laughs, deep chats, trail fun, and unforgettable memories.
+-	⏰ Alpine Start O’Clock: If it’s not before 4am, is it even a real Sami hike? Nope. 
 -	📸 Photoshoots Galore: We’re talking model behavior here — goofy poses, epic action shots, candid trail joy, and more camera clicks than summit steps.
 -	🍻 Post-Hike Joy: Done early enough to celebrate — cold drinks, lakeside dips, shared snacks, and stories flowing around a picnic table or campsite fire.
 
@@ -355,7 +356,7 @@ Sure!
 📍 Trail Info
   • 🗺️ AllTrails [2]
   • 📖 Bob Spirko [3]
-  • 🔄 We can do the Bob Spirko loop
+  • 🔄 Bob Spirko provides the GPX that we can follow
   • 💡 Got a more exciting suggestion that’s close to Lower Lake Campground (Peter Lougheed)? Hit us up!
 It’s tricky right now to find trails that are actually ready… but we’re open 👀
 
@@ -363,8 +364,8 @@ It’s tricky right now to find trails that are actually ready… but we’re op
   • 🕕 Meet at 06:45 at the AllTrails trailhead
   • 🚶‍♂️ Start hiking at 07:00 sharp
   • 🐢 Intermediate/moderate pace with plenty of photo breaks 📸
-  • 🧺 Possible 1h+ summit break if it’s not too windy 💨🤷
-  • 🎯 Aim to return early/mid afternoon, then off to chill mode 😌
+  • 😎 1h+ summit chill—wind gods permitting 🌪️🤞
+  • 🎯 Aim to return early/mid afternoon (potential risk of thunderstorm), then off to chill mode 😌
 
 🏖️ After Hike
   • 🏊 Cold dip -- bring a swimming suit 🩳👙
@@ -374,10 +375,12 @@ It’s tricky right now to find trails that are actually ready… but we’re op
 
 🌤️ Forecasts
   • 🌦️ Accuweather [4]
-  • 🏔️ Mountain forecast of a mountain nearby [5]
+  • 🏔️ MeteoBlue [5]
+  • 🏔️ Mountain forecast of a mountain nearby [6]
 
 🛠️ Logistics
   • 🔊 Bring your Rocky Talkie if you have one — Set it up to Channel 06, Privacy Code (CT) 02.
+  • 🏊 Cold dip -- bring a swimming suit 🩳👙
   • 📵 We’ll lose cell service Friday afternoon — let’s coordinate before, or just meet at the trailhead
   • 📲 Message me if you’re interested and I’ll add you to the private chat group 🔒👥
 
@@ -397,6 +400,7 @@ Start here → https://www.alberta-hiking-resources.org/hike-organizers/sami
 [2] https://www.alltrails.com/trail/canada/alberta/old-baldy-peak
 [3] http://bobspirko.ca/Hiking/Kananaskis/OldBaldy/OldBaldy.html
 [4] https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
-[5] https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
+[5] https://www.meteoblue.com/en/weather/week/kananaskis_canada_11071526
+[6] https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
 
 ```
