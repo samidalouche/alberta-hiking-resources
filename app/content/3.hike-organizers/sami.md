@@ -95,7 +95,7 @@ So if the hike starts at 5am and you roll up at 5:05… you’re actually 20 min
 - I say moderate… but everyone defines that differently 🤷‍♂️
 - Boring trail? We zoom 🛣️💨
 Epic views? We slow to a crawl for photos and oohs and ahhs 🐌📸🌄
-- When there is a beautiful alpine lakes or an inviting waterfall pool, we always take time for a cold dip! 👙🩲
+- When there is a beautiful alpine lake or an inviting waterfall pool, we always take time for a cold dip! 👙🩲
 - If the event is listed as “fast,” I mean it! Otherwise, expect a mixed rhythm that adapts to the trail.
 
 ⸻
