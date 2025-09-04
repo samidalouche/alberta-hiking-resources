@@ -196,7 +196,7 @@ The best vibes happen when everyone feels free to do their own thing by day — 
 
 Why I Love This Style:
 - 🗺️ Everyone’s explored different trails — we’ve all got different “must-dos”
-- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the vibe & weather 🌦️
+- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the weather 🌦️
 - 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪. A diverse group means you'll have company regardless.
 - 🤝 We don’t need to match 100% — just be upfront about your style/preferences!
 - 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
