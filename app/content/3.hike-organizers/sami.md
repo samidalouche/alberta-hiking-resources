@@ -211,7 +211,7 @@ Why I Love This Style:
 
 🎯 Bottom line: We don’t need to do everything together to have a great trip — A diverse group gives more options to everyone 🧡
 
-And don’t miss the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) — it totally applies here too! 📚👀
+And don’t miss [What to Expect on a Classic Sami Hike](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike)— it totally applies here too! 📚👀
 
 
 ## ❓ Frequently Asked Questions
