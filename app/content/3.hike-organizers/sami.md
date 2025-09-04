@@ -31,46 +31,43 @@ icon: 'gis:hiker'
   ::
 ::
 
-## 🎯 What’s This All About?
+## 🎯 Want to join a Sami hike?
 
-If you’ve landed on this page, chances are you followed a link from one of my hiking invites 👣📨 and you’re wondering:
-“What exactly am I signing up for here?”
+So, you’re thinking of joining a Sami hike? Woohoo! 🎉
 
-Well — welcome! 😄🧭 Let’s get into it:
+If you’ve landed on this page, chances are you followed a link from one of my hiking invites and you’re wondering:
+“What exactly am I signing up for here?” 👣📨
 
-⸻
-
-🧠 No Interviews. Just Trail Vibes.
-
-Unlike some organizers, I don’t run a vetting process — no fitness tests, no gear checklists, no “are-you-worthy-of-this-hike” quizzes 📝🙅‍♂️
-
-Instead, I believe in shared responsibility and good communication 🤝💬:
-
-⸻
-
-🔄 Here’s the Deal:
-- 🧭 I do my best to describe my hiking style and trip philosophy so you can decide if it feels like a good match 💛🥾
-- 🔍 You do your research to see if the hike fits your skills, experience, and comfort level.
-(And if my plan seems fishy 🐟 or sketchy ❓— call me out! I’m no expert, just a stoked hiker with a spreadsheet.)
-- 🎒 You choose your own adventure gear — food, water, maps, spikes, rainbow windbreakers — it’s all up to you 🗺️🥪💧
+What you need to know:
+- 🧠 No Interviews: Unlike some organizers, I don’t run a vetting process — no fitness tests, no gear checklists, no “are-you-worthy-of-this-hike” quizzes 📝🙅‍♂️. Instead, I believe in shared responsibility and good communication 🤝💬:
+  - 🧭 I do my best to [describe my [hiking style]](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) and trip philosophy so you can decide if it feels like a good match 💛🥾
+  - 🔍 You do your research to see if the hike fits your skills, experience, and comfort level. And if my plan seems fishy 🐟 or sketchy ❓— call me out! I’m no expert, just a stoked hiker with a spreadsheet.
+  - 🎒 You choose your own adventure gear — food, water, maps, spikes, rainbow windbreakers — it’s all up to you. 🗺️🥪💧 Don't complain if you're usually good with 1L of water and you end up needing 5L on a 15-hour Summer Sami Special hike that doesn't have any source of water along the way. Or if you're cold at the summit because all you brought is a windbreaker and don't usually enjoy long breaks at the summit. Be ultralight at your own risk!
 - 🤔 Got questions or doubts? Just message me! I’m always down to chat and sort things out.
 - 🎯 The goal isn’t perfection. We’re just trying to avoid those rare “oops-this-wasn’t-a-fit” moments 🚫🤕
+- Refer to the [What to Expect on a Classic Sami Hike](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) section to understand what a typical Sami hike looks like.
 
-⸻
-
-So if you like your hikes with honesty, flexibility, and a sprinkle of shared accountability…
+So if you like your hikes with honesty and a sprinkle of shared accountability…
 Welcome to the crew 🏕️🫶
 
 Let’s plan smart, hike happy, and enjoy the wild together! 🌄✨
-
 
 
 ## 🥾 What to Expect on a Classic Sami Hike
 
 ### 💡 Key Takeaways
 
-So, you’re thinking of joining a Sami hike? Woohoo! 🎉
+
 Here’s what a typical Summer hike looks like when the sun is shining and the vibes are high:
+
+
+⸻
+
+📖 Know what you're getting into
+- Most of the hikes I post are scrambles with difficult terrain (scree, loose/crumbly rock). 
+- While every hike differs, I usually plan 12-to-15-hour days when I expect bluebird skies + warm temps, and 7-10 hour days otherwise.
+- The technical term to describe these is sufferfest 🤭, so don't trust the stats (distance/elevation), they don't tell the whole story! 😎
+- The [Practical Info](/practical-information) page links to useful resources to help with the planning process.
 
 ⸻
 
@@ -98,6 +95,7 @@ So if the hike starts at 5am and you roll up at 5:05… you’re actually 20 min
 - I say moderate… but everyone defines that differently 🤷‍♂️
 - Boring trail? We zoom 🛣️💨
 Epic views? We slow to a crawl for photos and oohs and ahhs 🐌📸🌄
+- When there is a beautiful alpine lakes or an inviting waterfall pool, we always take time for a cold dip! 👙🩲
 - If the event is listed as “fast,” I mean it! Otherwise, expect a mixed rhythm that adapts to the trail.
 
 ⸻
@@ -112,12 +110,13 @@ Food, naps, views, deep chats — it’s a summit hang, not a summit sprint.
 ⸻
 
 🏁 Finishing with Style
-- Goal = wrap up by 5pm, especially on Saturdays so we can:
-- 🏊‍♂️ Go for a cold dip
-- 🍻 Celebrate with a post-hike beer
-- 🏕️ Still have time to chill at camp
-- 🛌 💤 Go to bed early, to be ready for another adventure the next day!
+- Goal = start hiking early-enough to wrap up by 5pm without rushing, especially on Saturdays so we can:
+  - 🏊‍♂️ Go for a cold dip
+  - 🍻 Celebrate with a post-hike beer
+  - 🏕️ Still have time to chill at camp
+  - 🛌 💤 Go to bed early, to be ready for another adventure the next day!
 - 📆 On Sundays (Fundays), I’m happy to finish later — let traffic pass and ride the mellow wave home 🚗
+- 🕠 If plans shift, no stress — starting early gives us plenty of cushion to wrap up later. I like planning with extra room for detours and surprises.
 
 ⸻
 
@@ -198,14 +197,14 @@ The best vibes happen when everyone feels free to do their own thing by day — 
 Here’s why I love this style:
 - 🗺️ Everyone’s explored different trails — we’ve all got different “must-dos”
 - 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the vibe & weather 🌦️
-- 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪
+- 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪. A diverse group means you'll have company regardless.
 - 🤝 We don’t need to match 100% — just be upfront about your style/preferences!
 - 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
 
 ☀️🌧️ How Weather & Smoke Shape My Plans:
-- Bluebird skies + warm temps? Count me in for early starts and long, leisurely summit hangs 😍📸
+- Bluebird skies + warm temps? Count me in for early starts and long, leisurely summit hangs: 12-to-15-hour days 😍📸
 - Smoky skies? I’m out. Those are rest/snack/book/lake float days 😷📖🛶
-- Cloudy but dry? Let’s hit the mid-tier hikes — still fun, just a little less photogenic ☁️
+- Cloudy but dry? Let’s hit the mid-tier hikes: 7-10 hour days — still fun, just a little less photogenic ☁️
 - Rainy? You’ll need to be my motivational hype squad to get me up 1200m for a whiteout summit 😂⛰️☔️
 
 ⸻
