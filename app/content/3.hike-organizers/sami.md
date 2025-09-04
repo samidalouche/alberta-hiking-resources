@@ -194,7 +194,7 @@ First things first — my fave multi-day trips are the chill, flexible, go-with-
 
 The best vibes happen when everyone feels free to do their own thing by day — hike solo, chill at camp, chase peaks, nap in a meadow 💤🌼 — and then come together in the evening for laughs, shared food, and cozy campfire hangs 🔥🍲🌌.
 
-Here’s why I love this style:
+Why I Love This Style:
 - 🗺️ Everyone’s explored different trails — we’ve all got different “must-dos”
 - 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the vibe & weather 🌦️
 - 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪. A diverse group means you'll have company regardless.
