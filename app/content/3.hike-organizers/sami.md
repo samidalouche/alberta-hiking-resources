@@ -209,7 +209,7 @@ Here’s why I love this style:
 
 ⸻
 
-🎯 Bottom line: We don’t need to do everything together to have a great trip — just be kind, be clear, and be open to adapting. That’s the real summit 🧡
+🎯 Bottom line: We don’t need to do everything together to have a great trip — A diverse group gives more options to everyone 🧡
 
 And don’t miss the [What to expect when joining Sami's hikes](/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) — it totally applies here too! 📚👀
 
