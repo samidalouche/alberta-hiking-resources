@@ -202,7 +202,7 @@ Here’s why I love this style:
 - 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
 
 ☀️🌧️ How Weather & Smoke Shape My Plans:
-- Bluebird skies + warm temps? Count me in for early starts and long, leisurely summit hangs: 12-to-15-hour days 😍📸
+- Bluebird skies + warm temps? Count me in for 3:00am starts and long, leisurely summit hangs: 12-to-15-hour days 😍📸
 - Smoky skies? I’m out. Those are rest/snack/book/lake float days 😷📖🛶
 - Cloudy but dry? Let’s hit the mid-tier hikes: 7-10 hour days — still fun, just a little less photogenic ☁️
 - Rainy? You’ll need to be my motivational hype squad to get me up 1200m for a whiteout summit 😂⛰️☔️
