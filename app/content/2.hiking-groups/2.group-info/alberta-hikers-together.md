@@ -25,7 +25,7 @@ icon: 'streamline-ultimate-color:facebook-logo'
 
 ## Purpose
 
-[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Find hiking friends by advertising and joining hiking/scrambling events. 
+[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Find hiking friends by posting and joining hiking/scrambling events. 
 
 **Objective**: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
@@ -88,13 +88,13 @@ If you want more structured events, check out the [Meetup.com groups](/hiking-gr
 
 > Use the public group to reach out to other members. Inappropriate messages will not be tolerated.
 
-**Why do we have this rule in place?** The group's sole purpose is to provide a space to connect hikers. Nothing else. If someone advertises a hike and you want to join, feel free to reach out to them. Otherwise, consider that to be inappropriate.
+**Why do we have this rule in place?** The group's sole purpose is to provide a space to connect hikers. Nothing else. If someone posts a hike and you want to join, feel free to reach out to them. Otherwise, consider that to be inappropriate.
 
 ### Sales
 
 > No selling of items and gear. Camping and backcountry sites may be posted here for the same face value. Add markups and you will be banned.
 
-**Why do we have this rule in place?** If you have an extra camping spot that you won't use, you are welcome to advertise it for the same face value. It's a great way to connect with other hikers if you're only going to use one car/tent out of the two allowed on your camping site. And by extension, even if you can't make it all, you're still welcome to advertise it, it will make someone else's weekend!
+**Why do we have this rule in place?** If you have an extra camping spot that you won't use, you are welcome to post it for the same face value. It's a great way to connect with other hikers if you're only going to use one car/tent out of the two allowed on your camping site. And by extension, even if you can't make it all, you're still welcome to post it, it will make someone else's weekend!
 What we want to avoid though are scalpers and scammers. Anyone doing shady deals will be banned.
 
 
@@ -102,10 +102,10 @@ What we want to avoid though are scalpers and scammers. Anyone doing shady deals
 ## Safety warnings
 
 ::alert{type="danger" icon="lucide:circle-x"}
-  Be aware that hikes and scrambles advertised on this group might range from a little walk along the river to extremely difficult scrambles. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case the group you join needs to split. When in doubt, ask the event's organizer. Event organizers are not guides responsible for your safety. They are simply hiking companions who are advertising their hikes.
+  Be aware that hikes and scrambles posted on this group might range from a little walk along the river to extremely difficult scrambles. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case the group you join needs to split. When in doubt, ask the event's organizer. Event organizers are not guides responsible for your safety. They are simply hiking companions who are posting their hikes.
 ::
 
 ::alert{type="warning" icon="lucide:triangle-alert"}
-The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to advertise your own hikes with the rules you want.
+The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to post your own hikes with the rules you want.
 ::
 
