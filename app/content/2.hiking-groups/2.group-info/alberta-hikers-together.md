@@ -25,11 +25,11 @@ icon: 'streamline-ultimate-color:facebook-logo'
 
 ## Purpose
 
-[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Find hiking friends by posting and joining hiking/scrambling events. 
+[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether): Share your hike plans here and join others on their adventures.
 
-**Objective**: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
+**Objective**: Share your hike plans here and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
-You are **highly encouraged** to create actionable posts or events that advertise a specific hike, with a meeting time. If you're looking for hiking partners in general, but don't have specific hikes/dates in mind, [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) may be a better place for you to post.
+If you're looking for hiking partners in general, but don't have specific hikes/dates in mind, [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) may be a better place for you to post.
 
 ## How is it different than the other FB groups?
 
@@ -37,7 +37,7 @@ Understand how this group relates to [other groups](/hiking-groups/by-category).
 - Check out the [Meetup Groups](/hiking-groups/by-category/meetups) page to understand the similarities and differences with other meetup groups.
 - There are better groups to ask information about [hiking trails, conditions, trail closures, bear attacks](/hiking-groups/by-category/practical-information), etc. 
 
-Note that this is a **public** group (the content can be accessed without joining the group). This makes it possible for instance to create and 
+Note that unlike most other groups, this is a **public** group (the content can be accessed without joining the group). This makes it possible for instance to create and 
   share an [event](https://www.facebook.com/groups/albertahikerstogether/events/) to people who are not members of the group (i.e. in other groups, private discussions, etc).
 
 ## What are the group rules?
@@ -66,13 +66,13 @@ The rest of this section describes the rationale for each of the rules that are 
 
 ### Stay on topic
 
-> Let’s keep it simple and focused: Post your hikes and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
+> Let’s keep it simple and focused: Share your hike plans here and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
 
-**Why do we have this rule in place?** The reason Alberta Hikers Together has been created is because the other groups made it harder to organize or join events as the meetup posts were diluted in the amount of other information being provided. So the idea is to keep this group hyper-focused on finding hiking partners to avoid diluting the meetup posts/events. 
+**Why do we have this rule in place?** The reason Alberta Hikers Together has been created is because the general-purpose hiking groups often buried meetup posts under a flood of other content. The idea here is to make it easier to find hiking partners.
 
-Posting pictures / trip reports is exclusively encouraged for people who post their hikes on the group, as it helps to build excitement about joining the upcoming trips. [Inspirational Groups](/hiking-groups/by-category/inspirational) and groups providing [practical information](/hiking-groups/by-category/practical-information) are a better match for people who want to share pictures of their adventures without the intent of sharing the trail.
+Posting pictures / trip reports is especially encouraged for people who post their hike plans in the group, since it helps to build excitement for upcoming trips. [Inspirational Groups](/hiking-groups/by-category/inspirational) and groups providing [practical information](/hiking-groups/by-category/practical-information) are a better match for those who want to share photos of past adventures without organizing a hike.
 
-Finally, we want people to be specific with regard to the date, time, and specific trails/hikes that are considered. In addition to being more actionable for other members of the group, it helps combat spammers who have a tendency to post vague and unactionable requests to find hiking partners.
+Finally, we ask that members be specific about the date, time, and trails/hikes being planned. Not only does this make posts more actionable for others, it also helps combat spammers who tend to post vague, non-actionable requests.
 
 If you’re looking to post general requests for hiking partners, check out [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367)—they’re happy to welcome those kinds of posts.
 
@@ -96,7 +96,6 @@ If you want more structured events, check out the [Meetup.com groups](/hiking-gr
 
 **Why do we have this rule in place?** If you have an extra camping spot that you won't use, you are welcome to post it for the same face value. It's a great way to connect with other hikers if you're only going to use one car/tent out of the two allowed on your camping site. And by extension, even if you can't make it all, you're still welcome to post it, it will make someone else's weekend!
 What we want to avoid though are scalpers and scammers. Anyone doing shady deals will be banned.
-
 
 
 ## Safety warnings
