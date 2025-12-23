@@ -1,0 +1,1 @@
+import{_ as n,c as o,o as t,r}from"./BP_QjGH-.js";const s={},c={class:"inline-code bg-muted relative rounded px-[0.3rem] py-[0.2rem] font-mono"};function d(e,_){return t(),o("code",c,[r(e.$slots,"default",{},void 0,!0)])}const l=Object.assign(n(s,[["render",d],["__scopeId","data-v-34f30d3d"]]),{__name:"ProseCodeInline"});export{l as default};
