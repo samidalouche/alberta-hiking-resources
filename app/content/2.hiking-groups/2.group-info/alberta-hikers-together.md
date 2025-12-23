@@ -31,7 +31,7 @@ icon: 'streamline-ultimate-color:facebook-logo'
 
 If you're looking for hiking partners in general, but don't have specific hikes/dates in mind, [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367) may be a better place for you to post.
 
-## How is it different than the other FB groups?
+## How is it different from the other FB groups?
 
 Understand how this group relates to [other groups](/hiking-groups/by-category). More specifically:
 - Check out the [Meetup Groups](/hiking-groups/by-category/meetups) page to understand the similarities and differences with other meetup groups.
