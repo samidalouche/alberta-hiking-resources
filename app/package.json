@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.20.2",
+    "nuxt": "^4.2.2",
     "shadcn-docs-nuxt": "^1.1.8",
     "vue": "^3.5.26",
     "vue-router": "^4.6.4"
@@ -35,8 +35,10 @@
     "@iconify-json/openmoji": "^1.2.19",
     "@iconify-json/qlementine-icons": "^1.2.13",
     "@iconify-json/skill-icons": "^1.2.3",
+    "@iconify-json/streamline-kameleon-color": "^1.2.2",
     "@iconify-json/streamline-stickies-color": "^1.2.2",
     "@iconify-json/streamline-ultimate-color": "^1.2.2",
-    "@iconify-json/twemoji": "^1.2.5"
+    "@iconify-json/twemoji": "^1.2.5",
+    "t": "^0.5.1"
   }
 }
