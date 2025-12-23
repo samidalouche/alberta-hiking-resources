@@ -7,9 +7,9 @@
 
     ```bash
     asdf plugin add nodejs
+    asdf plugin add pnpm
     asdf install nodejs
     asdf reshim
-    npm install -g pnpm
     ```
 3. Install dependencies
 
