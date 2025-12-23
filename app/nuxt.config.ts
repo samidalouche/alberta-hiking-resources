@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       },
     ],
   },
-  compatibilityDate: '2024-07-06',
+  compatibilityDate: '2025-12-23',
   // Because of --prerender in deploy.sh, this is probably not needed
   // https://nuxt.com/docs/getting-started/prerendering
   // routeRules: {
