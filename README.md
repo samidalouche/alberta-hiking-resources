@@ -73,9 +73,9 @@ This work is licensed under a
 
 ## TODO
 
+- [ ] Add section on Hikers Gathering
 - [ ] https://content.nuxt.com/recipes/sitemap
 - [ ] Safety Checklist
-- [ ] ACC booking: 180 dys before last day of the trip
 - [ ] Better presentation of index page of each section
 - [ ] More appealing graphics, generally
 - [ ] Reorganize order of sections
