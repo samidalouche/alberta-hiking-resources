@@ -1,77 +1,62 @@
 export default defineAppConfig({
-  shadcnDocs: {
-    site: {
-      name: 'Alberta Hiking Resources',
-      description: 'Find your way in the jungle of FB and Meetup groups.Hiking Partners. Information. Ideas.',
-    },
-    theme: {
-      customizable: false,
-      color: 'zinc',
-      radius: 0.5,
-    },
-    header: {
-      title: 'Alberta Hiking Resources',
-      showTitle: true,
-      darkModeToggle: false,
-      languageSwitcher: {
-        enable: false,
-        triggerType: 'icon',
-        dropdownType: 'select',
-      },
-      logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
-      },
-      nav: [],
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/samidalouche/alberta-hiking-resources',
-        target: '_blank',
-      }],
-    },
-    aside: {
-      useLevel: true,
-      collapse: false,
-    },
-    main: {
-      breadCrumb: true,
-      showTitle: true,
+  ui: {
+    colors: {
+      primary: 'green',
+      neutral: 'slate'
     },
     footer: {
-      credits: 'Copyright © 2025',
+      slots: {
+        root: 'border-t border-default',
+        left: 'text-sm text-muted'
+      }
+    }
+  },
+  seo: {
+    siteName: 'Alberta Hiking Resources'
+  },
+  header: {
+    title: '',
+    to: '/',
+    logo: {
+      alt: '',
+      light: '',
+      dark: ''
+    },
+    search: true,
+    colorMode: true,
+    links: [{
+      'icon': 'i-simple-icons-github',
+      'to': 'https://github.com/samidalouche/alberta-hiking-resources',
+      'target': '_blank',
+      'aria-label': 'GitHub'
+    }]
+  },
+  footer: {
+    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    colorMode: false,
+    links: [{
+      'icon': 'i-simple-icons-github',
+      'to': 'https://github.com/samidalouche/alberta-hiking-resources/',
+      'target': '_blank',
+      'aria-label': 'Alberta Hikers Together on Github'
+    }]
+  },
+  toc: {
+    title: 'Table of Contents',
+    bottom: {
+      title: 'Community',
+      edit: 'https://github.com/samidalouche/alberta-hiking-resources/edit/main/content',
       links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/samidalouche/',
-        target: '_blank',
-      }],
-    },
-    toc: {
-      enable: true,
-      title: 'On This Page',
-      links: [
-        {
-          title: 'Star on GitHub',
-          icon: 'lucide:star',
-          to: 'https://github.com/samidalouche/alberta-hiking-resources',
-          target: '_blank',
-        },
-        {
-          title: 'Create Issues',
-          icon: 'lucide:circle-dot',
-          to: 'https://github.com/samidalouche/alberta-hiking-resources/issues',
-          target: '_blank',
-        },
-        {
-          title: 'Contact Us',
-          icon: 'lucide:circle-dot',
-          to: 'https://www.instagram.com/samidalouche/',
-          target: '_blank',
-        },
-      ],
-    },
-    search: {
-      enable: true,
-      inAside: false,
+        icon: 'i-lucide-star',
+        label: 'Star on GitHub',
+        to: 'https://github.com/samidalouche/alberta-hiking-resources',
+        target: '_blank'
+      }, {
+        icon: 'i-lucide-circle-dot',
+        label: 'Contact Us',
+        to: 'https://www.instagram.com/samidalouche/',
+        target: '_blank'
+      }]
     }
   }
-});
+})

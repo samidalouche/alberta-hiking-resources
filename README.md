@@ -1,4 +1,4 @@
-# Hiking Groups of Alberta
+# Alberta Hiking Resources
 
 ## Setup
 
@@ -13,49 +13,72 @@
     ```
 3. Install dependencies
 
-    Install dependencies with npm install or yarn install or pnpm install                                                                                                                                                                                              16:09:04
-
     ```bash
-    cd app && pnpm install
+    pnpm install
     ````
 4. Start development server
 
     Start development server with npm run dev or yarn dev or pnpm run dev 
 
     ```bash
-    cd app && pnpm run dev
+    pnpm dev
     ```
+
 
 ## Deployment
 
-Check deploy.sh for additional notes regarding deployment
+### Preview the production build
 
-1. Generate the static website
-
-    ```bash
-    cd app && npx nuxi build --prerender --preset github_pages
-    ```
-2. Preview the generated static website
-
-    ```bash
-    cd app && npx serve .output/public/
-    ```
-3. Deploy to GH Pages
-
-    ```bash
-    cd app && npx gh-pages --dotfiles  --nojekyll -d .output/public
-    ```
-## The project was initially setup using
+Build the application for production:
 
 ```bash
-pnpm dlx nuxi@latest init app -t github:ZTL-UwU/shadcn-docs-nuxt-starter
+pnpm build
 ```
 
+Locally preview production build:
 
-## Resources
-- shadcn-docs: [Homepage](https://shadcn-docs-nuxt.vercel.app/), [Github](https://github.com/ZTL-UwU/shadcn-docs-nuxt?tab=readme-ov-file)
-- components: [shadcn-ui (The original components)](https://ui.shadcn.com/), [shadcn-vue (The Vue port of the components, for use with shadcn-docs)](https://www.shadcn-vue.com/)
-- Icons: [smart-icon](https://shadcn-docs-nuxt.vercel.app/components/docs/icon#smart-icon) can use any [iconify](https://iconify.design/) icons
+```bash
+pnpm preview
+```
+
+### Deploy to Github Pages
+
+Check out [deploy.sh](./deploy.sh)
+
+## Dev Resources
+
+### Initial Project Setup
+The project was initially set up using
+
+```bash
+npm create nuxt@latest -- -t github:nuxt-ui-templates/docs
+```
+With the following parameters:
+- Package Manager: `pnpm`
+- Additional Nuxt modules:
+  - [@nuxt/hints](https://nuxt.com/modules/hints)
+
+
+### Built using Nuxt, Nuxt UI, and the Nuxt UI Docs template
+
+- [Nuxt UI](https://ui.nuxt.com/)
+- [Nuxt UI Docs Template](https://docs-template.nuxt.dev/)
+- [NUXT MDC](https://github.com/nuxt-content/mdc)
+
+
+Icon integration:
+- [Iconify](https://iconify.design/)
+- [Icones.js.org](https://icones.js.org/)
+
+### Nuxt Deployment
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+And specifically, the [Github integration](https://nuxt.com/deploy/github-pages).
+
+### Renovate integration
+
+Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+
 
 ## License
 
@@ -71,11 +94,21 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
+
 ## TODO
 
-- [ ] Add section on Hikers Gathering
-- [ ] https://content.nuxt.com/recipes/sitemap
-- [ ] Safety Checklist
-- [ ] Better presentation of index page of each section
+### App
+- [ ] optimize icons?
+- [ ] Find ways to DRY the text
+  - "Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas." everywhere?
+  - Github Links
+  - landing page vs introduction
+    - safety warnings across groups
+    - access group / group rules across groups
+- [ ] Generate sitemap
+- [ ] `index.vue`: need to tweak the OG module, or does everything work as-is?
+### Content
 - [ ] More appealing graphics, generally
-- [ ] Reorganize order of sections
+- [ ] Add section on Hikers Gathering?
+- [ ] Safety Checklist
+
