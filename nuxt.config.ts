@@ -1,17 +1,31 @@
+const siteUrl = process.env.NUXT_PUBLIC_SITE_URL || 'https://www.alberta-hiking-resources.org'
+const siteTitle = 'Alberta Hiking Resources'
+const siteDescription = 'Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas.'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/ui',
-    '@nuxt/content',
+    // '@nuxtjs/sitemap', <-- could not get it to work, disabled for now
+    '@nuxt/content', // <-- Must be after @nuxtjs/sitemap
     'nuxt-og-image',
     'nuxt-llms',
     '@nuxtjs/mcp-toolkit'
   ],
+  
+  site: {  
+    url: siteUrl,  
+    name: siteTitle
+  }, 
 
   devtools: {
-    enabled: true
+    enabled: true,
+
+    timeline: {
+      enabled: true
+    }
   },
 
   css: ['~/assets/css/main.css'],
@@ -28,7 +42,7 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     public: {
-      siteUrl: 'https://www.alberta-hiking-resources.org'
+      siteUrl: siteUrl
     }
   },
 
@@ -62,12 +76,12 @@ export default defineNuxtConfig({
   },
 
   llms: {
-    domain: 'https://www.alberta-hiking-resources.org',
-    title: 'Alberta Hiking Resources',
-    description: 'Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas.',
+    domain: siteUrl,
+    title: siteTitle,
+    description: siteDescription,
     full: {
-      title: 'Alberta Hiking Resources',
-      description: 'Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas.'
+      title: siteTitle,
+      description: siteDescription
     },
     sections: [
       {
@@ -123,6 +137,6 @@ export default defineNuxtConfig({
   },
 
   mcp: {
-    name: 'Alberta Hiking Resources'
+    name: siteTitle
   }
 })
