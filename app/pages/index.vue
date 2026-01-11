@@ -7,18 +7,18 @@ if (!page.value) {
 const title = page.value.seo?.title || page.value.title
 const description = page.value.seo?.description || page.value.description
 
-// I think Nuxt takes care of this automatically
-// const config = useRuntimeConfig()
-// const ogImage = `${config.public.siteUrl}/images/og.png`
+// Unlike for other pages, Nuxt does not automatically take care of generating the Open Graph image for the homepage
+const config = useRuntimeConfig()
+const ogImage = `${config.public.siteUrl}/images/og.png`
 
 useSeoMeta({
   titleTemplate: '',
   title,
   ogTitle: title,
   description,
-  ogDescription: description
-  // ogImage: ogImage,
-  // twitterImage: ogImage
+  ogDescription: description,
+  ogImage: ogImage,
+  twitterImage: ogImage
 })
 </script>
 
