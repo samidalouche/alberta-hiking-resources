@@ -41,6 +41,7 @@ export default defineNuxtConfig({
   },
 
   runtimeConfig: {
+    // Keys within public are also exposed client-side
     public: {
       siteUrl: siteUrl
     }
