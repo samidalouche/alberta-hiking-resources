@@ -27,6 +27,23 @@
 
 ## Deployment
 
+### Install missing icon sets to bundle them with the app
+
+```
+brew install rg
+rg "i-[a-z0-9-]+:" .
+
+pnpm i -D \
+  @iconify-json/logos \
+  @iconify-json/lucide \
+  @iconify-json/material-symbols \
+  @iconify-json/noto \
+  @iconify-json/simple-icons \
+  @iconify-json/streamline-emojis \
+  @iconify-json/streamline-stickies-color
+
+```
+
 ### Preview the production build
 
 Build the application for production:
