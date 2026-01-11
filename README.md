@@ -115,6 +115,7 @@ This work is licensed under a
 ## TODO
 
 ### App
+- [ ] Release / changelog workflow
 - [ ] optimize icons?
 - [ ] Find ways to DRY the text
   - "Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas." everywhere?
