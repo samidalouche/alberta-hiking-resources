@@ -103,6 +103,12 @@ That means:
 
 # Introduction
 
+Whether you're new to hiking in Alberta or looking to expand your outdoor community, there are many ways to connect with fellow hiking enthusiasts.
+
+From informal Facebook groups to organized meetups and guided expeditions, you'll find options that suit your experience level and hiking style.
+
+This section covers the main platforms and organizations where Albertans gather to plan trips, share advice, and build lasting connections with other hikers.
+
 ::card-group
   :::card
   ---
@@ -438,6 +444,11 @@ See [Meetup Groups](https://www.alberta-hiking-resources.org/meetup-groups)
 
 # Introduction
 
+This section brings together the best resources for finding route details, learning from experienced hikers, and discovering new trails.
+
+Whether you're looking for tried-and-tested guidebooks, real-world trip reports, community recommendations, or mapping tools,
+you'll find curated resources to help you prepare and execute memorable backcountry experiences.
+
 ::card-group
   :::card
   ---
@@ -602,6 +613,10 @@ The following apps help figure out which peaks one is looking at. Really handy f
 
 
 # Introduction
+
+Alberta's weather can change rapidly, and being informed about forecasts, active fires, and current trail conditions is essential before heading out.
+
+This section provides access to the tools and resources you need to make smart decisions about when, where, and how to hike safely.
 
 ::card-group
   :::card
@@ -787,6 +802,11 @@ that provide timely feedback about trail conditions and closures.
 
 # Introduction
 
+The right gear can make the difference between an uncomfortable experience and an enjoyable adventure.
+
+Whether you're a budget-conscious hiker or investing in quality equipment, this section highlights local resources, discount programs,
+and trusted Alberta-based gear brands to help you get outfitted properly without breaking the bank.
+
 ## Discounts
 
 - [Happiest Outdoors](https://happiestoutdoors.ca/){rel="&#x22;nofollow&#x22;"}'s weekly [newsletter](https://landing.mailerlite.com/webforms/landing/g1s9v2){rel="&#x22;nofollow&#x22;"} provides heads up on sales and discounts on outdoor gear from Canadian retailers.
@@ -815,8 +835,9 @@ Are you a regular hike organizer?
 No matter what group you post in, if you'd like a little space to share your hiking vibe, rules, or trail philosophy — we'd love to include you! Just reach out! 🥾📝
 ::
 
-Not all hike organizers are cut from the same trail map 🗺️ — and that's totally okay! Some love fast summits and no breaks, others prefer long picnics with 360° views. 🍕🏔️☀️
-This section is here to give each organizer their own space to tell you what to expect when tagging along on one of their adventures. No surprises (except for the views 😍).
+Not all hike organizers are cut from the same trail map, and that's totally okay! Some love fast summits and no breaks, others prefer long picnics with 360° views. 🍕🏔️☀️
+
+This section is here to give each organizer their own space to tell you what to expect when tagging along on one of their adventures.
 
 ::card-group
   :::card
@@ -1029,9 +1050,9 @@ If you're someone who really prefers sticking together the whole time, no proble
 
 Bottom line: We use our brains, our hearts, and our GPS 📍💚🗺️ — and try not to split the group in silly ways. Deal?
 
-## 🏕️ What to Expect on a Multi-Day Camping or Hut Trip
+## What to Expect on a Multi-Day Camping or Hut Trip
 
-First things first — my fave multi-day trips are the chill, flexible, go-with-the-flow kind 😎🌄. That means: no pressure to do everything together. Seriously.
+🏕️ First things first — my fave multi-day trips are the chill, flexible, go-with-the-flow kind 😎🌄. That means: no pressure to do everything together. Seriously.
 
 The best vibes happen when everyone feels free to do their own thing by day — hike solo, chill at camp, chase peaks, nap in a meadow 💤🌼 — and then come together in the evening for laughs, shared food, and cozy campfire hangs 🔥🍲🌌.
 
@@ -1166,7 +1187,7 @@ That said, if you're feeling brave and still want to go full mountain goat witho
 
 Heck yes! I'd love that.
 
-Start by checking out [What to expect when joining a multi-day camping or hut trip](https://www.alberta-hiking-resources.org/hike-organizers/sami#%EF%B8%8F-what-to-expect-on-a-multi-day-camping-or-hut-trip) — it's full of helpful info and a few spicy surprises. 🌶️
+Start by checking out [What to expect when joining a multi-day camping or hut trip](https://www.alberta-hiking-resources.org/hike-organizers/sami#what-to-expect-on-a-multi-day-camping-or-hut-trip) — it's full of helpful info and a few spicy surprises. 🌶️
 
 If you're a planner, hit me up in 📅 November or December — that's when I start scheming and dreaming up 🌞 summer adventures. (Most of the national park bookings go live in January — it's a race, and we're in it to win it.)
 
@@ -1260,6 +1281,6 @@ Check out the [Hiking & Scrambling Beta](https://www.alberta-hiking-resources.or
 
 Check out the [Weather & Trail Conditions](https://www.alberta-hiking-resources.org/weather-trail-conditions) section
 
-## 🎒 Where can I find information about gear?
+## 🎒 Where can I find hiking gear discounts?
 
 Check out the [Outdoor Gear](https://www.alberta-hiking-resources.org/outdoor-gear) section
