@@ -79,7 +79,9 @@ npm create nuxt@latest -- -t github:nuxt-ui-templates/docs
 With the following parameters:
 - Package Manager: `pnpm`
 - Additional Nuxt modules:
+  - Nuxt Devtools (enabled in dev only)
   - [@nuxt/hints](https://nuxt.com/modules/hints)
+  - [@nuxtjs/sitemap](https://nuxtseo.com/docs/sitemap/guides/content): not currently activated, couldn't get it to work
 
 
 ### Built using Nuxt, Nuxt UI, and the Nuxt UI Docs template
@@ -105,6 +107,10 @@ And specifically, the [Github integration](https://nuxt.com/deploy/github-pages)
 
 - [X Card Validator](https://www.schedulethreads.com/tools/twitter-x-card-validator)
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+
+
+#### Validate the sitemap
+- [Nuxt SEO Sitemap Validation Tool](https://nuxtseo.com/tools/xml-sitemap-validator)
 
 ## License
 
@@ -132,10 +138,12 @@ This work is licensed under a
   - landing page vs introduction
     - safety warnings across groups
     - access group / group rules across groups
-- [ ] Generate sitemap
+- [ ] Set up [Nuxt Robot and Sitemap plugins](https://nuxtseo.com/). Or maybe the [Nuxt SEO](https://nuxt.com/modules/seo) all-in-one module? (Compatible with Nuxt 4?)
 - [ ] `index.vue`: need to tweak the OG module, or does everything work as-is?
 ### Content
 - [ ] More appealing graphics, generally
 - [ ] Add section on Hikers Gathering?
 - [ ] Safety Checklist
 
+### Build
+- [ ] Build docker development image that runs the [vscode backend](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
