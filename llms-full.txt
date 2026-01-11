@@ -101,7 +101,7 @@ That means:
 - 🔁 You can share it — as long as you give credit and share it under the same terms 🎉♻️
 
 
-# Meetups
+# Introduction
 
 ::card-group
   :::card
@@ -436,7 +436,7 @@ The group isn't a structured organization. Each hike organizer has his/her own p
 See [Meetup Groups](https://www.alberta-hiking-resources.org/meetup-groups)
 
 
-# Hiking & Scrambling Beta
+# Introduction
 
 ::card-group
   :::card
@@ -601,7 +601,7 @@ The following apps help figure out which peaks one is looking at. Really handy f
 - The Alpine Club of Canada has a number of [backcountry huts](https://alpineclubofcanada.ca/huts/){rel="&#x22;nofollow&#x22;"}. They have a rolling-window system where reservations can be made 6 months in advance for ACC members, and 3 months in advance for non-ACC members.
 
 
-# Weather & Trail Conditions
+# Introduction
 
 ::card-group
   :::card
@@ -785,7 +785,7 @@ that provide timely feedback about trail conditions and closures.
 - [Avalanche Canada Website](https://www.avalanche.ca/en/map){rel="&#x22;nofollow&#x22;"}
 
 
-# Outdoor Gear
+# Introduction
 
 ## Discounts
 
@@ -804,7 +804,7 @@ that provide timely feedback about trail conditions and closures.
 - [Rocky Talkie](https://rockytalkie.ca/){rel="&#x22;nofollow&#x22;"} builds the backcountry radio that most of the community seems to swear by. [Alpine Club of Canada](https://alpineclubofcanada.ca/){rel="&#x22;nofollow&#x22;"} members get a 20% discount on Rocky Talkies.
 
 
-# Hike Organizers
+# Introduction
 
 ::tip
 ---
