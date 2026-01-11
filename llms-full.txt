@@ -1,0 +1,1265 @@
+# Introduction
+
+::tip
+---
+target: _blank
+to: https://www.alberta-hiking-resources.org/meetup-groups
+---
+In a hurry? Go straight to the Meetup groups or any other section on the left of this page.
+::
+
+We pulled together a bunch of useful goodies for anyone hiking or scrambling in the Canadian Rockies 🏔️.
+
+Whether you're brand new or just looking for a few pro tips, this is your one-stop mountain-friendly info hub 📚.
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-search
+  title: Meetup Groups
+  to: https://www.alberta-hiking-resources.org/meetup-groups
+  ---
+  Alberta's hiking scene has so many Facebook & Meetup groups, it's easy to get lost in the jungle 🌴.
+  :::
+
+  :::card
+  ---
+  icon: i-noto-hiking-boot
+  title: Hiking & Scrambling Beta
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta
+  ---
+  Inspiration and practical information to plan your next hiking & scrambling trip.
+  :::
+
+  :::card
+  ---
+  icon: i-streamline-stickies-color:sun-clound-weather
+  title: Weather & Trail Conditions
+  to: https://www.alberta-hiking-resources.org/weather-trail-conditions
+  ---
+  Use these resources to check what Mother Nature's cooking.
+  :::
+
+  :::card
+  ---
+  icon: i-noto:backpack
+  title: Outdoor Gear
+  to: https://www.alberta-hiking-resources.org/outdoor-gear
+  ---
+  Because having the right gear makes the hike way more fun (and less cold/soggy).
+  :::
+
+  :::card
+  ---
+  icon: i-lucide-user-star
+  title: Hike Organizers
+  to: https://www.alberta-hiking-resources.org/hike-organizers
+  ---
+  A cozy space for organizers to share their vibe, style, and what to expect on their hikes 💬.
+  :::
+
+  :::card
+  ---
+  icon: i-lucide-message-circle-question-mark
+  title: FAQ
+  to: https://www.alberta-hiking-resources.org/faq
+  ---
+  Got a specific question buzzing in your brain? 🐝.
+  :::
+::
+
+
+# Contribute
+
+## 📣 Call for Help
+
+[Sami](https://www.alberta-hiking-resources.org/hike-organizers/sami) — the original creator of this site — is full of hiking stoke but not quite full of all the knowledge in the Rockies 🏔️.
+
+This site isn't meant to be a one-hiker show… it's an open trailhead for a shared effort to make info better, richer, and more helpful for everyone 📚.
+
+👋 Wanna Lend a Boot?
+
+You're more than welcome to contribute if any of this sounds like you:
+
+- 🌐 You know of great hiking groups we should highlight, or can help flesh out info on the ones already listed 📝
+- 🥾 You're a hike organizer and want to share your vibe, style, and what folks should expect on your adventures 💬
+- 🔧 You've got trail wisdom to drop — whether it's safety tips, gear recs, or “I learned this the hard way” kind of knowledge 🧠
+
+Whether it's a quick fix, a full section, or just a friend ly pointer to better info — every little bit helps 🫶🌲
+Let's build this trail guide together! 🛠️🗺️✨
+
+Use the 'Edit this page' link located to the right of each page to propose changes through [GitHub](https://github.com/samidalouche/alberta-hiking-resources){rel="&#x22;nofollow&#x22;"}.
+
+## 📜 License
+
+All this trail-loving info is shared under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/){rel="&#x22;nofollow&#x22;"} 🌍
+
+That means:
+
+- ✅ You can use it
+- 🛠️ You can remix it
+- 🔁 You can share it — as long as you give credit and share it under the same terms 🎉♻️
+
+
+# Meetups
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-facebook
+  title: Facebook Meetups
+  to: https://www.alberta-hiking-resources.org/meetup-groups/facebook
+  ---
+  A few solid options of Facebook Group to find your hiking fam.
+  :::
+
+  :::card
+  ---
+  icon: i-simple-icons-meetup
+  title: Meetup.com Meetups
+  to: https://www.alberta-hiking-resources.org/meetup-groups/meetup.com
+  ---
+  Formal hiking groups on Meetup.com.
+  :::
+
+  :::card
+  ---
+  icon: i-streamline-emojis:canada
+  title: Events organized by the Alpine Club of Canada.
+  to: https://www.alberta-hiking-resources.org/meetup-groups/acc
+  ---
+  Formal hiking groups on Meetup.com.
+  :::
+
+  :::card
+  ---
+  icon: i-logos:getyourguide
+  title: Guided Trips
+  to: https://www.alberta-hiking-resources.org/meetup-groups/guided-trips
+  ---
+  Excursions organized by professional guides.
+  :::
+::
+
+
+# Facebook Meetups
+
+## Highlights
+
+The following Facebook groups are useful to find hiking/scrambling, and even climbing partners.
+
+These hiking meetup groups are grassroots communities where events are organized organically by members rather than through any formal leadership.
+
+There's no central organizer or hierarchy—just like-minded hikers coming together to share adventures, suggest outings, and connect over a shared love of the outdoors.
+
+If you're looking for a flexible, community-driven way to meet hiking partners, these groups are a great place to start.
+
+- [Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether){rel="&#x22;nofollow&#x22;"}: Dedicated to finding hiking/scrambling partners. [More info](https://www.alberta-hiking-resources.org/meetup-groups/alberta-hikers-together).
+- [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"}: Also dedicated to finding hiking/scrambling partners. [More info](https://www.alberta-hiking-resources.org/meetup-groups/find-hiking-groups-partners-alberta)
+- [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628){rel="&#x22;nofollow&#x22;"}: Not dedicated to finding hiking/scrambling partners, but the community is tight-knit and people use the group to coordinate activities. [More info](https://www.alberta-hiking-resources.org/meetup-groups/alberta-hikers-and-climbers)
+
+Difference between [Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether){rel="&#x22;nofollow&#x22;"} and:
+
+- [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"}:
+  - The two groups have very similar goals and rules.
+  - Find Hiking Groups/Partners, Alberta has more members and is a bit more active.
+  - Alberta Hikers Together encourages posting specific hiking events (come up with a suggestion you'd like to hike, and a meeting time), whereas Find Hiking Groups/Partners, Alberta has a lot of posts about people looking for hiking buddies without specific hikes in mind.
+  - Alberta Hikers Together is a public group, so when cross posting in different groups, it's easier to post first in Alberta Hikers Together, and then share to the other groups.
+- [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628){rel="&#x22;nofollow&#x22;"}:
+  - Alberta Hikers & Climbers caters to those with an intermediate to advanced skill level in either hiking or climbing.
+  - The Alberta Hikers & Climbers community is more tight-knit, and not just focused on finding hiking partners. People ask and post about trail conditions, avalanche and crevasse rescue courses,
+    scrambling routes, indoor climbing events, etc.
+  - Alberta Hikers & Climbers is a place where you interact with people first (share tips, ask information, etc) to build connections, and then find hiking/scrambling/climbing partners as a result of the interaction.
+
+### Additional Niche Groups
+
+::u-alert
+---
+color: warning
+description: The author is not familiar with these groups. Please reach out if
+  you can add more background information.
+icon: i-lucide-info
+title: Heads up!
+---
+::
+
+- [Women Who Hike Alberta](https://www.facebook.com/groups/1014690558664444){rel="&#x22;nofollow&#x22;"}: A group dedicated to women.
+- [Banff And Canmore Hiking Community](https://www.facebook.com/groups/992840258554589){rel="&#x22;nofollow&#x22;"}: A local hiking community for the Banff and Canmore area.
+
+
+# Meetup.com
+
+::u-alert
+---
+color: warning
+description: The author is not familiar with these groups. Please reach out if
+  you can add more background information.
+icon: i-lucide-info
+title: Heads up!
+---
+::
+
+## Meetup.com Groups
+
+The following [Meetup.com](https://meetup.com){rel="&#x22;nofollow&#x22;"} groups generally have a more formal leadership,
+so they are a great place to start for poeple looking for a more structured hiking environment.
+
+- [Slow and Steady Hikers](https://www.meetup.com/slow-and-steady-hikers/){rel="&#x22;nofollow&#x22;"}: Even though advertised as "slow and steady", the actual speed depends on each organizer. Each organizer vets the participants and
+  in some cases, even have a waitlist.
+- [Calgary Nature and Social Adventures](https://www.meetup.com/calgary-nature-and-social-adventures/){rel="&#x22;nofollow&#x22;"}
+- [Calgary/Banff Hiking, X-C Skiing, and Snowshoeing](https://www.meetup.com/calgarybanffhikingmeetup/){rel="&#x22;nofollow&#x22;"}
+
+
+# Alpine Club of Canada
+
+## Alpine Club of Canada
+
+The Alpine Club of Canada has [regional sections](https://alpineclubofcanada.ca/community/){rel="&#x22;nofollow&#x22;"} in Calgary and Canmore that organize events.
+You need to purchase a [membership](https://alpineclubofcanada.ca/membership/){rel="&#x22;nofollow&#x22;"} to access their event calendar and participate.
+
+
+# Guided Trips
+
+### Guided Trips
+
+If you would like to participate to guided trips, you can hire the services of a certified mountain guide:
+
+- Association of Canadian Mountain Guides
+  - [Website](https://www.acmg.ca/){rel="&#x22;nofollow&#x22;"}
+  - [FB Group](https://www.facebook.com/ACMG.ca){rel="&#x22;nofollow&#x22;"}
+
+
+# Alberta Hikers & Climbers
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-link
+  target: _blank
+  title: Access Group
+  to: https://www.facebook.com/groups/1409264842848628
+  ---
+  Access the group.
+  :::
+
+  :::card
+  ---
+  icon: i-material-symbols-rule
+  target: _blank
+  title: Group Rules
+  to: https://www.facebook.com/groups/1409264842848628/about
+  ---
+  The group rules.
+  :::
+::
+
+## Purpose
+
+[Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628){rel="&#x22;nofollow&#x22;"} is a **private** Facebook group to meet hikers, scramblers, and climbers through an environment
+where members can connect, share experiences, and build lasting friendships.
+
+- The group caters to those with an intermediate to advanced skill level in either hiking or climbing.
+- The group is not dedicated to finding activity partners, but the community is tight-knit and people use the group to coordinate activities.
+- The group is used to post about trail conditions, scrambling routes, to find partners for avalanche and crevasse rescue courses, etc.
+- The group is a place where you interact with people first (share tips, ask information, etc) to build connections, and then find hiking/scrambling/climbing partners as a result of the interaction.
+
+## Safety warnings
+
+::warning
+Be aware that hikes and scrambles posted on this group might be extremely difficult scrambles or climbs. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case the group you join needs to split. When in doubt, ask the event's organizer. Event organizers are not guides responsible for your safety. They are simply hiking companions who are posting their hikes.
+::
+
+::warning
+The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to post your own hikes with the rules you want.
+::
+
+## Difference with other groups
+
+See [Meetup Groups](https://www.alberta-hiking-resources.org/meetup-groups)
+
+
+# Alberta Hikers Together
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-link
+  target: _blank
+  title: Access Group
+  to: https://www.facebook.com/groups/406674690939732
+  ---
+  Access the group.
+  :::
+
+  :::card
+  ---
+  icon: i-material-symbols-rule
+  target: _blank
+  title: Group Rules
+  to: https://www.facebook.com/groups/406674690939732/about
+  ---
+  The group rules.
+  :::
+::
+
+## Purpose
+
+[Alberta Hikers Together](https://www.facebook.com/groups/albertahikerstogether){rel="&#x22;nofollow&#x22;"}: Share your hike plans here and join others on their adventures.
+
+**Objective**: Share your hike plans here and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
+
+If you're looking for hiking partners in general, but don't have specific hikes/dates in mind, [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} may be a better place for you to post.
+
+## How is it different from the other FB groups?
+
+Understand how this group relates to [other meetup groups](https://www.alberta-hiking-resources.org/meetup-groups). More specifically:
+
+- Check out the [Meetup Groups](https://www.alberta-hiking-resources.org/meetup-groups) page to understand the similarities and differences with other meetup groups.
+- There are better groups to ask information about [hiking trails, conditions, trail closures, bear attacks](https://www.alberta-hiking-resources.org/hiking-scrambling-beta), etc.
+
+Note that unlike most other groups, this is a **public** group (the content can be accessed without joining the group). This makes it possible for instance to create and
+share an [event](https://www.facebook.com/groups/albertahikerstogether/events/){rel="&#x22;nofollow&#x22;"} to people who are not members of the group (i.e. in other groups, private discussions, etc).
+
+## What are the group rules?
+
+The [rules](https://www.facebook.com/groups/albertahikerstogether/about){rel="&#x22;nofollow&#x22;"} of the group are minimalistic and mostly common sense: as long as you are respectful and **stay on topic**, you are welcome to participate.
+
+The rest of this section describes the rationale for each of the rules that are in place.
+
+### Be kind and courteous
+
+> We're all in this together to create a Welcoming environment. Let's treat everyone with respect. Healthy debates are natural, but kindness is required.
+
+**Why do we have this rule in place?** We want the group to be fun to interact with and leave toxicity out.
+
+### No hate speech or bullying
+
+> Make sure everyone feels safe. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
+
+**Why do we have this rule in place?** We want the group to be fun to interact with and leave toxicity out.
+
+### No promotions or spam
+
+> Give more than you take in this group. Self-promotion, spam and irrelevant links aren't allowed. Legit links to other free groups or pages that help people organize events and find hiking friends are encouraged though.
+
+**Why do we have this rule in place?** As mentioned previously, the group's **sole objective** is to provide a space to connect hikers. Please **refrain from posting any other information**.
+
+### Stay on topic
+
+> Let’s keep it simple and focused: Share your hike plans here and join others on their adventures. When posting, be sure to include the date, time, and location. Feel free to share photos—but only from events listed in this group. For everything else, please use other groups.
+
+**Why do we have this rule in place?** The reason Alberta Hikers Together has been created is because the general-purpose hiking groups often buried meetup posts under a flood of other content. The idea here is to make it easier to find hiking partners.
+
+Posting pictures / trip reports is especially encouraged for people who post their hike plans in the group, since it helps to build excitement for upcoming trips. [Inspirational Groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) and groups providing [practical information](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) are a better match for those who want to share photos of past adventures without organizing a hike.
+
+Finally, we ask that members be specific about the date, time, and trails/hikes being planned. Not only does this make posts more actionable for others, it also helps combat spammers who tend to post vague, non-actionable requests.
+
+If you’re looking to post general requests for hiking partners, check out [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"}—they’re happy to welcome those kinds of posts.
+
+### Your safety is your responsibility
+
+> None of the trips are hosted by professional guides and all of us have average navigation skills. You assume all responsibility for your safety, well-being, and preparedness.
+
+**Why do we have this rule in place?** To remind people that nobody in the group is a professional guide. You should assume that the people you hike with have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
+
+If you want more structured events, check out the [Meetup.com groups](https://www.alberta-hiking-resources.org/meetup-groups/meetups.com) that tend to have stable organizers that enforce stricter rules.
+
+### No unsolicited direct messages
+
+> Use the public group to reach out to other members. Inappropriate messages will not be tolerated.
+
+**Why do we have this rule in place?** The group's sole purpose is to provide a space to connect hikers. Nothing else. If someone posts a hike and you want to join, feel free to reach out to them. Otherwise, consider that to be inappropriate.
+
+### Sales
+
+> No selling of items and gear. Camping and backcountry sites may be posted here for the same face value. Add markups and you will be banned.
+
+**Why do we have this rule in place?** If you have an extra camping spot that you won't use, you are welcome to post it for the same face value. It's a great way to connect with other hikers if you're only going to use one car/tent out of the two allowed on your camping site. And by extension, even if you can't make it all, you're still welcome to post it, it will make someone else's weekend!
+What we want to avoid though are scalpers and scammers. Anyone doing shady deals will be banned.
+
+## Safety warnings
+
+::warning
+Be aware that hikes and scrambles posted on this group might be extremely difficult scrambles or climbs. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case the group you join needs to split. When in doubt, ask the event's organizer. Event organizers are not guides responsible for your safety. They are simply hiking companions who are posting their hikes.
+::
+
+::warning
+The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to post your own hikes with the rules you want.
+::
+
+
+# Find Hiking Groups/Partners, Alberta
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-link
+  target: _blank
+  title: Access Group
+  to: https://www.facebook.com/groups/1835212146753367
+  ---
+  Access the group.
+  :::
+
+  :::card
+  ---
+  icon: i-material-symbols-rule
+  target: _blank
+  title: Group Rules
+  to: https://www.facebook.com/groups/1835212146753367/about
+  ---
+  The group rules.
+  :::
+::
+
+## Purpose
+
+[Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} is a **private** Facebook group to post and join hiking events:
+
+- The group's **sole objective** is to provide a space to connect hikers and organizers. Please **refrain from posting any other information**.
+  There are [better groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
+- The [rules](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} of the group are minimalistic and mostly common sense: as long as you are respectful and stay on topic, you can participate to the group.
+- The group provides a chat for meetups.
+
+## Safety warnings
+
+::warning
+Be aware that hikes and scrambles posted on this group might be extremely difficult scrambles or climbs. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case the group you join needs to split. When in doubt, ask the event's organizer. Event organizers are not guides responsible for your safety. They are simply hiking companions who are posting their hikes.
+::
+
+::warning
+The group isn't a structured organization. Each hike organizer has his/her own philosophy and rules, so make sure to confirm expectations when you join a hike. If you don't like the rules of the current organizers, you are more than welcome to post your own hikes with the rules you want.
+::
+
+## Difference with other groups
+
+See [Meetup Groups](https://www.alberta-hiking-resources.org/meetup-groups)
+
+
+# Hiking & Scrambling Beta
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-book-text
+  title: Guidebooks
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta/guidebooks
+  ---
+  Old-school but gold!
+  :::
+
+  :::card
+  ---
+  icon: i-iconoir-journal-page
+  title: Trip Reports, Blogs, and GPS Traces
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta/trip-reports
+  ---
+  Real stories, real beta!
+  :::
+
+  :::card
+  ---
+  icon: i-lucide-facebook
+  title: Inspirational Facebook Groups
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta/groups
+  ---
+  Scroll-worthy stoke!
+  :::
+
+  :::card
+  ---
+  icon: i-logos-apple-app-store
+  title: Applications (Maps, etc)
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta/apps
+  ---
+  Map out your adventures!
+  :::
+
+  :::card
+  ---
+  icon: i-noto-tent
+  title: Camping & Huts
+  to: https://www.alberta-hiking-resources.org/hiking-scrambling-beta/camping-huts
+  ---
+  Want to sleep close to the trailhead?
+  :::
+::
+
+
+# Guidebooks
+
+## Hiking
+
+To start your journey in the Canadian Rockies:
+
+- [Don't Waste Your Time in the Canadian Rockies](https://www.mec.ca/en/product/5041-091/don%27t-waste-your-time-in-the-canadian-rockies){rel="&#x22;nofollow&#x22;"}: Their selection of hikes is an amazing starting point in the Canadian Rockies.
+  The book only covers the national parks (Banff, Jasper, Kootenay, Yoho and Waterton Lakes national parks, plus Mt. Robson and Mt. Assiniboine provincial parks), not the Kananaskis / Canmore region.
+
+## Scrambling
+
+The two popular scrambling references used by the local community are:
+
+- [Scrambles in the Canadian Rockies (Alan Kane)](https://a.co/d/04zppz97){rel="&#x22;nofollow&#x22;"}: Covers Waterton, Crowsnest, Kananaskis, Canmore, Banff, Yoho, Kootenay, and Jasper
+- [More Scrambles in the Canadian Rockies (Andrew Nugara)](https://a.co/d/0i6t2ZM8){rel="&#x22;nofollow&#x22;"}: Comprehensively covers Waterton, The Castle, and Kananaskis. Also includes scrambles in Crowsnest, Banff, Highway 93 North, and Yoho.
+
+For those interested in scrambling in Montana Glacier National Park, just south of the border:
+
+- [Climb Glacier National Park, Blake Passmore](https://www.amazon.ca/Climb-Glacier-National-Park-Garden-ebook/dp/B0FGQWQ9NR){rel="&#x22;nofollow&#x22;"}
+  - Volumes: [1](https://www.amazon.ca/Climb-Glacier-National-Park-Garden-ebook/dp/B0FGQWQ9NR){rel="&#x22;nofollow&#x22;"}, [2](https://www.amazon.ca/Climb-Glacier-National-Park-Firebrand-ebook/dp/B0FGSD3WFL){rel="&#x22;nofollow&#x22;"}, [3](https://www.amazon.ca/Climb-Glacier-National-Park-Northern-ebook/dp/B0FGST3H8M){rel="&#x22;nofollow&#x22;"}, [4](https://www.amazon.ca/Climb-Glacier-National-Park-Valley-ebook/dp/B0FGL28GB5){rel="&#x22;nofollow&#x22;"}, [5](https://www.amazon.ca/Climb-Glacier-National-Park-Marias-ebook/dp/B0FGKVQ4R3){rel="&#x22;nofollow&#x22;"}
+- [A Climber's Guide to Glacier National Park, J. Gordon Edwards](https://www.amazon.ca/Climbers-Guide-Glacier-National-Park/dp/1940322200){rel="&#x22;nofollow&#x22;"}
+
+## Winter Hiking
+
+- [Snowshoeing in the Canadian Rockies (Andrew Nugara)](https://a.co/d/gD40KlC){rel="&#x22;nofollow&#x22;"}
+
+
+# Trip Reports
+
+## Trip Reports, Blogs, and GPS Traces
+
+A number of individuals in the community share their spreadsheets, trip reports, YouTube videos, GPS Traces, etc.
+
+- [Bob Spirko](http://bobspirko.ca/){rel="&#x22;nofollow&#x22;"}
+- [Explor8ion](https://www.explor8ion.com/){rel="&#x22;nofollow&#x22;"}
+- [Steep Sheep](https://steepsheep.ca/){rel="&#x22;nofollow&#x22;"}
+- [Steven's Peak Bagging Journey](https://stevensong.com/){rel="&#x22;nofollow&#x22;"}
+- Annie Ouellet
+  - [Annie Steve Climbing The Rockies YouTube Trip Reports](https://www.youtube.com/@AnnieSteveClimbingTheRockies){rel="&#x22;nofollow&#x22;"}
+  - [Annie's Spreadsheet](https://onedrive.live.com/edit?id=54745E0F0206ED62!sfbbfb3e593c84980b9ff1f2d127cf827\&resid=54745E0F0206ED62!sfbbfb3e593c84980b9ff1f2d127cf827\&cid=54745e0f0206ed62\&ithint=file%2Cxlsx\&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81NDc0NWUwZjAyMDZlZDYyL0VlV3p2X3ZJazRCSnVmOGZMUko4LUNjQnBMa21Jd3hPVWFTNjhPQzg1VkpLbEE_ZT00Om1vQkJOcyZhdD05\&migratedtospo=true\&wdo=2){rel="&#x22;nofollow&#x22;"}
+
+Additionally, GPX traces can be found on:
+
+- [Peakbagger](https://www.peakbagger.com/){rel="&#x22;nofollow&#x22;"}: Covers peaks in the Alberta Rockies, but also Montana Glacier National Park Rockies and much more!
+- [Strava](http://strava.com/){rel="&#x22;nofollow&#x22;"}
+
+## Facebook Groups
+
+In addition to serving as general-purpose inspirational groups, these groups can provide timely feedback in terms of trail conditions, closures, etc:
+
+- [Hike Alberta](https://www.facebook.com/groups/1644376389112687){rel="&#x22;nofollow&#x22;"} is probably the most popular Facebook group when it comes to looking for inspiration, pictures, and practical information.
+  It is a bit of a monster in terms of volume of posts, and the approach is to give a little bit of everything for everyone.
+- [Wild Canadian Rocky Mountain Hikers](https://www.facebook.com/groups/1907088892741238){rel="&#x22;nofollow&#x22;"} is a popular group for advanced hikers and scramblers. The moderation team is trying their best to promote best practices and knowledge.
+- [Scrambling in the Canadian Rockies](https://www.facebook.com/groups/2251181818/){rel="&#x22;nofollow&#x22;"} is a popular group among [scramblers](https://en.wikipedia.org/wiki/Scrambling){rel="&#x22;nofollow&#x22;"}. The Scrambling in the Canadian Rockies group is for sharing trip reports and conditions, finding partners, and seeking advice related to scrambling in the Canadian Rockies.
+
+
+# Inspirational Groups
+
+## Inspirational Groups (Pictures and Ideas)
+
+- [Hike Alberta](https://www.facebook.com/groups/1644376389112687){rel="&#x22;nofollow&#x22;"} is probably the most popular group when it comes to looking for inspiration, pictures, and practical information.
+  It is a bit of a monster in terms of volume of posts, and the approach is to give a little bit of everything for everyone.
+
+Also make sure to check the [trip report Facebook groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/trip-reports#facebook-groups)
+that are invaluable tools for hiking & scrambling trail research.
+
+
+# Applications
+
+## Maps
+
+If someone reading this has in-depth knowledge of all these apps and the key differences / differentiating factors, please do not hesitate to contribute improvements to this section.
+
+## Mobile map app suggestions:
+
+- [Gaia GPS](https://www.gaiagps.com/){rel="&#x22;nofollow&#x22;"}: A subscription-based app providing offline maps, layers, ability to import GPX files, etc.
+- [On X Maps](https://www.onxmaps.com/backcountry/app){rel="&#x22;nofollow&#x22;"} is an alternative worth checking out.
+- [Outmap](https://www.outmap.pro/){rel="&#x22;nofollow&#x22;"} advertise themselves as the best FATMAP replacement (no longer available after the Strava acquisition).
+- [Caltopo](https://caltopo.com/map.html){rel="&#x22;nofollow&#x22;"} is also worth considering.
+- [Hiiker](https://hiiker.app/){rel="&#x22;nofollow&#x22;"} is yet another alternative.
+
+Articles suggesting various alternatives:
+
+- [Replacing FATMAP](https://mattruta.com/2024/12/07/replacing-fatmap/){rel="&#x22;nofollow&#x22;"}
+- [FATMAP Alternatives](https://www.reddit.com/r/snowboarding/comments/1do9bv7/fatmap_is_gone_what_alternative/){rel="&#x22;nofollow&#x22;"}
+
+## Curated and community-generated trails and traces:
+
+- [Alltrails](https://www.alltrails.com/){rel="&#x22;nofollow&#x22;"}: The paid plans support offline use.
+- [Trailforks](https://www.trailforks.com/){rel="&#x22;nofollow&#x22;"}: available as part of the [Outside+](https://www.gaiagps.com/outsideplus/){rel="&#x22;nofollow&#x22;"} Gaia GPS plan.
+
+## Peaks
+
+The following apps help figure out which peaks one is looking at. Really handy for route finding, orienteering, and satisfying your curiosity!
+
+- [Peakfinder](https://www.peakfinder.com/){rel="&#x22;nofollow&#x22;"}
+- [Peakvisor](https://peakvisor.com/){rel="&#x22;nofollow&#x22;"}. The editors of Peakvisor provide a [comparison with Peakfinder](https://peakvisor.com/en/news/peakfinder-vs-peakvisor.html?gad_source=1\&gad_campaignid=1347242577\&gclid=CjwKCAjwkbzEBhAVEiwA4V-yqso859F1e-b72d9bJaKPEw4Xro-CcAZGJKS6o9hY2FFBbrnvmOXQGRoCbo8QAvD_BwE){rel="&#x22;nofollow&#x22;"}.
+
+
+# Camping & Huts
+
+## 🏕️ Camping
+
+- Parks Canada (National Parks) provides the [reservation launch dates](https://parks.canada.ca/voyage-travel/reserve){rel="&#x22;nofollow&#x22;"}in November or December for the next summer. The reservations launch on different dates for each park, but are usually spread between January 15th and February 15th
+  - [Reservations Website](https://reservation.pc.gc.ca/){rel="&#x22;nofollow&#x22;"}
+- Alberta Parks (Provincial Parks) has a [rolling-window system](https://albertaparks.ca/albertaparksca/visit-our-parks/camping-in-alberta-parks/online-reservations/){rel="&#x22;nofollow&#x22;"}where reservations can be made 90-days in advance for individual and backcountry camping and 180-days in advance for group and comfort camping
+  - [Reservation Website](https://albertaparks.ca/reserve/){rel="&#x22;nofollow&#x22;"}
+- US National Park Service (NPS) (and in particular [Montana Glacier National Park](https://www.nps.gov/glac/planyourvisit/reservation-campgrounds.htm){rel="&#x22;nofollow&#x22;"}) has a rolling-window system where reservations can be made 6 months in advance.
+  - [Reservation Website](https://www.recreation.gov/){rel="&#x22;nofollow&#x22;"}
+
+## 🛖 Huts
+
+- The Alpine Club of Canada has a number of [backcountry huts](https://alpineclubofcanada.ca/huts/){rel="&#x22;nofollow&#x22;"}. They have a rolling-window system where reservations can be made 6 months in advance for ACC members, and 3 months in advance for non-ACC members.
+
+
+# Weather & Trail Conditions
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-cloud-sun-rain
+  title: Weather Forecasts and Webcams
+  to: https://www.alberta-hiking-resources.org/weather-trail-conditions/weather-webcams
+  ---
+  Sun? Rain? Snow? 🤷
+  :::
+
+  :::card
+  ---
+  icon: i-noto-fire
+  title: Fires & Smoke
+  to: https://www.alberta-hiking-resources.org/weather-trail-conditions/fires-smoke
+  ---
+  Keep your lungs healthy and avoid a $25,000 ticket.
+  :::
+
+  :::card
+  ---
+  icon: i-lucide-message-circle-warning
+  title: Trail Conditions & Trip Reports
+  to: https://www.alberta-hiking-resources.org/weather-trail-conditions/trail-conditions
+  ---
+  Your go-to spots for updates on trail conditions and closures.
+  :::
+::
+
+
+# Weather & Webcams
+
+## Weather Forecasts
+
+[Happiest Outdoors](https://happiestoutdoors.ca){rel="&#x22;nofollow&#x22;"} published a guide called [The Best Weather Apps for Hiking](https://happiestoutdoors.ca/weather-apps-for-hiking/#The_Best_Weather_Websites_and_Apps_for_Hikers){rel="&#x22;nofollow&#x22;"} that provides an introduction to some of these weather apps:
+
+- [Spotwx](https://spotwx.com/){rel="&#x22;nofollow&#x22;"}: Spot weather forecasting tool allowing to compare the forecasts of different models for arbitrary GPS locations (Spot = a point or specific location, Wx = short for weather).
+- [Mountain Forecast](https://www.mountain-forecast.com/){rel="&#x22;nofollow&#x22;"}: A forecasting tool allowing to check the forecast for a number of mountains.
+- [Windy.com](https://www.windy.com){rel="&#x22;nofollow&#x22;"}: A powerful and versatile forecasting tool that provides many different layers (Wind, Smoke, Webcams, etc) and that allows visualization directly on a map.
+- [Meteoblue](https://www.meteoblue.com){rel="&#x22;nofollow&#x22;"}: Similarly to Spotwx, allows to compare the forecasts of different models. [Direct access to the map](https://www.meteoblue.com/en/weather/maps#coords=6/50.642/-116.151\&map=windAnimation~rainbow~auto~10%20m%20above%20gnd~none){rel="&#x22;nofollow&#x22;"}
+- [Copernicus Browser](https://browser.dataspace.copernicus.eu/?zoom=11\&lat=51.11557\&lng=-115.35336\&themeId=DEFAULT-THEME\&visualizationUrl=U2FsdGVkX19OYS8r1PkF7Hj2Eq8bZ0uTFMGswnCT4OmZKnQXu%2FlqbB3TcludDVPog1giXoGi4jPic7J1tVMlGVP6X48d%2BNGL3TMLtl2pztt1ZKevqYqQatxOnWpS5k08\&datasetId=S2_L2A_CDAS\&demSource3D=%22MAPZEN%22\&cloudCoverage=30\&dateMode=SINGLE){rel="&#x22;nofollow&#x22;"}: Up-to-date satellite images that are useful to visualize the amount of snow in the mountains
+- [Accuweather](https://www.accuweather.com/){rel="&#x22;nofollow&#x22;"}: A fairly standard weather app
+- [Yr.no](https://www.yr.no/en){rel="&#x22;nofollow&#x22;"}: The official weather website of the Norwegian government. Uses open-source weather data from a variety of sources outside of Norway.
+
+### Weather forecasts for popular locations
+
+| Location                        | Park                  | MeteoBlue                                                                                                             | Accuweather                                                                                                                                                      | Google Maps                                                                |
+| ------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Bragg Creek, AB                 | West Bragg Creek      | [x](https://www.meteoblue.com/en/weather/week/bragg-creek_canada_8051142){rel="&#x22;nofollow&#x22;"}                 | [x](https://www.accuweather.com/en/ca/bragg-creek/t0l/weather-forecast/2289595?city=bragg%20creek){rel="&#x22;nofollow&#x22;"}                                   | [x](https://maps.app.goo.gl/N5agZQGwTopvxeB16){rel="&#x22;nofollow&#x22;"} |
+| Canmore, AB                     | Kananaskis            | [x](https://www.meteoblue.com/en/weather/week/canmore_canada_5914894){rel="&#x22;nofollow&#x22;"}                     | [x](https://www.accuweather.com/en/ca/canmore/t1w/weather-forecast/52142?city=canmore){rel="&#x22;nofollow&#x22;"}                                               | [x](https://maps.app.goo.gl/dHDkmTMr14T41tUR6){rel="&#x22;nofollow&#x22;"} |
+| Kananaskis Village, AB          | Kananaskis            | [x](https://www.meteoblue.com/en/weather/week/kananaskis_canada_11071526){rel="&#x22;nofollow&#x22;"}                 | [x](https://www.accuweather.com/en/ca/kananaskis/t0l/weather-forecast/52284?city=kananaskis){rel="&#x22;nofollow&#x22;"}                                         | [x](https://maps.app.goo.gl/jTuxYv44GBihxaYE9){rel="&#x22;nofollow&#x22;"} |
+| Exshaw, AB                      | Kananaskis            | [x](https://www.meteoblue.com/en/weather/week/exshaw_canada_6940305){rel="&#x22;nofollow&#x22;"}                      | [x](https://www.accuweather.com/en/ca/exshaw/t0l/weather-forecast/51959?city=exshaw){rel="&#x22;nofollow&#x22;"}                                                 | [x](https://maps.app.goo.gl/TNzvnFhgVuA9yM9e8){rel="&#x22;nofollow&#x22;"} |
+| Banff, AB                       | Banff NP              | [x](https://www.meteoblue.com/en/weather/week/banff_canada_5892532){rel="&#x22;nofollow&#x22;"}                       | [x](https://www.accuweather.com/en/ca/banff/t1l/weather-forecast/51958?city=banff){rel="&#x22;nofollow&#x22;"}                                                   | [x](https://maps.app.goo.gl/QSYZfmGA1wwh3utA8){rel="&#x22;nofollow&#x22;"} |
+| Lake Louise, AB                 | Banff NP              | [x](https://www.meteoblue.com/en/weather/week/lake-louise_canada_6048483){rel="&#x22;nofollow&#x22;"}                 | [x](https://www.accuweather.com/en/ca/lake-louise/t0l/weather-forecast/51957?city=lake%20louise){rel="&#x22;nofollow&#x22;"}                                     | [x](https://maps.app.goo.gl/83xmkaC4tKPvm7us9){rel="&#x22;nofollow&#x22;"} |
+| Nordegg, AB                     | David Thomson Country | [x](https://www.meteoblue.com/en/weather/week/nordegg_canada_6089094){rel="&#x22;nofollow&#x22;"}                     | [x](https://www.accuweather.com/en/ca/nordegg/t0m/weather-forecast/52140?city=nordegg){rel="&#x22;nofollow&#x22;"}                                               | [x](https://maps.app.goo.gl/wsjDXVp1mEdxrjBA9){rel="&#x22;nofollow&#x22;"} |
+| Field, BC                       | Yoho NP               | [x](https://www.meteoblue.com/en/weather/week/field_canada_5952555){rel="&#x22;nofollow&#x22;"}                       | [x](https://www.accuweather.com/en/ca/field/v0a/weather-forecast/52832?city=field){rel="&#x22;nofollow&#x22;"}                                                   | [x](https://maps.app.goo.gl/syCQaXDywvcB6LFe8){rel="&#x22;nofollow&#x22;"} |
+| Saskatchewan River Crossing, AB | Icefields, Banff NP   | [x](https://www.meteoblue.com/en/weather/week/saskatchewan-river-crossing_canada_6141254){rel="&#x22;nofollow&#x22;"} | [x](https://www.accuweather.com/en/ca/saskatchewan-river-crossing/t0l/weather-forecast/2295584?city=saskatchewan%20river%20crossing){rel="&#x22;nofollow&#x22;"} | [x](https://maps.app.goo.gl/mJMb7fR3dfc4U6jz5){rel="&#x22;nofollow&#x22;"} |
+| Waterton Lakes                  | Waterton Lakes NP     | [x](https://www.meteoblue.com/en/weather/week/waterton-lakes_canada_8051152){rel="&#x22;nofollow&#x22;"}              | [x](https://www.accuweather.com/en/ca/waterton-park/t0k/daily-weather-forecast/61){rel="&#x22;nofollow&#x22;"}                                                   | [x](https://maps.app.goo.gl/THkt6fjDwKHTh9RP8){rel="&#x22;nofollow&#x22;"} |
+
+## Webcams
+
+- [Windy.com](https://www.windy.com){rel="&#x22;nofollow&#x22;"}: Provides a webcam layer
+- [MeteoBlue](https://www.meteoblue.com/en/weather/webcams/){rel="&#x22;nofollow&#x22;"}: Gives access to some webcams
+- [The Shops of Canmore](https://theshopsofcanmore.panomax.com/){rel="&#x22;nofollow&#x22;"}
+- [Lake Louise Ski Resort](https://skilouise.roundshot.com/ptarmigan/#/){rel="&#x22;nofollow&#x22;"}
+- [Banff and Jasper Webcams](https://www.banffjaspercollection.com/plan-your-trip/webcams/#/0){rel="&#x22;nofollow&#x22;"}
+
+### Webcams for popular locations
+
+| Location                        | Park                | MeteoBlue                                                                                                                | Google Maps                                                                |
+| ------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Canmore, AB                     | Kananaskis          | [x](https://www.meteoblue.com/en/weather/webcams/canmore_canada_5914894){rel="&#x22;nofollow&#x22;"}                     | [x](https://maps.app.goo.gl/dHDkmTMr14T41tUR6){rel="&#x22;nofollow&#x22;"} |
+| Kananaskis Village, AB          | Kananaskis          | [x](https://www.meteoblue.com/en/weather/webcams/kananaskis_canada_11071526){rel="&#x22;nofollow&#x22;"}                 | [x](https://maps.app.goo.gl/jTuxYv44GBihxaYE9){rel="&#x22;nofollow&#x22;"} |
+| Exshaw, AB                      | Kananaskis          | [x](https://www.meteoblue.com/en/weather/webcams/exshaw_canada_6940305){rel="&#x22;nofollow&#x22;"}                      | [x](https://maps.app.goo.gl/TNzvnFhgVuA9yM9e8){rel="&#x22;nofollow&#x22;"} |
+| Banff, AB                       | Banff NP            | [x](https://www.meteoblue.com/en/weather/webcams/banff_canada_5892532){rel="&#x22;nofollow&#x22;"}                       | [x](https://maps.app.goo.gl/QSYZfmGA1wwh3utA8){rel="&#x22;nofollow&#x22;"} |
+| Lake Louise, AB                 | Banff NP            | [x](https://www.meteoblue.com/en/weather/webcams/lake-louise_canada_6048483){rel="&#x22;nofollow&#x22;"}                 | [x](https://maps.app.goo.gl/83xmkaC4tKPvm7us9){rel="&#x22;nofollow&#x22;"} |
+| Field, BC                       | Yoho NP             | [x](https://www.meteoblue.com/en/weather/webcams/field_canada_5952555){rel="&#x22;nofollow&#x22;"}                       | [x](https://maps.app.goo.gl/syCQaXDywvcB6LFe8){rel="&#x22;nofollow&#x22;"} |
+| Saskatchewan River Crossing, AB | Icefields, Banff NP | [x](https://www.meteoblue.com/en/weather/webcams/saskatchewan-river-crossing_canada_6141254){rel="&#x22;nofollow&#x22;"} | [x](https://maps.app.goo.gl/mJMb7fR3dfc4U6jz5){rel="&#x22;nofollow&#x22;"} |
+| Waterton Lakes                  | Waterton Lakes NP   | [x](https://www.meteoblue.com/en/weather/webcams/waterton-lakes_canada_8051152){rel="&#x22;nofollow&#x22;"}              | [x](https://maps.app.goo.gl/THkt6fjDwKHTh9RP8){rel="&#x22;nofollow&#x22;"} |
+
+## Climate Data
+
+- [Canadian Climate Normals](https://climate.weather.gc.ca/climate_normals/index_e.html){rel="&#x22;nofollow&#x22;"}
+- [US Climate Normals](https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals){rel="&#x22;nofollow&#x22;"}
+
+
+# Fires & Smoke
+
+## Smoke and Air Quality Forecasts
+
+- [Firesmoke.ca](https://firesmoke.ca/forecasts/current/){rel="&#x22;nofollow&#x22;"}: Displays active fires and smoke on a map.
+- [Windy.com](https://www.windy.com){rel="&#x22;nofollow&#x22;"} provides a smoke layer that can be activated by using the "PM2.5" layer.
+- [NASA Fire Information for Resource Management System](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-106.6,51.3,6.0z){rel="&#x22;nofollow&#x22;"}
+- [MeteoBlue](https://www.meteoblue.com/en/weather/outdoorsports/airquality/){rel="&#x22;nofollow&#x22;"}: provides Air Quality forecasts
+- [Alberta Active Wildfires](https://www.alberta.ca/wildfire-status#jumplinks-0){rel="&#x22;nofollow&#x22;"}: The official Alberta Wildfire Status Dashboard. [Direct access to the map](https://www.arcgis.com/apps/dashboards/3ffcc2d0ef3e4e0999b0cf8b636defa3){rel="&#x22;nofollow&#x22;"}
+- [BC Wildfire Service](https://wildfiresituation.nrs.gov.bc.ca/map){rel="&#x22;nofollow&#x22;"}: The official British Columbia Wildfire Status Dashboard.
+- [IQAir](https://www.iqair.com/){rel="&#x22;nofollow&#x22;"}. [Direct access to the map](https://www.iqair.com/air-quality-map){rel="&#x22;nofollow&#x22;"}
+- [Alberta Air Quality Health Index](https://airquality.alberta.ca/map){rel="&#x22;nofollow&#x22;"}
+
+### Direct Access to air quality forecasts
+
+| Location                        | Park                | MeteoBlue                                                                                                                    | IQ Air                                                                        | Google Maps                                                                |
+| ------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Canmore, AB                     | Kananaskis          | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/canmore_canada_5914894){rel="&#x22;nofollow&#x22;"}        | [x](https://www.iqair.com/canada/alberta/canmore){rel="&#x22;nofollow&#x22;"} | [x](https://maps.app.goo.gl/dHDkmTMr14T41tUR6){rel="&#x22;nofollow&#x22;"} |
+| Kananaskis Village, AB          | Kananaskis          | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/kananaskis_canada_11071526){rel="&#x22;nofollow&#x22;"}    |                                                                               | [x](https://maps.app.goo.gl/jTuxYv44GBihxaYE9){rel="&#x22;nofollow&#x22;"} |
+| Exshaw, AB                      | Kananaskis          | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/exshaw_canada_6940305){rel="&#x22;nofollow&#x22;"}         | [x](https://www.iqair.com/canada/alberta/exshaw){rel="&#x22;nofollow&#x22;"}  | [x](https://maps.app.goo.gl/TNzvnFhgVuA9yM9e8){rel="&#x22;nofollow&#x22;"} |
+| Banff, AB                       | Banff NP            | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/banff_canada_5892532){rel="&#x22;nofollow&#x22;"}          | [x](https://www.iqair.com/canada/alberta/banff){rel="&#x22;nofollow&#x22;"}   | [x](https://maps.app.goo.gl/QSYZfmGA1wwh3utA8){rel="&#x22;nofollow&#x22;"} |
+| Lake Louise, AB                 | Banff NP            | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/lake-louise_canada_6048483){rel="&#x22;nofollow&#x22;"}    |                                                                               | [x](https://maps.app.goo.gl/83xmkaC4tKPvm7us9){rel="&#x22;nofollow&#x22;"} |
+| Field, BC                       | Yoho NP             | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/field_canada_5952555){rel="&#x22;nofollow&#x22;"}          |                                                                               | [x](https://maps.app.goo.gl/syCQaXDywvcB6LFe8){rel="&#x22;nofollow&#x22;"} |
+| Saskatchewan River Crossing, AB | Icefields, Banff NP | [x](https://www.meteoblue.com/en/weather/week/saskatchewan-river-crossing_canada_6141254){rel="&#x22;nofollow&#x22;"}        |                                                                               | [x](https://maps.app.goo.gl/mJMb7fR3dfc4U6jz5){rel="&#x22;nofollow&#x22;"} |
+| Waterton Lakes                  | Waterton Lakes NP   | [x](https://www.meteoblue.com/en/weather/outdoorsports/airquality/waterton-lakes_canada_8051152){rel="&#x22;nofollow&#x22;"} |                                                                               | [x](https://maps.app.goo.gl/THkt6fjDwKHTh9RP8){rel="&#x22;nofollow&#x22;"} |
+
+## Fire Bans and Fire Restrictions
+
+No one likes a $25,000 ticket.
+
+- [Alberta Fire Bans](https://albertafirebans.ca/){rel="&#x22;nofollow&#x22;"}: A map allowing to visualize the current fire bans in Alberta (Cities, Provincial Parks, and National Parks)
+- [Alberta Parks Fire Bans](https://www.albertaparks.ca/albertaparksca/advisories-public-safety/fire-bans/){rel="&#x22;nofollow&#x22;"}: The current fire bans and restrictions in Alberta provincial parks.
+- [British Columbia Fire Bans and Restrictions](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prevention/fire-bans-and-restrictions){rel="&#x22;nofollow&#x22;"}: The current fire bans and restrictions in British Columbia provincial parks.
+- [Montana Fire Info](https://www.mtfireinfo.org){rel="&#x22;nofollow&#x22;"}
+  - [Restrictions](https://www.mtfireinfo.org/pages/restrictions){rel="&#x22;nofollow&#x22;"}
+  - [Current Fire Info](https://www.mtfireinfo.org/pages/current-fire-info){rel="&#x22;nofollow&#x22;"}
+
+| National Park                                                                                                                               | Wildfire Status                                                                                                                                | Fire Ban Information                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Jasper National Park, AB](https://parks.canada.ca/pn-np/ab/jasper/visit/feu-alert-fire){rel="&#x22;nofollow&#x22;"}                        | [Wildfire Status](https://parks.canada.ca/pn-np/ab/jasper/visit/feu-alert-fire/feudeforet-wildfire){rel="&#x22;nofollow&#x22;"}                | [Fire Ban Information](https://parks.canada.ca/pn-np/ab/jasper/visit/feu-alert-fire/interdit-ban){rel="&#x22;nofollow&#x22;"}                     |
+| [Banff National Park, AB](https://parks.canada.ca/pn-np/ab/banff/nature/conservation/feu-fire){rel="&#x22;nofollow&#x22;"}                  | [Wildfire Status](https://parks.canada.ca/pn-np/ab/banff/nature/conservation/feu-fire/miseajour-update){rel="&#x22;nofollow&#x22;"}            | [Fire Ban Information](https://parks.canada.ca/pn-np/ab/banff/nature/conservation/feu-fire/interdit-ban){rel="&#x22;nofollow&#x22;"}              |
+| [Waterton Lakes National Park, AB](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire){rel="&#x22;nofollow&#x22;"}       | [Wildfire Status](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire/fue-fire-info#fire-danger){rel="&#x22;nofollow&#x22;"} | [Fire Ban Information](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire/fue-fire-info#safe-fire){rel="&#x22;nofollow&#x22;"} |
+| [Waterton Lakes National Park, AB](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire){rel="&#x22;nofollow&#x22;"}       | [Wildfire Status](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire/fue-fire-info#fire-danger){rel="&#x22;nofollow&#x22;"} | [Fire Ban Information](https://parks.canada.ca/pn-np/ab/waterton/nature/environment/feu-fire/fue-fire-info#safe-fire){rel="&#x22;nofollow&#x22;"} |
+| [Kootenay National Park, BC](https://parks.canada.ca/pn-np/bc/kootenay/visit/feu-alert-fire){rel="&#x22;nofollow&#x22;"}                    | [Wildfire Status](https://parks.canada.ca/pn-np/bc/kootenay/visit/feu-alert-fire/feudeforet-wildfire){rel="&#x22;nofollow&#x22;"}              | [Fire Ban Information](https://parks.canada.ca/pn-np/bc/kootenay/visit/feu-alert-fire/interdit-ban){rel="&#x22;nofollow&#x22;"}                   |
+| [Yoho National Park, BC](https://parks.canada.ca/pn-np/bc/yoho/visit/feu-alert-fire){rel="&#x22;nofollow&#x22;"}                            | [Wildfire Status](https://parks.canada.ca/pn-np/bc/yoho/visit/feu-alert-fire/feudeforet-wildfire){rel="&#x22;nofollow&#x22;"}                  | [Fire Ban Information](https://parks.canada.ca/pn-np/bc/yoho/visit/feu-alert-fire/interdit-ban){rel="&#x22;nofollow&#x22;"}                       |
+| [Glacier National Park, BC](https://parks.canada.ca/pn-np/bc/glacier/securite-safety/feu-fire-info){rel="&#x22;nofollow&#x22;"}             |                                                                                                                                                |                                                                                                                                                   |
+| [Mount Revelstoke National Park, BC](https://parks.canada.ca/pn-np/bc/revelstoke/securite-safety/feu-fire-info){rel="&#x22;nofollow&#x22;"} |                                                                                                                                                |                                                                                                                                                   |
+
+
+# Trail Conditions & Trip Reports
+
+## Official Announcements
+
+A number of resources are available to get more information on the trail conditions (snow, mud) and closures (grizzly bears, etc).
+
+For those new to the area, keep in mind that because of the accumulation of snow, most of the bigger hikes/objectives in the national parks
+are only dry (read: accessible) from July 15th to September 15th.
+
+Given that the weather is highly heterogeneous in the Rockies, it is often possible to find objectives that are dry before and after this period,
+but these are usually in Kananaskis. You can narrow your search to: Exshaw area, Highway 40 north of Peter Lougheed, and West Bragg Creek.
+
+Provincial Parks:
+
+- [Alberta Parks Trail Reports](https://www.albertaparks.ca/parks/kananaskis/kananaskis-country/advisories-public-safety/trail-reports/){rel="&#x22;nofollow&#x22;"}
+
+National Parks:
+
+- [Jasper National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/jasper/activ/experience/sentiers-trails/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Banff National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Waterton Lakes National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/waterton/activ/experiences/randonee-hiking/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Kootenay National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/kootenay/activ/randonnee-hike/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Yoho National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/yoho/activ/randonnee-hike/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Glacier National Park (BC) Trail Conditions](https://parks.canada.ca/pn-np/bc/glacier/activ/randonee-hiking/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+- [Mount Revelstoke National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions){rel="&#x22;nofollow&#x22;"}
+
+## Community Resources
+
+In addition to the following resources, make sure to check the [trip report Facebook groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/trip-reports#facebook-groups)
+that provide timely feedback about trail conditions and closures.
+
+### Trail Conditions and Trip Reports
+
+- [Lake O'Hara Hiking and Camping Planning, Updates, and Trip Reports](https://www.facebook.com/groups/1226679748231773){rel="&#x22;nofollow&#x22;"}: Anything and everything about Lake O'Hara in Yoho National Park, including trip reports and trail condition updates
+- [Mt. Temple Scramble Q\&A/Info](https://www.facebook.com/groups/247447826919134){rel="&#x22;nofollow&#x22;"}: Among other things, provides frequent trail condition updates about Mount Temple
+- [Alltrails](https://www.alltrails.com/){rel="&#x22;nofollow&#x22;"} has a comment section for each hike where people usually describe the trail conditions. Extremely useful during shoulder season.
+
+### Avalanche Info
+
+- [Banff National Park FB Group](https://www.facebook.com/BanffNP/){rel="&#x22;nofollow&#x22;"}
+- [Kananasky Country Public Safety FB Group](https://www.facebook.com/KCPublicSafety/){rel="&#x22;nofollow&#x22;"}
+- Association of Canadian Mountain Guides
+  - [Website](https://www.acmg.ca/){rel="&#x22;nofollow&#x22;"}
+  - [FB Group](https://www.facebook.com/ACMG.ca){rel="&#x22;nofollow&#x22;"}
+- [Avalanche Canada Website](https://www.avalanche.ca/en/map){rel="&#x22;nofollow&#x22;"}
+
+
+# Outdoor Gear
+
+## Discounts
+
+- [Happiest Outdoors](https://happiestoutdoors.ca/){rel="&#x22;nofollow&#x22;"}'s weekly [newsletter](https://landing.mailerlite.com/webforms/landing/g1s9v2){rel="&#x22;nofollow&#x22;"} provides heads up on sales and discounts on outdoor gear from Canadian retailers.
+- [Expert Voice](https://www.expertvoice.com/){rel="&#x22;nofollow&#x22;"}: Gives access to discounts on popular outdoor gear brands for [Alpine Club of Canada](https://alpineclubofcanada.ca/){rel="&#x22;nofollow&#x22;"} members.
+- [The Last Hunt](https://www.thelasthunt.com/){rel="&#x22;nofollow&#x22;"}: Altitude Sports' outlet store.
+
+### Ultralight Gear
+
+- The [Canada's Ultralight Backpacking Community 🇨🇦](https://www.facebook.com/groups/714484153811705){rel="&#x22;nofollow&#x22;"}'s purpose is to celebrate the passion for ultralight backpacking, thru hiking, and its related community. While not being a group specific to the Canadian Rockies, there is a strong presence from the region.
+- [Geartrade](https://geartrade.ca/){rel="&#x22;nofollow&#x22;"} is a [company founded in Okotoks, AB](https://geartrade.ca/pages/the-geartrade-story){rel="&#x22;nofollow&#x22;"} that provides great ultralight options.
+- [Durston Gear](https://durstongear.com/){rel="&#x22;nofollow&#x22;"} is extremely popular among the Canadian Rockies ultralight community. The gear is [designed in the heart of the Rockies](https://durstongear.com/pages/about){rel="&#x22;nofollow&#x22;"}.
+
+### Electronics
+
+- [Rocky Talkie](https://rockytalkie.ca/){rel="&#x22;nofollow&#x22;"} builds the backcountry radio that most of the community seems to swear by. [Alpine Club of Canada](https://alpineclubofcanada.ca/){rel="&#x22;nofollow&#x22;"} members get a 20% discount on Rocky Talkies.
+
+
+# Hike Organizers
+
+::tip
+---
+target: _blank
+to: https://www.alberta-hiking-resources.org/getting-started/contributing
+---
+Are you a regular hike organizer?
+No matter what group you post in, if you'd like a little space to share your hiking vibe, rules, or trail philosophy — we'd love to include you! Just reach out! 🥾📝
+::
+
+Not all hike organizers are cut from the same trail map 🗺️ — and that's totally okay! Some love fast summits and no breaks, others prefer long picnics with 360° views. 🍕🏔️☀️
+This section is here to give each organizer their own space to tell you what to expect when tagging along on one of their adventures. No surprises (except for the views 😍).
+
+::card-group
+  :::card
+  ---
+  icon: i-gis-hiker
+  title: Sami
+  to: https://www.alberta-hiking-resources.org/hike-organizers/sami
+  ---
+  Sunrise starts, summit photoshoots, and type-2 fun guaranteed! 🌄📸
+  :::
+::
+
+
+# Sami
+
+## Social Accounts
+
+::card-group
+  :::card
+  ---
+  icon: i-lucide-instagram
+  target: _blank
+  title: Instagram (@samidalouche)
+  to: https://www.instagram.com/samidalouche/
+  ---
+  Follow me to enjoy the highlights of each trip.
+  :::
+
+  :::card
+  ---
+  icon: i-lucide-facebook
+  target: _blank
+  title: Facebook (sami.dalouche)
+  to: https://www.facebook.com/sami.dalouche
+  ---
+  Follow me to see all pictures for each trip. Mostly for people that I have met in real-life.
+  :::
+
+  :::card
+  ---
+  icon: i-mingcute-threads-line
+  target: _blank
+  title: Threads (@samidalouche)
+  to: https://www.threads.net/@samidalouche
+  ---
+  Follow me to get a heads up of my hiking plans before they are finalized and posted in the Alberta Hikers Together Facebook Group.
+  :::
+::
+
+## 🎯 Want to join a Sami hike?
+
+So, you're thinking of joining a Sami hike? Woohoo! 🎉
+
+If you've landed on this page, chances are you followed a link from one of my hiking invites and you're wondering:
+“What exactly am I signing up for here?” 👣📨
+
+What you need to know:
+
+- 🧠 No Interviews: Unlike some organizers, I don't run a vetting process — no fitness tests, no gear checklists, no “are-you-worthy-of-this-hike” quizzes 📝🙅‍♂️. Instead, I believe in shared responsibility and good communication 🤝💬:
+  - 🧭 I do my best to [describe my [hiking style]](https://www.alberta-hiking-resources.org/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) and trip philosophy so you can decide if it feels like a good match 💛🥾
+  - 🔍 You do your research to see if the hike fits your skills, experience, and comfort level. And if my plan seems fishy 🐟 or sketchy ❓— call me out! I'm no expert, just a stoked hiker with a spreadsheet.
+  - 🎒 You choose your own adventure gear — food, water, maps, spikes, rainbow windbreakers — it's all up to you. 🗺️🥪💧 Don't complain if you're usually good with 1L of water and you end up needing 5L on a 15-hour Summer Sami Special hike that doesn't have any source of water along the way. Or if you're cold at the summit because all you brought is a windbreaker and don't usually enjoy long breaks at the summit. Be ultralight at your own risk!
+- 🤔 Got questions or doubts? Just message me! I'm always down to chat and sort things out.
+- 🎯 The goal isn't perfection. We're just trying to avoid those rare “oops-this-wasn't-a-fit” moments 🚫🤕
+- Refer to the [What to Expect on a Classic Sami Hike](https://www.alberta-hiking-resources.org/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike) section to understand what a typical Sami hike looks like.
+
+So if you like your hikes with honesty and a sprinkle of shared accountability…
+Welcome to the crew 🏕️🫶
+
+Let's plan smart, hike happy, and enjoy the wild together! 🌄✨
+
+## 🥾 What to Expect on a Classic Sami Hike
+
+### 💡 Key Takeaways
+
+Here's what a typical Summer hike looks like when the sun is shining and the vibes are high:
+
+⸻
+
+📖 Know what you're getting into
+
+- Most of the hikes I post are scrambles with difficult terrain (scree, loose/crumbly rock).
+- While every hike differs, I usually plan 12-to-15-hour days when I expect bluebird skies + warm temps, and 7-10 hour days otherwise.
+- The technical term to describe these is sufferfest 🤭, so don't trust the stats (distance/elevation), they don't tell the whole story! 😎
+- The [Hiking & Scrambling Beta section](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) page links to useful resources to help with the planning process.
+
+⸻
+
+⏰ Early Starts = Maximum Fun
+
+- 5:00am at the trailhead is the norm 😴🌄 — sometimes even earlier for those extra-spicy objectives 🏔️🔥
+- In Spring/Fall, we sleep in (a little) — usually around 7:00am starts, since it's too chilly for long snack + photo breaks ❄️
+
+⸻
+
+🚦 Starts On Time, Every Time
+
+- Respecting the early birds 🐦 means we start at the posted time!
+- Meeting time = 15 mins before the hike begins.
+  So if the hike starts at 5am and you roll up at 5:05… you're actually 20 minutes late. Oops! ⏳😅
+
+⸻
+
+📸 Picture Breaks Galore
+
+- When the sun's out and the mountains are sparkling ✨, I'm on a photo frenzy. Expect lots of stops!
+- Hate photo breaks? Join a colder weather hike — the colder it is, the fewer pics I take 😬📷
+- Love being trail-famous? Wear bright colors and strike a pose — I share all pics in full-res after! 🎨👯‍♂️🖼️
+
+⸻
+
+🐢🏃‍♂️ “Moderate” Pace — Whatever That Means
+
+- I say moderate… but everyone defines that differently 🤷‍♂️
+- Boring trail? We zoom 🛣️💨
+  Epic views? We slow to a crawl for photos and oohs and ahhs 🐌📸🌄
+- When there is a beautiful alpine lake or an inviting waterfall pool, we always take time for a cold dip! 👙🩲
+- If the event is listed as “fast,” I mean it! Otherwise, expect a mixed rhythm that adapts to the trail.
+
+⸻
+
+🧀🛋️ Summit = Lounge Zone
+
+- If the weather's nice, expect to chill for hours at the top 😎🧺
+  Food, naps, views, deep chats — it's a summit hang, not a summit sprint.
+- Not a fan of long breaks? You've got options:
+  1. 👋 It's cool to split off early if you want to head down.
+  2. 🧊 Come on colder-season hikes — I'm not a summit-sitter when it's freezing!
+
+⸻
+
+🏁 Finishing with Style
+
+- Goal = start hiking early-enough to wrap up by 5pm without rushing, especially on Saturdays so we can:
+  - 🏊‍♂️ Go for a cold dip
+  - 🍻 Celebrate with a post-hike beer
+  - 🏕️ Still have time to chill at camp
+  - 🛌 💤 Go to bed early, to be ready for another adventure the next day!
+- 📆 On Sundays (Fundays), I'm happy to finish later — let traffic pass and ride the mellow wave home 🚗
+- 🕠 If plans shift, no stress — starting early gives us plenty of cushion to wrap up later. I like planning with extra room for detours and surprises.
+
+⸻
+
+Ready for adventure? Bring good vibes, bright gear, and maybe a snack to share 😄👟🌈
+See you on the trail! 🏔️💛
+
+### ⚠️ Your Safety = Your Responsibility
+
+Just a friendly heads-up: I'm not a pro mountain guide 🧢❌⛰️.
+I've got average navigation skills, decent mountain sense, and a big love for adventure — but you are 100% in charge of your own safety, prep, and decisions 🧭🥾
+
+Think of me as your enthusiastic trail buddy, not your personal GPS or mountain guru 🤓✨
+
+⸻
+
+📌 Here's what that means in practice:
+
+- ❗ Don't assume I fully know what I'm doing — I often have plans, but Mother Nature might have other ideas ☁️🪨
+- 🔍 Do your own research — read up, map it out, and know what you're getting into
+- 🗺️ Bring your own maps and route info — be ready in case we need to split or adjust plans
+- 🧃 Pack food + water like we're doing an epic — sunny days + long breaks = thirstier hikers 😅☀️
+- 🪖 Bring the right gear (helmet, spikes, axe, whatever the mountain calls for). Not sure? Ask the crew!
+- 🔦 Plans change! Extra layers and a headlamp can go from “nice to have” to “thank goodness I brought this” real fast 🌄🥶
+
+⸻
+
+The mountain doesn't care how confident we sound — so let's all come prepared, stay humble, and have each other's backs 💚🏕️🧠
+
+We'll have way more fun knowing we've got the essentials just in case! 👣🎒
+
+### 🧩 Sticking Together vs. Splitting the Group
+
+Ah yes — the great trail debate: Should we all hike together like one big happy trail family? 👣👨‍👩‍👧‍👦
+Or is it cool to split up if people are vibing at different paces? 🤷‍♂️🏃‍♀️🐢
+
+Here's my take:
+I'm 100% chill with splitting — especially in bigger groups (7–9 folks). It's totally normal for different hikers to settle into different paces 🚶‍♀️🏃‍♂️ and honestly, forcing a group to move as one mega-hiker can make things feel clunky and weird.
+
+✨ Live and let hike! ✨
+Sharing part of the trail is still sharing something special — even if we don't stick together the whole way 🏔️🧡
+
+⸻
+
+🧭 But What If Someone Overestimated the Hike?
+
+It happens — we're all human (and occasionally overconfident 😅).
+If someone's not feeling it, my take is: unless it's a safety emergency, we should look for smart, kind options 💡❤️ — like having them chill at a scenic spot while the group continues.
+
+🔁 Loops are trickier than out-and-backs, so let's think things through before we split.
+
+⸻
+
+🧠 Things to Keep in Mind if We Do Split:
+
+- 🐻 Minimum group size rules (hello, Parks Canada bear safety!) mean splitting may not be allowed
+- ↩️ Out-and-backs are easier to manage — we'll be returning the same way anyway!
+- 🗺️ Everyone should have maps + route info — don't assume someone else has it!
+- 🧗‍♂️ How technical is the hike? A mellow walk or a spicy scramble?
+- 🚶‍♀️ Is the trail busy or are we totally alone in the wilderness?
+- 🚗 Carpool chaos is real — don't leave your ride behind without a plan 😬
+
+⸻
+
+BTW — this goes both ways! 💯
+There have been times when I didn't feel good about pushing for a summit and waited for the group to go up and come back. It's all about mutual respect and using common sense 🧘‍♂️🌤️
+
+If you're someone who really prefers sticking together the whole time, no problem! Just let me know before the hike so we can set expectations and avoid awkward trail drama 🗣️🤝
+
+⸻
+
+Bottom line: We use our brains, our hearts, and our GPS 📍💚🗺️ — and try not to split the group in silly ways. Deal?
+
+## 🏕️ What to Expect on a Multi-Day Camping or Hut Trip
+
+First things first — my fave multi-day trips are the chill, flexible, go-with-the-flow kind 😎🌄. That means: no pressure to do everything together. Seriously.
+
+The best vibes happen when everyone feels free to do their own thing by day — hike solo, chill at camp, chase peaks, nap in a meadow 💤🌼 — and then come together in the evening for laughs, shared food, and cozy campfire hangs 🔥🍲🌌.
+
+Why I Love This Style:
+
+- 🗺️ Everyone's explored different trails — we've all got different “must-dos”
+- 🐢🐇 Pace, break style, and start time vary a lot — mine are in the [previous section](https://www.alberta-hiking-resources.org/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike), but I adapt depending on the weather 🌦️
+- 🧘‍♀️ Some folks need chill rest days; others are ready to send it daily 💪. A diverse group means you'll have company regardless.
+- 🤝 We don't need to match 100% — just be upfront about your style/preferences!
+- 🔄 Bad weather tends to mellow everyone out anyway (later starts, shorter hikes), so magic compatibility can happen unexpectedly ☁️💫
+
+☀️🌧️ How Weather & Smoke Shape My Plans:
+
+- Bluebird skies + warm temps? Count me in for 3:00am starts and long, leisurely summit hangs: 12-to-15-hour days 😍📸
+- Smoky skies? I'm out. Those are rest/snack/book/lake float days 😷📖🛶
+- Cloudy but dry? Let's hit the mid-tier hikes: 7-10 hour days — still fun, just a little less photogenic ☁️
+- Rainy? You'll need to be my motivational hype squad to get me up 1200m for a whiteout summit 😂⛰️☔️
+
+⸻
+
+🎯 Bottom line: We don't need to do everything together to have a great trip — A diverse group gives more options to everyone 🧡
+
+And don't miss [What to Expect on a Classic Sami Hike](https://www.alberta-hiking-resources.org/hike-organizers/sami#what-to-expect-on-a-classic-sami-hike)— it totally applies here too! 📚👀
+
+## ❓ Frequently Asked Questions
+
+### ⏰ Why do your hikes start sooo early?
+
+Ah yes, the infamous alpine start 🌄 — while some folks are hitting snooze, I'm already tying my boots in the dark 😴🥾
+
+Here's the deal: different hikers have different priorities. Mine? I like to squeeze the juice out of every hiking day 🍋👣
+
+Here's what I'm aiming for:
+
+- 📸 Plenty of photo breaks — yes, we're hiking, but also yes, you will be asked to pose on a rock like a majestic mountain goat 🐐✨
+- 🏔️ Long summit hangs — think hours at the top, soaking in views, sunshine, snacks, and trail tea 🧃☀️🧀
+- 🍻 Early finish (\~5pm) — so we can celebrate with a cold dip 🏊‍♂️ and a cold beer 🍺 (or both!), followed by real food and early zzz's 😴
+- 🛠️ Wiggle room for chaos — because let's be real: plans are great until the trail says “plot twist!” 🤪⛰️
+
+To make all that magic happen, we start early. Like, really early.
+Real-life examples:
+
+- 🌅 Pharaoh Peak: started at 4am, caught sunrise at Healy Pass 🌄 (August 2022)
+- 🏞️ Skyline Trail: started at 5am, because Jasper sun waits for no one 😎 (September 2023)
+
+Oh — and just so you know, both of those were listed as “FAST” hikes 🏃‍♀️💨, not your average leisurely strolls. Pace yourself accordingly!
+
+### 🕒 Why don't you wait for people who are late?
+
+Great question! When I post a hike, the meeting time is actually 15 minutes before we hit the trail 🥾⏳ — that buffer is built in for bathroom breaks 🚻, gear tweaks 🎒, and tying those stubborn boot laces 👟.
+
+So if we start hiking “on time,” we've actually already waited 15 minutes ⌛ — which feels like a fair grace period, right?
+
+- Is 15 minutes a fair wait? I think so! 🤷‍♂️
+- If not… what is? 🤔 Should we bring a stopwatch and take votes? 😄
+
+Here's why I stick to this system:
+
+- 📶 Many trailheads have no cell service, so waiting around for a text that never comes just doesn't work.
+- 🧊 Early mornings can be chilly, and it's not fair to leave the punctual folks shivering while we wait.
+- ✅ It keeps things simple, consistent, and respectful of everyone's time — especially at 4am when we're all half-asleep anyway 😴☕️
+
+Bottom line: I love hiking with people… but I also love starting on time. If you're ever unsure, message me ahead of time or aim to arrive a little early 😋
+
+### 📣 Where do you post your hikes?
+
+I usually kick things off by creating an event on [Alberta Hikers Together](https://www.facebook.com/groups/406674690939732){rel="&#x22;nofollow&#x22;"} 🏞️ — it's a public group, so anyone can see and join the fun! 🎉👀
+
+Then I share it with a few other awesome trail-loving communities:
+
+- 🔒 [Find Hiking Groups/Partners, Alberta](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} – a private group full of friendly folks looking to hit the trails.
+- 🔒 [Alberta Hikers & Climbers](https://www.facebook.com/groups/1409264842848628){rel="&#x22;nofollow&#x22;"} – for the mountain goats and rock scramblers among us 🐐🧗‍♀️
+
+Also! There's a whole section on [meetup groups](https://www.alberta-hiking-resources.org/meetup-groups) if you're curious about more ways to connect and hike with others 📅👣💬
+
+### 🤔 Why don't you “vet” people like other organizers do?
+
+Good question! Here's the deal:
+
+- I don't really see myself as a capital-O Organizer 🙅‍♂️📋 — I'm just someone who loves hiking and enjoys sharing the trail with cool humans 🥾❤️
+- Some organizers go full interview-mode before each hike… and honestly, that sounds like a lot of admin for my dirtbag lifestyle 😅⛺️. I'd rather spend that time chasing peaks than reading bios.
+- So far, my track record is: one “oops” moment per summer (May–Nov) 🤷‍♂️ — nothing catastrophic, just the kind of thing you laugh about after snacks and rehydration 🧃🍫
+- Plus, a few of those oopsies were kinda on me — setting better expectations is something I'm working on 👀📝
+- And even if I wanted to vet folks… how good would I be at it? I'm still pretty new to Alberta 🐣⛰️ and learning this whole mountain game one trail at a time.
+- Honestly? Most of the people I hike with are way more experienced and better prepared than me 🧠📚. Sometimes I feel like I'm tagging along on their hike!
+
+So yeah — no gatekeeping here. Just vibes, transparency, and good-faith effort. Let's hike, learn, and laugh it off together 💬👣🔥
+
+### 🤷‍♀️ I want to join a hike but can't commit just yet…
+
+No worries at all — I'm super chill about it! 😎 If you can make it, awesome! If not, no hard feelings — catch you on the next adventure! 👋🥾
+
+Just a tiny favor: if you're a maybe, please give me a heads-up 🙋‍♂️ and try not to lock in any carpool plans 🚗🚫 that could throw a wrench in everyone else's groove. Sharing is caring, after all! 💖✨
+
+### 🚗 Can we carpool from Calgary?
+
+I'm usually out camping under the stars 🌌 on Friday and Saturday nights from late June through early September — so carpooling on those weekends isn't in the cards for me. 🏕️✨
+
+But when we're heading back from Calgary, I usually rally the troops to meet up and carpool from the trusty old [Petro Canada at Hwy 1 & 22](https://maps.app.goo.gl/MiFTBkwnhJCzxCEe7){rel="&#x22;nofollow&#x22;"} ⛽️🚙. Perfect spot to fuel up and hit the road together!
+
+Plus — every hike gets its own group chat 📱💬, so talk to you in there to find your carpool crew, share rides, or even trade snacks for the trip. 🥨🍫 Let's make the ride as fun as the hike!
+
+### 🤔 What's the usual crew size on your hikes?
+
+Most of my adventures roll with a cozy crew of 3-4 awesome humans 👫🥾— just the right vibe for good chats and laughs 😄.
+Every now and then, we get a bigger party going — think 7-8 trailblazers strong! 🎉👣 More fun, more stories, more pictures 📸 !
+
+### 🤔 Why do you post your hikes so late in the week?
+
+Great question! Here's the deal: I'm in a committed relationship with good weather 😎☀️ — and I don't like getting ghosted by last-minute snowstorms ❄️ or surprise smoke 😷🔥.
+
+The more unpredictable the conditions (hello, Alberta!), the longer I wait to lock in the plan. I like to save the big, epic hikes 🏔️💪 for those perfect bluebird days 🌈, and swap in more chill or flexible options when the forecast plays hard to get.
+
+So yeah… sometimes a Saturday hike doesn't show up until Thursday night or even Friday afternoon 🕵️‍♂️📲. If you're curious what's cooking before I post, just shoot me a message — happy to give you a sneak peek 👀👟🎒
+
+### 📝 Do you keep a log of your hikes?
+
+You bet I do! 🤓🥾
+Welcome to my treasure trove of trails — check out [the spreadsheet here](https://docs.google.com/spreadsheets/d/1Bi9QlnNzdtOEetXOotyN7IZTlS3qCa3vKy4vbVL_n-w/edit?usp=sharing){rel="&#x22;nofollow&#x22;"} 📊✨
+It's packed with all the goodies: hike dates 📅, peak names 🏔️, stats 📈, and links to my Garmin adventures ⌚️💥
+
+The Garmin portal doesn't show GPS tracks directly (rude, I know 😤), but if you want GPX files 🧭 or route info 🗺️, just give me a shout! I'm always happy to share the trail love 💌🌲
+
+### 😷 Do you hike when it's smoky?
+
+Not really my vibe — I like my lungs the way they are! 💨🫁
+If the smoke rolls in and the forecast takes a turn, I'll usually cancel the hike or scramble.
+
+That said, if you're feeling brave and still want to go full mountain goat without me, go for it! I'll be cheering you on from somewhere with cleaner air (and probably snacks).
+
+### ⛺️ Can we go camping together?
+
+Heck yes! I'd love that.
+
+Start by checking out [What to expect when joining a multi-day camping or hut trip](https://www.alberta-hiking-resources.org/hike-organizers/sami#%EF%B8%8F-what-to-expect-on-a-multi-day-camping-or-hut-trip) — it's full of helpful info and a few spicy surprises. 🌶️
+
+If you're a planner, hit me up in 📅 November or December — that's when I start scheming and dreaming up 🌞 summer adventures. (Most of the national park bookings go live in January — it's a race, and we're in it to win it.)
+
+If you're more of a last-minute butterfly 🦋, no worries — keep an eye on [the groups I post to](https://www.alberta-hiking-resources.org/hike-organizers/sami#where-do-you-post-your-hikes). Sometimes magic happens: someone cancels, and 💥 boom!
+There's space for you to join the fun.
+
+### 🥾 What is a Summer Sami Special™?
+
+You'll know it's a Summer Sami Special™ when the magic recipe comes together just right:
+
+- 🌞 Weather: That dreamy summer sweet sun, bluebird skies, and zero wildfire smoke in the air. Yes please.
+- 🏔️ The Big Objective: A deliciously ridiculous goal — jaw-dropping views and a Type 2 fun sufferfest that leaves everyone's legs and soul equally wrecked (in the best way).
+- 🎉 The Vibe: An amazing crew that turns a hike into a rolling party — full of laughs, deep chats, trail fun, and unforgettable memories.
+- ⏰ Alpine Start O'Clock: If it's not before 4am, is it even a real Sami hike? Nope.
+- 📸 Photoshoots Galore: We're talking model behavior here — goofy poses, epic action shots, candid trail joy, and more camera clicks than summit steps.
+- 🍻 Post-Hike Joy: Done early enough to celebrate — cold drinks, lakeside dips, shared snacks, and stories flowing around a picnic table or campsite fire.
+
+I don't get to pick the weather (unfortunately), but when the skies look good, I'll bring the big mountain goals — and yes, that means a very early start. The rest — the crew, the fun, the magic — that's all you. 🤝 Deal?
+
+### 🗓️ Can you provide the template that you use to create FB events?
+
+Sure!
+
+```text
+📚 New to Sami's Hikes? Read the intro [1].
+
+👥 Participants:
+  • Sami
+  • Mo Sleiman
+
+📍 Trail Info
+  • 🗺️ AllTrails [2]
+  • 📖 Bob Spirko [3]
+  • 🔄 Bob Spirko provides the GPX that we can follow
+  • 💡 Got a more exciting suggestion that's close to Lower Lake Campground (Peter Lougheed)? Hit us up!
+It's tricky right now to find trails that are actually ready… but we're open 👀
+
+⏰ Time
+  • 🕕 Meet at 06:45 at the AllTrails trailhead
+  • 🚶‍♂️ Start hiking at 07:00 sharp
+  • 🐢 Intermediate/moderate pace with plenty of photo breaks 📸
+  • 😎 1h+ summit chill—wind gods permitting 🌪️🤞
+  • 🎯 Aim to return early/mid afternoon (potential risk of thunderstorm), then off to chill mode 😌
+
+🏖️ After Hike
+  • 🏊 Cold dip -- bring a swimming suit 🩳👙
+  • 🥩🍻 BBQ at Upper Kananaskis Lake — aka “Steak Heaven Party” 🥳🔥
+  • ☀️ Fingers crossed for sun, not wind! (Manifesting good weather 🙏)
+  • 🔥 You're also welcome to join us around the campfire at Lower Lake Campground after 🍫🌌
+
+🌤️ Forecasts
+  • 🌦️ Accuweather [4]
+  • 🏔️ MeteoBlue [5]
+  • 🏔️ Mountain forecast of a mountain nearby [6]
+
+🛠️ Logistics
+  • 🔊 Bring your Rocky Talkie if you have one — Set it up to Channel 06, Privacy Code (CT) 02.
+  • 🏊 Cold dip -- bring a swimming suit 🩳👙
+  • 📵 We'll lose cell service Friday afternoon — let's coordinate before, or just meet at the trailhead
+  • 📲 Message me if you're interested and I'll add you to the private chat group 🔒👥
+
+⚠️ Quick Safety Note
+
+I'm not a pro guide — just a stoked hiker with average mountain + nav skills 🧭😄
+You are fully responsible for your safety, prep, and gear. Please:
+  • Do your own research 🧠
+  • Bring proper gear 🎒
+  • Be self-reliant if the group splits 🧍‍♂️🧍‍♀️
+
+📚 New to Sami's Hikes?
+
+Start here → https://www.alberta-hiking-resources.org/hike-organizers/sami
+
+[1] https://www.alberta-hiking-resources.org/hike-organizers/sami
+[2] https://www.alltrails.com/trail/canada/alberta/old-baldy-peak
+[3] http://bobspirko.ca/Hiking/Kananaskis/OldBaldy/OldBaldy.html
+[4] https://www.accuweather.com/en/ca/kananaskis/t0l/daily-weather-forecast/52284
+[5] https://www.meteoblue.com/en/weather/week/kananaskis_canada_11071526
+[6] https://www.mountain-forecast.com/peaks/Mount-Baldy-Alberta/forecasts/2192
+
+```
+
+
+# F.A.Q.
+
+## 🥾 Where can I find hiking or scrambling ideas?
+
+Check out the [Hiking & Scrambling Beta](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) section
+
+## 🌤️ Where can I figure out the weather, trail conditions, etc?
+
+Check out the [Weather & Trail Conditions](https://www.alberta-hiking-resources.org/weather-trail-conditions) section
+
+## 🎒 Where can I find information about gear?
+
+Check out the [Outdoor Gear](https://www.alberta-hiking-resources.org/outdoor-gear) section

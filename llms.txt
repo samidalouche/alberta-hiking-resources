@@ -1,0 +1,52 @@
+# Alberta Hiking Resources
+
+> Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas.
+
+## Documentation Sets
+
+- [Alberta Hiking Resources](https://www.alberta-hiking-resources.org/llms-full.txt): Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas.
+
+## Getting Started
+
+- [Introduction](https://www.alberta-hiking-resources.org/getting-started): Welcome to Alberta Hiking Resources.
+- [Contribute](https://www.alberta-hiking-resources.org/getting-started/contributing): Contribute to this site
+
+## Meetup Groups
+
+- [Meetups](https://www.alberta-hiking-resources.org/meetup-groups): A few solid options to find your hiking fam.
+- [Facebook Meetups](https://www.alberta-hiking-resources.org/meetup-groups/facebook): A few solid options to find your hiking fam.
+- [Meetup.com](https://www.alberta-hiking-resources.org/meetup-groups/meetup.com): Formal hiking groups on Meetup.com.
+- [Alpine Club of Canada](https://www.alberta-hiking-resources.org/meetup-groups/acc): Events organized by the Alpine Club of Canada.
+- [Guided Trips](https://www.alberta-hiking-resources.org/meetup-groups/guided-trips): Excursions organized by professional guides.
+- [Alberta Hikers & Climbers](https://www.alberta-hiking-resources.org/meetup-groups/alberta-hikers-and-climbers): Alberta Hikers & Climbers's group info.
+- [Alberta Hikers Together](https://www.alberta-hiking-resources.org/meetup-groups/alberta-hikers-together): Alberta Hikers Together group info.
+- [Find Hiking Groups/Partners, Alberta](https://www.alberta-hiking-resources.org/meetup-groups/find-hiking-groups-partners-alberta): Find Hiking Groups/Partners, Alberta group info.
+
+## Hiking & Scrambling Beta
+
+- [Hiking & Scrambling Beta](https://www.alberta-hiking-resources.org/hiking-scrambling-beta): Get inspired and start planning your next adventure.
+- [Guidebooks](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/guidebooks): Hiking and Scrambling guidebooks
+- [Trip Reports](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/trip-reports): Trip Reports, Blogs, and GPS Traces.
+- [Inspirational Groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/groups): Inspirational Groups (Pictures and Ideas).
+- [Applications](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/apps): Applications (Maps, etc)
+- [Camping & Huts](https://www.alberta-hiking-resources.org/hiking-scrambling-beta/camping-huts): Want to sleep close to the trailhead?
+
+## Weather & Trail Conditions
+
+- [Weather & Trail Conditions](https://www.alberta-hiking-resources.org/weather-trail-conditions): Don't get caught off guard! Use these to check what Mother Nature's cooking.
+- [Weather & Webcams](https://www.alberta-hiking-resources.org/weather-trail-conditions/weather-webcams): Sun? Rain? Snow? 🤷
+- [Fires & Smoke](https://www.alberta-hiking-resources.org/weather-trail-conditions/fires-smoke): Keep your lungs healthy and avoid a $25,000 ticket.
+- [Trail Conditions & Trip Reports](https://www.alberta-hiking-resources.org/weather-trail-conditions/trail-conditions): Your go-to spots for updates on trail conditions and closures.
+
+## Outdoor Gear
+
+- [Outdoor Gear](https://www.alberta-hiking-resources.org/outdoor-gear): Because having the right gear makes the hike way more fun (and less cold/soggy).
+
+## Hike Organizers
+
+- [Hike Organizers](https://www.alberta-hiking-resources.org/hike-organizers): Welcome to Alberta Hiking Resources.
+- [Sami](https://www.alberta-hiking-resources.org/hike-organizers/sami): Sami's trail and camping philosophy.
+
+## Frequently Asked Questions
+
+- [F.A.Q.](https://www.alberta-hiking-resources.org/faq): Frequently Asked Questions
