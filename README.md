@@ -70,6 +70,9 @@ Check out [deploy.sh](./deploy.sh)
 
 ## Dev Resources
 
+### VsCode Setup
+- [Vue Extension](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
 ### Initial Project Setup
 The project was initially set up using
 
