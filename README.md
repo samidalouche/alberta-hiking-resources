@@ -24,6 +24,12 @@
     pnpm dev
     ```
 
+## Continuous Integration
+
+### Renovate integration
+
+- Installed the [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) in the repository
+
 
 ## Deployment
 
@@ -92,10 +98,13 @@ Icon integration:
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 And specifically, the [Github integration](https://nuxt.com/deploy/github-pages).
 
-### Renovate integration
 
-Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+### Testing Notes
 
+#### Validate Open Graph Image rendering
+
+- [X Card Validator](https://www.schedulethreads.com/tools/twitter-x-card-validator)
+- [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 
 ## License
 

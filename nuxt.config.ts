@@ -26,6 +26,12 @@ export default defineNuxtConfig({
     }
   },
 
+  runtimeConfig: {
+    public: {
+      siteUrl: 'https://www.alberta-hiking-resources.org'
+    }
+  },
+
   experimental: {
     asyncContext: true
   },
@@ -54,12 +60,6 @@ export default defineNuxtConfig({
   icon: {
     provider: 'iconify'
   },
-
-  // runtimeConfig: {
-  //   public: {
-  //     siteUrl: 'https://www.alberta-hiking-resources.org'
-  //   }
-  // },
 
   llms: {
     domain: 'https://www.alberta-hiking-resources.org',
