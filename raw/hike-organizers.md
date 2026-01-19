@@ -1,0 +1,22 @@
+# Introduction
+
+> Welcome to Alberta Hiking Resources.
+
+<tip target="_blank" to="/getting-started/contributing">
+
+Are you a regular hike organizer?
+No matter what group you post in, if you'd like a little space to share your hiking vibe, rules, or trail philosophy — we'd love to include you! Just reach out! 🥾📝
+
+</tip>
+
+Not all hike organizers are cut from the same trail map, and that's totally okay! Some love fast summits and no breaks, others prefer long picnics with 360° views. 🍕🏔️☀️
+
+This section is here to give each organizer their own space to tell you what to expect when tagging along on one of their adventures.
+
+<card-group>
+<card icon="i-gis-hiker" title="Sami" to="/hike-organizers/sami">
+
+Sunrise starts, summit photoshoots, and type-2 fun guaranteed! 🌄📸
+
+</card>
+</card-group>

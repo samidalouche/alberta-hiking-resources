@@ -1,0 +1,48 @@
+# Trail Conditions & Trip Reports
+
+> Your go-to spots for updates on trail conditions and closures.
+
+## Official Announcements
+
+A number of resources are available to get more information on the trail conditions (snow, mud) and closures (grizzly bears, etc).
+
+For those new to the area, keep in mind that because of the accumulation of snow, most of the bigger hikes/objectives in the national parks
+are only dry (read: accessible) from July 15th to September 15th.
+
+Given that the weather is highly heterogeneous in the Rockies, it is often possible to find objectives that are dry before and after this period,
+but these are usually in Kananaskis. You can narrow your search to: Exshaw area, Highway 40 north of Peter Lougheed, and West Bragg Creek.
+
+Provincial Parks:
+
+- [Alberta Parks Trail Reports](https://www.albertaparks.ca/parks/kananaskis/kananaskis-country/advisories-public-safety/trail-reports/)
+
+National Parks:
+
+- [Jasper National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/jasper/activ/experience/sentiers-trails/etat-sentiers-trail-conditions)
+- [Banff National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking/etat-sentiers-trail-conditions)
+- [Waterton Lakes National Park Trail Conditions](https://parks.canada.ca/pn-np/ab/waterton/activ/experiences/randonee-hiking/etat-sentiers-trail-conditions)
+- [Kootenay National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/kootenay/activ/randonnee-hike/etat-sentiers-trail-conditions)
+- [Yoho National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/yoho/activ/randonnee-hike/etat-sentiers-trail-conditions)
+- [Glacier National Park (BC) Trail Conditions](https://parks.canada.ca/pn-np/bc/glacier/activ/randonee-hiking/etat-sentiers-trail-conditions)
+- [Mount Revelstoke National Park Trail Conditions](https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions)
+
+## Community Resources
+
+In addition to the following resources, make sure to check the [trip report Facebook groups](/hiking-scrambling-beta/trip-reports#facebook-groups)
+that provide timely feedback about trail conditions and closures.
+
+### Trail Conditions and Trip Reports
+
+- [Lake O'Hara Hiking and Camping Planning, Updates, and Trip Reports](https://www.facebook.com/groups/1226679748231773): Anything and everything about Lake O'Hara in Yoho National Park, including trip reports and trail condition updates
+- [Mt. Temple Scramble Q&A/Info](https://www.facebook.com/groups/247447826919134): Among other things, provides frequent trail condition updates about Mount Temple
+- [Alltrails](https://www.alltrails.com/) has a comment section for each hike where people usually describe the trail conditions. Extremely useful during shoulder season.
+
+### Avalanche Info
+
+- [Banff National Park FB Group](https://www.facebook.com/BanffNP/)
+- [Kananasky Country Public Safety FB Group](https://www.facebook.com/KCPublicSafety/)
+- Association of Canadian Mountain Guides
+
+  - [Website](https://www.acmg.ca/)
+  - [FB Group](https://www.facebook.com/ACMG.ca)
+- [Avalanche Canada Website](https://www.avalanche.ca/en/map)

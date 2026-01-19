@@ -1,0 +1,35 @@
+# Introduction
+
+> A few solid options to find your hiking fam.
+
+Whether you're new to hiking in Alberta or looking to expand your outdoor community, there are many ways to connect with fellow hiking enthusiasts.
+
+From informal Facebook groups to organized meetups and guided expeditions, you'll find options that suit your experience level and hiking style.
+
+This section covers the main platforms and organizations where Albertans gather to plan trips, share advice, and build lasting connections with other hikers.
+
+<card-group>
+<card icon="i-lucide-facebook" title="Facebook Meetups" to="/meetup-groups/facebook">
+
+A few solid options of Facebook Group to find your hiking fam.
+
+</card>
+
+<card icon="i-simple-icons-meetup" title="Meetup.com Meetups" to="/meetup-groups/meetup.com">
+
+Formal hiking groups on Meetup.com.
+
+</card>
+
+<card icon="i-streamline-emojis:canada" title="Events organized by the Alpine Club of Canada." to="/meetup-groups/acc">
+
+Formal hiking groups on Meetup.com.
+
+</card>
+
+<card icon="i-logos:getyourguide" title="Guided Trips" to="/meetup-groups/guided-trips">
+
+Excursions organized by professional guides.
+
+</card>
+</card-group>

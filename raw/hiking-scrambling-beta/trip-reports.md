@@ -1,0 +1,30 @@
+# Trip Reports
+
+> Trip Reports, Blogs, and GPS Traces.
+
+## Trip Reports, Blogs, and GPS Traces
+
+A number of individuals in the community share their spreadsheets, trip reports, YouTube videos, GPS Traces, etc.
+
+- [Bob Spirko](http://bobspirko.ca/)
+- [Explor8ion](https://www.explor8ion.com/)
+- [Steep Sheep](https://steepsheep.ca/)
+- [Steven's Peak Bagging Journey](https://stevensong.com/)
+- Annie Ouellet
+
+  - [Annie Steve Climbing The Rockies YouTube Trip Reports](https://www.youtube.com/@AnnieSteveClimbingTheRockies)
+  - [Annie's Spreadsheet](https://onedrive.live.com/edit?id=54745E0F0206ED62!sfbbfb3e593c84980b9ff1f2d127cf827&resid=54745E0F0206ED62!sfbbfb3e593c84980b9ff1f2d127cf827&cid=54745e0f0206ed62&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81NDc0NWUwZjAyMDZlZDYyL0VlV3p2X3ZJazRCSnVmOGZMUko4LUNjQnBMa21Jd3hPVWFTNjhPQzg1VkpLbEE_ZT00Om1vQkJOcyZhdD05&migratedtospo=true&wdo=2)
+
+Additionally, GPX traces can be found on:
+
+- [Peakbagger](https://www.peakbagger.com/): Covers peaks in the Alberta Rockies, but also Montana Glacier National Park Rockies and much more!
+- [Strava](http://strava.com/)
+
+## Facebook Groups
+
+In addition to serving as general-purpose inspirational groups, these groups can provide timely feedback in terms of trail conditions, closures, etc:
+
+- [Hike Alberta](https://www.facebook.com/groups/1644376389112687) is probably the most popular Facebook group when it comes to looking for inspiration, pictures, and practical information.
+It is a bit of a monster in terms of volume of posts, and the approach is to give a little bit of everything for everyone.
+- [Wild Canadian Rocky Mountain Hikers](https://www.facebook.com/groups/1907088892741238) is a popular group for advanced hikers and scramblers. The moderation team is trying their best to promote best practices and knowledge.
+- [Scrambling in the Canadian Rockies](https://www.facebook.com/groups/2251181818/) is a popular group among [scramblers](https://en.wikipedia.org/wiki/Scrambling). The Scrambling in the Canadian Rockies group is for sharing trip reports and conditions, finding partners, and seeking advice related to scrambling in the Canadian Rockies.

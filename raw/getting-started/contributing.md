@@ -1,0 +1,32 @@
+# Contribute
+
+> Contribute to this site
+
+## 📣 Call for Help
+
+[Sami](/hike-organizers/sami) — the original creator of this site — is full of hiking stoke but not quite full of all the knowledge in the Rockies 🏔️.
+
+This site isn't meant to be a one-hiker show… it's an open trailhead for a shared effort to make info better, richer, and more helpful for everyone 📚.
+
+👋 Wanna Lend a Boot?
+
+You're more than welcome to contribute if any of this sounds like you:
+
+- 🌐 You know of great hiking groups we should highlight, or can help flesh out info on the ones already listed 📝
+- 🥾 You're a hike organizer and want to share your vibe, style, and what folks should expect on your adventures 💬
+- 🔧 You've got trail wisdom to drop — whether it's safety tips, gear recs, or “I learned this the hard way” kind of knowledge 🧠
+
+Whether it's a quick fix, a full section, or just a friend ly pointer to better info — every little bit helps 🫶🌲
+Let's build this trail guide together! 🛠️🗺️✨
+
+Use the 'Edit this page' link located to the right of each page to propose changes through [GitHub](https://github.com/samidalouche/alberta-hiking-resources).
+
+## 📜 License
+
+All this trail-loving info is shared under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) 🌍
+
+That means:
+
+- ✅ You can use it
+- 🛠️ You can remix it
+- 🔁 You can share it — as long as you give credit and share it under the same terms 🎉♻️
