@@ -14,11 +14,6 @@ export default defineNuxtConfig({
     'nuxt-llms',
     '@nuxtjs/mcp-toolkit'
   ],
-  
-  site: {  
-    url: siteUrl,  
-    name: siteTitle
-  }, 
 
   devtools: {
     enabled: true,
@@ -30,6 +25,10 @@ export default defineNuxtConfig({
 
   css: ['~/assets/css/main.css'],
 
+  site: {
+    url: siteUrl,
+    name: siteTitle
+  },
   content: {
     build: {
       markdown: {
