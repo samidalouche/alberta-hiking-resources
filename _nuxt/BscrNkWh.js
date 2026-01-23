@@ -1,1 +1,0 @@
-import{X as n,e as p,o as r,v as c,a1 as u,c as i,a4 as e}from"./CepbSdjT.js";const m={base:"my-5 leading-7 text-pretty"},_={__name:"ProseP",props:{class:{type:null,required:!1}},setup(s){const a=s,t=n(),o=i(()=>e({extend:e(m),...t.ui?.prose?.p||{}}));return(l,d)=>(r(),p("p",{class:u(o.value({class:a.class}))},[c(l.$slots,"default")],2))}};export{_ as default};
