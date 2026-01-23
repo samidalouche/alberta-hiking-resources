@@ -17,7 +17,7 @@
     "@nuxt/ui": "^4.3.0",
     "@nuxtjs/mcp-toolkit": "0.6.2",
     "better-sqlite3": "^12.6.2",
-    "nuxt": "^4.2.2",
+    "nuxt": "^4.3.0",
     "nuxt-llms": "0.2.0",
     "nuxt-og-image": "^5.1.13",
     "zod": "^4.3.5"
