@@ -14,18 +14,18 @@
     "@iconify-json/vscode-icons": "^1.2.40",
     "@nuxt/content": "^3.11.0",
     "@nuxt/image": "^2.0.0",
-    "@nuxt/ui": "^4.3.0",
+    "@nuxt/ui": "^4.4.0",
     "@nuxtjs/mcp-toolkit": "0.6.2",
     "better-sqlite3": "^12.6.2",
     "nuxt": "^4.3.0",
     "nuxt-llms": "0.2.0",
     "nuxt-og-image": "^5.1.13",
-    "zod": "^4.3.5"
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.2.10",
     "@iconify-json/lucide": "^1.2.86",
-    "@iconify-json/material-symbols": "^1.2.52",
+    "@iconify-json/material-symbols": "^1.2.53",
     "@iconify-json/noto": "^1.2.7",
     "@iconify-json/simple-icons": "^1.2.67",
     "@iconify-json/streamline-emojis": "^1.2.4",
