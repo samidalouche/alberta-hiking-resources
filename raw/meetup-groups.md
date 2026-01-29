@@ -11,7 +11,7 @@ This section covers the main platforms and organizations where Albertans gather 
 <card-group>
 <card icon="i-lucide-facebook" title="Facebook Meetups" to="/meetup-groups/facebook">
 
-A few solid options of Facebook Group to find your hiking fam.
+A few solid options of Facebook groups to find your hiking fam.
 
 </card>
 

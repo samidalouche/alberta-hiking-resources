@@ -85,7 +85,7 @@ You're more than welcome to contribute if any of this sounds like you:
 - 🥾 You're a hike organizer and want to share your vibe, style, and what folks should expect on your adventures 💬
 - 🔧 You've got trail wisdom to drop — whether it's safety tips, gear recs, or “I learned this the hard way” kind of knowledge 🧠
 
-Whether it's a quick fix, a full section, or just a friend ly pointer to better info — every little bit helps 🫶🌲
+Whether it's a quick fix, a full section, or just a friendly pointer to better info — every little bit helps 🫶🌲
 Let's build this trail guide together! 🛠️🗺️✨
 
 Use the 'Edit this page' link located to the right of each page to propose changes through [GitHub](https://github.com/samidalouche/alberta-hiking-resources){rel="&#x22;nofollow&#x22;"}.
@@ -116,7 +116,7 @@ This section covers the main platforms and organizations where Albertans gather 
   title: Facebook Meetups
   to: https://www.alberta-hiking-resources.org/meetup-groups/facebook
   ---
-  A few solid options of Facebook Group to find your hiking fam.
+  A few solid options of Facebook groups to find your hiking fam.
   :::
 
   :::card
@@ -208,7 +208,7 @@ title: Heads up!
 ## Meetup.com Groups
 
 The following [Meetup.com](https://meetup.com){rel="&#x22;nofollow&#x22;"} groups generally have a more formal leadership,
-so they are a great place to start for poeple looking for a more structured hiking environment.
+so they are a great place to start for people looking for a more structured hiking environment.
 
 - [Slow and Steady Hikers](https://www.meetup.com/slow-and-steady-hikers/){rel="&#x22;nofollow&#x22;"}: Even though advertised as "slow and steady", the actual speed depends on each organizer. Each organizer vets the participants and
   in some cases, even have a waitlist.
@@ -228,7 +228,7 @@ You need to purchase a [membership](https://alpineclubofcanada.ca/membership/){r
 
 ### Guided Trips
 
-If you would like to participate to guided trips, you can hire the services of a certified mountain guide:
+If you would like to participate in guided trips, you can hire the services of a certified mountain guide:
 
 - Association of Canadian Mountain Guides
   - [Website](https://www.acmg.ca/){rel="&#x22;nofollow&#x22;"}
@@ -368,7 +368,7 @@ If you’re looking to post general requests for hiking partners, check out [Fin
 
 **Why do we have this rule in place?** To remind people that nobody in the group is a professional guide. You should assume that the people you hike with have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
 
-If you want more structured events, check out the [Meetup.com groups](https://www.alberta-hiking-resources.org/meetup-groups/meetups.com) that tend to have stable organizers that enforce stricter rules.
+If you want more structured events, check out the [Meetup.com groups](https://www.alberta-hiking-resources.org/meetup-groups/meetup.com) that tend to have stable organizers that enforce stricter rules.
 
 ### No unsolicited direct messages
 
@@ -424,7 +424,7 @@ The group isn't a structured organization. Each hike organizer has his/her own p
 
 - The group's **sole objective** is to provide a space to connect hikers and organizers. Please **refrain from posting any other information**.
   There are [better groups](https://www.alberta-hiking-resources.org/hiking-scrambling-beta) to ask information about hiking trails, conditions, trail closures, bear attacks, etc.
-- The [rules](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} of the group are minimalistic and mostly common sense: as long as you are respectful and stay on topic, you can participate to the group.
+- The [rules](https://www.facebook.com/groups/1835212146753367){rel="&#x22;nofollow&#x22;"} of the group are minimalistic and mostly common sense: as long as you are respectful and stay on topic, you can participate in the group.
 - The group provides a chat for meetups.
 
 ## Safety warnings

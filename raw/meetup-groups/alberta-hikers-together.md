@@ -76,7 +76,7 @@ If you’re looking to post general requests for hiking partners, check out [Fin
 
 **Why do we have this rule in place?** To remind people that nobody in the group is a professional guide. You should assume that the people you hike with have average mountain and navigation skills and you assume all responsibility for your safety, well-being and preparedness. Do your own research to ensure that you know what you are getting into and be prepared to be self-reliant in case we have to split.
 
-If you want more structured events, check out the [Meetup.com groups](/meetup-groups/meetups.com) that tend to have stable organizers that enforce stricter rules.
+If you want more structured events, check out the [Meetup.com groups](/meetup-groups/meetup.com) that tend to have stable organizers that enforce stricter rules.
 
 ### No unsolicited direct messages
 

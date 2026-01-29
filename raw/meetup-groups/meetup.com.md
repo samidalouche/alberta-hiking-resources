@@ -11,7 +11,7 @@
 ## Meetup.com Groups
 
 The following [Meetup.com](https://meetup.com) groups generally have a more formal leadership,
-so they are a great place to start for poeple looking for a more structured hiking environment.
+so they are a great place to start for people looking for a more structured hiking environment.
 
 - [Slow and Steady Hikers](https://www.meetup.com/slow-and-steady-hikers/): Even though advertised as "slow and steady", the actual speed depends on each organizer. Each organizer vets the participants and
 in some cases, even have a waitlist.
