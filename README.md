@@ -133,6 +133,7 @@ This work is licensed under a
 ## TODO
 
 ### App
+- [ ] Investigate usage of `MDX` files to DRY things up (homepage vs intro, etc)
 - [ ] optimize icons?
 - [ ] Find ways to DRY the text
   - "Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas." everywhere?
@@ -146,6 +147,7 @@ This work is licensed under a
 - [ ] More appealing graphics, generally
 - [ ] Add section on Hikers Gathering?
 - [ ] Safety Checklist
+- [ ] Trip Reports: https://tripreports.voyageurtripper.com/blog/
 
 ### Build
 - [ ] Build docker development image that runs the [vscode backend](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
