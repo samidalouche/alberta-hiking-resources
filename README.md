@@ -152,3 +152,4 @@ This work is licensed under a
 ### Build
 - [ ] Build docker development image that runs the [vscode backend](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
 - [ ] Set up [StackBlitz / CodeSandbox](https://nuxt.com/docs/4.x/getting-started/installation)
+
