@@ -1,0 +1,1 @@
+import{X as c,o as n,e as p,p as l,a1 as m,c as u,a4 as s}from"./CXVAXOFA.js";const i={base:""},_={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,o=c(),t=u(()=>s({extend:s(i),...o.ui?.prose?.em||{}}));return(r,f)=>(n(),p("em",{class:m(t.value({class:a.class}))},[l(r.$slots,"default")],2))}};export{_ as default};

@@ -1,0 +1,1 @@
+import{X as l,o as n,e as r,p as c,a1 as u,c as i,a4 as e}from"./CXVAXOFA.js";const m={base:"my-5 leading-7 text-pretty"},_={__name:"ProseP",props:{class:{type:null,required:!1}},setup(s){const a=s,t=l(),o=i(()=>e({extend:e(m),...t.ui?.prose?.p||{}}));return(p,d)=>(n(),r("p",{class:u(o.value({class:a.class}))},[c(p.$slots,"default")],2))}};export{_ as default};
