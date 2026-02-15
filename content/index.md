@@ -65,7 +65,6 @@ What you will find
   ---
   color: neutral
   size: lg
-  target: _blank
   to: /getting-started
   trailingIcon: i-lucide-arrow-right
   variant: subtle

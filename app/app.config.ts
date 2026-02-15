@@ -1,4 +1,5 @@
 export default defineAppConfig({
+  repository: 'samidalouche/alberta-hiking-resources',
   ui: {
     colors: {
       primary: 'green',
@@ -25,6 +26,10 @@ export default defineAppConfig({
     search: true,
     colorMode: true,
     links: [{
+      'icon': 'i-lucide-history',
+      'to': '/changelog',
+      'aria-label': 'Changelog'
+    }, {
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/samidalouche/alberta-hiking-resources',
       'target': '_blank',
