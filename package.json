@@ -28,16 +28,16 @@
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/release-notes-generator": "^14.1.0",
     "@iconify-json/logos": "^1.2.10",
-    "@iconify-json/lucide": "^1.2.95",
+    "@iconify-json/lucide": "^1.2.96",
     "@iconify-json/material-symbols": "^1.2.60",
     "@iconify-json/noto": "^1.2.7",
     "@iconify-json/simple-icons": "^1.2.72",
     "@iconify-json/streamline-emojis": "^1.2.4",
     "@iconify-json/streamline-stickies-color": "^1.2.2",
     "@nuxt/eslint": "^1.15.2",
-    "eslint": "^10.0.2",
+    "eslint": "^10.0.3",
     "typescript": "^5.9.3",
     "vue-tsc": "^3.2.5"
   },
-  "packageManager": "pnpm@10.30.3"
+  "packageManager": "pnpm@10.31.0"
 }
