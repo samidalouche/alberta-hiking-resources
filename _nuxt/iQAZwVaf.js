@@ -1,1 +1,0 @@
-import{X as r,o as c,e as l,p,a1 as u,c as i,a4 as s}from"./Cc8AuSCS.js";const m={base:""},g={__name:"ProseStrong",props:{class:{type:null,required:!1}},setup(e){const a=e,o=r(),t=i(()=>s({extend:s(m),...o.ui?.prose?.strong||{}}));return(n,f)=>(c(),l("strong",{class:u(t.value({class:a.class}))},[p(n.$slots,"default")],2))}};export{g as default};
