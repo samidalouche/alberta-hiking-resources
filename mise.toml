@@ -39,7 +39,7 @@ run = [
   { task = "build" },
 ]
 
-[tasks.publish]
+[tasks.build-pages]
 description = "Build the Nuxt application for GitHub Pages deployment"
 depends = ["install"]
-run = "nuxt build --preset github_pages"
+run = "pnpm build:pages"

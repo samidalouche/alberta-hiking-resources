@@ -8,7 +8,8 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
-    "typecheck": "nuxt typecheck"
+    "typecheck": "nuxt typecheck",
+    "build:pages": "nuxt build --preset github_pages"
   },
   "dependencies": {
     "@iconify-json/vscode-icons": "^1.2.45",
