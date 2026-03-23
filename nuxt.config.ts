@@ -68,6 +68,13 @@ export default defineNuxtConfig({
     provider: 'iconify'
   },
 
+  vite: {
+    build: {
+      // @iconify-json packages produce chunks over 500 kB that can't be easily split
+      chunkSizeWarningLimit: 700
+    }
+  },
+
   llms: {
     domain: siteUrl,
     title: siteTitle,
