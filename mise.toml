@@ -38,3 +38,8 @@ run = [
   { task = "typecheck" },
   { task = "build" },
 ]
+
+[tasks.publish]
+description = "Build the Nuxt application for GitHub Pages deployment"
+depends = ["install"]
+run = "nuxt build --preset github_pages"

@@ -55,9 +55,23 @@ Locally preview production build:
 mise run preview
 ```
 
-### Deploy to Github Pages
+### GitHub Settings
 
-Check out [deploy.sh](./deploy.sh)
+- **Settings > Pages > Source** must be set to **"GitHub Actions"**
+
+### Release
+
+Releases are automated:
+
+1. Push to `main` triggers [semantic-release](https://github.com/semantic-release/semantic-release), which creates a version tag
+2. The tag triggers the `publish` workflow, which builds and deploys the site to GitHub Pages
+
+Manual re-trigger:
+
+```bash
+gh workflow run publish.yml --ref <tag>
+gh run list --workflow publish.yml
+```
 
 ## Dev Resources
 
