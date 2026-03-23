@@ -136,12 +136,12 @@ To regenerate the landing page OG image:
 
 Sitemap:
 - http://localhost:3000/sitemap.xml (dev)
-- http://www.alberta-hiking-resources.org/sitemap.xml (prod)
+- https://www.alberta-hiking-resources.org/sitemap.xml (prod)
 
 robot pages:
 - http://localhost:3000/robots.txt (disallows indexing in development)
 - http://localhost:3000/robots.txt?mockProductionEnv (allows indexing, for testing the production version of robots.txt in development)
-
+- https://www.alberta-hiking-resources.org/robots.txt (prod)
 
 ## License
 
