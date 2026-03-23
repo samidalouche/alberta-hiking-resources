@@ -65,7 +65,7 @@ export default defineNuxtConfig({
 
   vite: {
     build: {
-      // @iconify-json packages produce chunks over 500 kB that can't be easily split
+      // Nuxt UI / Vue framework chunks exceed 500 kB and can't be easily split
       chunkSizeWarningLimit: 700
     }
   },
