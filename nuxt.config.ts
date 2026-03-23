@@ -32,7 +32,6 @@ export default defineNuxtConfig({
     name: siteTitle
   },
   content: {
-    documentDriven: true,
     build: {
       markdown: {
         toc: {

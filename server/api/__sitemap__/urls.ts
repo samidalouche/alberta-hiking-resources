@@ -1,10 +1,9 @@
-import { asSitemapUrl, defineSitemapEventHandler } from '#imports'
 import { queryCollection } from '@nuxt/content/server'
+import type { H3Event } from 'h3'
 
-export default defineSitemapEventHandler(async (e) => {
-  const docs = await queryCollection(e, 'docs').all()
-  return docs.filter(doc => !doc.path.endsWith('.navigation')).map(doc => asSitemapUrl({
-    loc: doc.path,
-    lastmod: doc.updatedAt
-  }))
+export default eventHandler(async (event: H3Event) => {
+  const docs = await queryCollection(event, 'docs').all()
+  return docs
+    .filter(doc => !doc.path.endsWith('.navigation'))
+    .map(doc => ({ loc: doc.path }))
 })
