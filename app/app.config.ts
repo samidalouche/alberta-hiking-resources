@@ -30,7 +30,7 @@ export default defineAppConfig({
       'to': '/changelog',
       'aria-label': 'Changelog'
     }, {
-      'icon': 'i-simple-icons-github',
+      'icon': 'i-lucide-github',
       'to': 'https://github.com/samidalouche/alberta-hiking-resources',
       'target': '_blank',
       'aria-label': 'GitHub'
@@ -40,7 +40,7 @@ export default defineAppConfig({
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-github',
+      'icon': 'i-lucide-github',
       'to': 'https://github.com/samidalouche/alberta-hiking-resources/',
       'target': '_blank',
       'aria-label': 'Alberta Hikers Together on Github'

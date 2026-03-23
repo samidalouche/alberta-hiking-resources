@@ -1,9 +1,14 @@
 name: release
 
 on:
-  push:
-    branches:
-      - main
+  # Manually trigger the workflow using
+  # gh workflow run release.yml # --ref <branch>
+  # gh run list --workflow release.yml
+  workflow_dispatch:
+  repository_dispatch:
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   release:

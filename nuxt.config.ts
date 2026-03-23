@@ -8,8 +8,9 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/ui',
-    // '@nuxtjs/sitemap', <-- could not get it to work, disabled for now
-    '@nuxt/content', // <-- Must be after @nuxtjs/sitemap
+    '@nuxtjs/sitemap',
+    '@nuxt/content', // must be after @nuxtjs/sitemap
+    '@nuxtjs/robots',
     'nuxt-og-image',
     'nuxt-llms',
     '@nuxtjs/mcp-toolkit',
@@ -65,7 +66,7 @@ export default defineNuxtConfig({
 
   vite: {
     build: {
-      // @iconify-json packages produce chunks over 500 kB that can't be easily split
+      // Nuxt UI / Vue framework chunks exceed 500 kB and can't be easily split
       chunkSizeWarningLimit: 700
     }
   },
@@ -146,5 +147,11 @@ export default defineNuxtConfig({
 
   mcp: {
     name: siteTitle
+  },
+
+  // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
+  // we point it to a server endpoint that queries the content collections.
+  sitemap: {
+    sources: ['/api/__sitemap__/urls']
   }
 })
