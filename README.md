@@ -2,26 +2,17 @@
 
 ## Setup
 
-1. Follow [asdf setup instructions](https://asdf-vm.com/guide/getting-started.html#_3-install-asdf)
-2. Install NodeJS using NodeJS
+1. Install [mise](https://mise.jdx.dev/getting-started.html)
+2. Install tools and dependencies
 
     ```bash
-    asdf plugin add nodejs
-    asdf plugin add pnpm
-    asdf install nodejs
-    asdf reshim
+    mise install
+    mise run install
     ```
-3. Install dependencies
+3. Start development server
 
     ```bash
-    pnpm install
-    ````
-4. Start development server
-
-    Start development server with npm run dev or yarn dev or pnpm run dev 
-
-    ```bash
-    pnpm dev
+    mise run dev
     ```
 
 ## Continuous Integration
@@ -55,18 +46,32 @@ pnpm i -D \
 Build the application for production:
 
 ```bash
-pnpm build
+mise run build
 ```
 
 Locally preview production build:
 
 ```bash
-pnpm preview
+mise run preview
 ```
 
-### Deploy to Github Pages
+### GitHub Settings
 
-Check out [deploy.sh](./deploy.sh)
+- **Settings > Pages > Source** must be set to **"GitHub Actions"**
+
+### Release
+
+Releases are automated:
+
+1. Push to `main` triggers [semantic-release](https://github.com/semantic-release/semantic-release), which creates a version tag
+2. The tag triggers the `publish` workflow, which builds and deploys the site to GitHub Pages
+
+Manual re-trigger:
+
+```bash
+gh workflow run publish.yml --ref <tag>
+gh run list --workflow publish.yml
+```
 
 ## Dev Resources
 
@@ -129,27 +134,4 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-
-## TODO
-
-### App
-- [ ] Investigate usage of `MDX` files to DRY things up (homepage vs intro, etc)
-- [ ] optimize icons?
-- [ ] Find ways to DRY the text
-  - "Find your way in the jungle of FB and Meetup groups. Hiking Partners. Information. Ideas." everywhere?
-  - Github Links
-  - landing page vs introduction
-    - safety warnings across groups
-    - access group / group rules across groups
-- [ ] Set up [Nuxt Robot and Sitemap plugins](https://nuxtseo.com/). Or maybe the [Nuxt SEO](https://nuxt.com/modules/seo) all-in-one module? (Compatible with Nuxt 4?)
-- [ ] `index.vue`: need to tweak the OG module, or does everything work as-is?
-### Content
-- [ ] More appealing graphics, generally
-- [ ] Add section on Hikers Gathering?
-- [ ] Safety Checklist
-- [ ] Trip Reports: https://tripreports.voyageurtripper.com/blog/
-
-### Build
-- [ ] Build docker development image that runs the [vscode backend](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
-- [ ] Set up [StackBlitz / CodeSandbox](https://nuxt.com/docs/4.x/getting-started/installation)
 

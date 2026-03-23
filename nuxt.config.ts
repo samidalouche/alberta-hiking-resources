@@ -12,7 +12,8 @@ export default defineNuxtConfig({
     '@nuxt/content', // <-- Must be after @nuxtjs/sitemap
     'nuxt-og-image',
     'nuxt-llms',
-    '@nuxtjs/mcp-toolkit'
+    '@nuxtjs/mcp-toolkit',
+    '@nuxt/fonts'
   ],
 
   devtools: {
@@ -59,6 +60,13 @@ export default defineNuxtConfig({
       ],
       crawlLinks: true,
       autoSubfolderIndex: false
+    }
+  },
+
+  vite: {
+    build: {
+      // @iconify-json packages produce chunks over 500 kB that can't be easily split
+      chunkSizeWarningLimit: 700
     }
   },
 

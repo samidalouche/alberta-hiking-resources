@@ -1,0 +1,45 @@
+[tools]
+node = "25.2.1"
+pnpm = "10.32.1"
+
+[tasks.install]
+description = "Install dependencies"
+run = "pnpm install --frozen-lockfile"
+
+[tasks.build]
+description = "Build the Nuxt application"
+run = "pnpm build"
+
+[tasks.dev]
+description = "Start Nuxt dev server"
+run = "pnpm dev"
+
+[tasks.preview]
+description = "Preview the Nuxt production build"
+run = "pnpm preview"
+
+[tasks.postinstall]
+description = "Run nuxt prepare after install"
+run = "pnpm postinstall"
+
+[tasks.lint]
+description = "Lint with ESLint"
+run = "pnpm lint"
+
+[tasks.typecheck]
+description = "Run Nuxt typecheck"
+run = "pnpm typecheck"
+
+[tasks.ci]
+description = "Run CI pipeline"
+run = [
+  { task = "install" },
+  { task = "lint" },
+  { task = "typecheck" },
+  { task = "build" },
+]
+
+[tasks.build-pages]
+description = "Build the Nuxt application for GitHub Pages deployment"
+depends = ["install"]
+run = "pnpm build:pages"
