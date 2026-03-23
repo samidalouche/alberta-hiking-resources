@@ -111,10 +111,24 @@ And specifically, the [Github integration](https://nuxt.com/deploy/github-pages)
 
 ### Testing Notes
 
+#### Open Graph Images
+
+Content pages use auto-generated OG images via `nuxt-og-image` and the Takumi renderer. The landing page uses a custom static image (`public/images/og.png`) for a more branded social preview.
+
+To regenerate the landing page OG image:
+
+1. Start the dev server: `mise run dev`
+2. Open browser DevTools and set the viewport to 1200x630
+3. Navigate to `http://localhost:3000`
+4. Take a screenshot of the viewport (DevTools > Run command > "Capture screenshot")
+5. Save as `public/images/og.png`
+
 #### Validate Open Graph Image rendering
 
 - [X Card Validator](https://www.schedulethreads.com/tools/twitter-x-card-validator)
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+- Nuxt DevTools > Open Graph
+- Open any page in the browser and inspect the `<meta property="og:image">` tag to see the actual generated URL
 
 
 #### Validate the sitemap
