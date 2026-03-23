@@ -1,4 +1,4 @@
-name: Release
+name: release
 
 on:
   push:
@@ -11,16 +11,15 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
-
-      - name: Use Node.js
-        uses: actions/setup-node@v6
         with:
-          node-version: 25
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Setup mise
+        uses: jdx/mise-action@v4
 
       - name: Install dependencies
-        run: |
-          corepack enable
-          pnpm install --frozen-lockfile
+        run: mise run install
 
       - name: Release
         env:
