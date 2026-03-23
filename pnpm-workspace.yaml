@@ -1,3 +1,6 @@
+# Needed to define to get stackblitz to work
+packages: []
+
 ignoredBuiltDependencies:
   - '@parcel/watcher'
   - '@tailwindcss/oxide'

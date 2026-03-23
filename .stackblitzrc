@@ -1,0 +1,8 @@
+{
+  "//": "sqlite3 devDependency in package.json is needed for StackBlitz (better-sqlite3 native addon doesn't compile in WebContainers)",
+  "installDependencies": true,
+  "startCommand": "pnpm dev",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
