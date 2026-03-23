@@ -2,26 +2,17 @@
 
 ## Setup
 
-1. Follow [asdf setup instructions](https://asdf-vm.com/guide/getting-started.html#_3-install-asdf)
-2. Install NodeJS using NodeJS
+1. Install [mise](https://mise.jdx.dev/getting-started.html)
+2. Install tools and dependencies
 
     ```bash
-    asdf plugin add nodejs
-    asdf plugin add pnpm
-    asdf install nodejs
-    asdf reshim
+    mise install
+    mise run install
     ```
-3. Install dependencies
+3. Start development server
 
     ```bash
-    pnpm install
-    ````
-4. Start development server
-
-    Start development server with npm run dev or yarn dev or pnpm run dev 
-
-    ```bash
-    pnpm dev
+    mise run dev
     ```
 
 ## Continuous Integration
@@ -55,13 +46,13 @@ pnpm i -D \
 Build the application for production:
 
 ```bash
-pnpm build
+mise run build
 ```
 
 Locally preview production build:
 
 ```bash
-pnpm preview
+mise run preview
 ```
 
 ### Deploy to Github Pages
