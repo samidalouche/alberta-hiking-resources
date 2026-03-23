@@ -50,7 +50,7 @@ jobs:
       # and --dotfiles ensured .nojekyll itself was included.
       # With actions/deploy-pages, Jekyll is bypassed entirely, so neither flag is needed.
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .output/public
 
