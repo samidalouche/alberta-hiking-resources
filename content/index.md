@@ -88,7 +88,7 @@ What you will find
 
   :::u-page-feature
   ---
-  icon: i-noto-hiking-boot
+  icon: i-lucide-footprints
   ---
   #title
   Hiking & Scrambling Beta
@@ -99,7 +99,7 @@ What you will find
 
   :::u-page-feature
   ---
-  icon: i-streamline-stickies-color:sun-clound-weather
+  icon: i-lucide-cloud-sun
   ---
   #title
   Weather & Trail Conditions
@@ -113,7 +113,7 @@ What you will find
 
   :::u-page-feature
   ---
-  icon: i-noto:backpack
+  icon: i-lucide-backpack
   ---
   #title
   Outdoor Gear
@@ -160,7 +160,7 @@ What you will find
       to: 'https://github.com/samidalouche/alberta-hiking-resources'
       target: _blank
       variant: subtle
-      icon: i-simple-icons-github
+      icon: i-lucide-github
   title: Want to contribute to this site?
   description: Whether it's a quick fix, a full section, or just a friendly pointer to better info — every little bit helps 🫶🌲.
   class: dark:bg-neutral-950

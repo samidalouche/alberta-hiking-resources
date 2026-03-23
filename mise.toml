@@ -39,6 +39,10 @@ run = [
   { task = "build" },
 ]
 
+[tasks.update]
+description = "Update all dependencies to latest versions"
+run = "pnpm update --latest"
+
 [tasks.build-pages]
 description = "Build the Nuxt application for GitHub Pages deployment"
 depends = ["install"]

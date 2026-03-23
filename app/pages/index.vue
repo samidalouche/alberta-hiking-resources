@@ -7,7 +7,8 @@ if (!page.value) {
 const title = page.value.seo?.title || page.value.title
 const description = page.value.seo?.description || page.value.description
 
-// Unlike for other pages, Nuxt does not automatically take care of generating the Open Graph image for the homepage
+// Use a custom static OG image for the landing page instead of the auto-generated template,
+// so we can have a more polished, branded social preview.
 const config = useRuntimeConfig()
 const ogImage = `${config.public.siteUrl}/images/og.png`
 
