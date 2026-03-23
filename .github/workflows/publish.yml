@@ -1,0 +1,59 @@
+name: publish
+
+on:
+  push:
+    tags:
+      - 'v*'
+  # Tags created by a workflow using GITHUB_TOKEN do not trigger other workflows,
+  # so we use workflow_run to publish after the release workflow creates a tag.
+  workflow_run:
+    workflows: ["release"]
+    types:
+      - completed
+  # Can be re-triggered manually if needed using:
+  # gh workflow run publish.yml --ref <tag>
+  # gh run list --workflow publish.yml
+  workflow_dispatch:
+  repository_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Build and deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    # workflow_run fires on both success and failure; skip if the release workflow failed.
+    # For all other triggers (push, workflow_dispatch, repository_dispatch), always run.
+    if: >-
+      github.event.workflow_run.conclusion == 'success'
+      || github.event_name != 'workflow_run'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - uses: jdx/mise-action@v4
+
+      - run: mise run publish
+
+      # The old deploy.sh used `gh-pages --dotfiles --nojekyll -d .output/public` to push to a gh-pages branch.
+      # --nojekyll created a .nojekyll file so GitHub Pages wouldn't ignore _nuxt/ directories,
+      # and --dotfiles ensured .nojekyll itself was included.
+      # With actions/deploy-pages, Jekyll is bypassed entirely, so neither flag is needed.
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .output/public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
