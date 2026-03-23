@@ -8,8 +8,9 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/ui',
-    // '@nuxtjs/sitemap', <-- could not get it to work, disabled for now
-    '@nuxt/content', // <-- Must be after @nuxtjs/sitemap
+    '@nuxtjs/sitemap',
+    '@nuxt/content', // must be after @nuxtjs/sitemap
+    '@nuxtjs/robots',
     'nuxt-og-image',
     'nuxt-llms',
     '@nuxtjs/mcp-toolkit',
@@ -31,6 +32,7 @@ export default defineNuxtConfig({
     name: siteTitle
   },
   content: {
+    documentDriven: true,
     build: {
       markdown: {
         toc: {
@@ -49,6 +51,12 @@ export default defineNuxtConfig({
 
   experimental: {
     asyncContext: true
+  },
+
+  // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
+  // we point it to a server endpoint that queries the content collections.
+  sitemap: {
+    sources: ['/api/__sitemap__/urls']
   },
 
   compatibilityDate: '2024-07-11',

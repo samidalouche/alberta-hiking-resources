@@ -131,8 +131,17 @@ To regenerate the landing page OG image:
 - Open any page in the browser and inspect the `<meta property="og:image">` tag to see the actual generated URL
 
 
-#### Validate the sitemap
+#### Validate the sitemap and robots.txt
 - [Nuxt SEO Sitemap Validation Tool](https://nuxtseo.com/tools/xml-sitemap-validator)
+
+Sitemap:
+- http://localhost:3000/sitemap.xml (dev)
+- http://www.alberta-hiking-resources.org/sitemap.xml (prod)
+
+robot pages:
+- http://localhost:3000/robots.txt (disallows indexing in development)
+- http://localhost:3000/robots.txt?mockProductionEnv (allows indexing, for testing the production version of robots.txt in development)
+
 
 ## License
 
