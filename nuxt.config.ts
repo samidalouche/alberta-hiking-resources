@@ -4,16 +4,9 @@ const siteDescription = 'Find your way in the jungle of FB and Meetup groups. Hi
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: [
-    '@nuxt/eslint',
-    '@nuxt/image',
-    '@nuxt/ui',
-    // '@nuxtjs/sitemap', <-- could not get it to work, disabled for now
-    '@nuxt/content', // <-- Must be after @nuxtjs/sitemap
-    'nuxt-og-image',
-    'nuxt-llms',
-    '@nuxtjs/mcp-toolkit'
-  ],
+  modules: ['@nuxt/eslint', '@nuxt/image', '@nuxt/ui', // '@nuxtjs/sitemap', <-- could not get it to work, disabled for now
+  // <-- Must be after @nuxtjs/sitemap
+  '@nuxt/content', 'nuxt-og-image', 'nuxt-llms', '@nuxtjs/mcp-toolkit', '@nuxt/fonts'],
 
   devtools: {
     enabled: true,
