@@ -53,12 +53,6 @@ export default defineNuxtConfig({
     asyncContext: true
   },
 
-  // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
-  // we point it to a server endpoint that queries the content collections.
-  sitemap: {
-    sources: ['/api/__sitemap__/urls']
-  },
-
   compatibilityDate: '2024-07-11',
 
   nitro: {
@@ -154,5 +148,11 @@ export default defineNuxtConfig({
 
   mcp: {
     name: siteTitle
+  },
+
+  // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
+  // we point it to a server endpoint that queries the content collections.
+  sitemap: {
+    sources: ['/api/__sitemap__/urls']
   }
 })
