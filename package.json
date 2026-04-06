@@ -40,7 +40,7 @@
   "packageManager": "pnpm@10.33.0",
   "pnpm": {
     "overrides": {
-      "defu": "6.1.4"
+      "defu": "6.1.6"
     }
   }
 }
