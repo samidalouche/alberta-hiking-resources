@@ -19,7 +19,7 @@
     "@nuxtjs/mcp-toolkit": "0.13.4",
     "@nuxtjs/robots": "^6.0.7",
     "@nuxtjs/sitemap": "^8.0.13",
-    "@takumi-rs/core": "1.0.14",
+    "@takumi-rs/core": "1.0.15",
     "better-sqlite3": "^12.9.0",
     "nuxt": "^4.4.2",
     "nuxt-llms": "0.2.0",
