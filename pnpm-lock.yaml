@@ -42,7 +42,7 @@ importers:
         specifier: 0.2.0
         version: 0.2.0(magicast@0.5.2)
       nuxt-og-image:
-        specifier: ^6.4.3
+        specifier: ^6.4.4
         version: 6.4.8(d2d681108a136b327ea275ca869eb26f)
       zod:
         specifier: ^4.3.6
