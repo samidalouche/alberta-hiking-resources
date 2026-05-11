@@ -15,19 +15,19 @@
     "@nuxt/content": "^3.13.0",
     "@nuxt/fonts": "0.14.0",
     "@nuxt/image": "^2.0.0",
-    "@nuxt/ui": "^4.6.1",
-    "@nuxtjs/mcp-toolkit": "0.13.4",
-    "@nuxtjs/robots": "^6.0.7",
-    "@nuxtjs/sitemap": "^8.0.13",
-    "@takumi-rs/core": "1.0.15",
+    "@nuxt/ui": "^4.7.0",
+    "@nuxtjs/mcp-toolkit": "0.14.0",
+    "@nuxtjs/robots": "^6.0.8",
+    "@nuxtjs/sitemap": "^8.0.14",
+    "@takumi-rs/core": "1.1.2",
     "better-sqlite3": "^12.9.0",
     "nuxt": "^4.4.2",
     "nuxt-llms": "0.2.0",
-    "nuxt-og-image": "^6.4.4",
+    "nuxt-og-image": "^6.4.8",
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.102",
+    "@iconify-json/lucide": "^1.2.103",
     "@nuxt/eslint": "^1.15.2",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/github": "^12.0.6",
@@ -37,5 +37,5 @@
     "typescript": "^6.0.3",
     "vue-tsc": "^3.2.7"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@10.33.2"
 }
