@@ -122,6 +122,13 @@ export default defineNuxtConfig({
         ]
       },
       {
+        title: 'Events',
+        contentCollection: 'docs',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/events%' }
+        ]
+      },
+      {
         title: 'Outdoor Gear',
         contentCollection: 'docs',
         contentFilters: [
