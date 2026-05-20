@@ -68,6 +68,13 @@ export default defineNuxtConfig({
     build: {
       // Nuxt UI / Vue framework chunks exceed 500 kB and can't be easily split
       chunkSizeWarningLimit: 700
+    },
+    optimizeDeps: {
+      include: [
+        '@vue/devtools-core',
+        '@vue/devtools-kit',
+        '@vueuse/core'
+      ]
     }
   },
 
@@ -119,6 +126,13 @@ export default defineNuxtConfig({
         contentCollection: 'docs',
         contentFilters: [
           { field: 'path', operator: 'LIKE', value: '/weather-trail-conditions%' }
+        ]
+      },
+      {
+        title: 'Events',
+        contentCollection: 'docs',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/events%' }
         ]
       },
       {

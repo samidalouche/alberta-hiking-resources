@@ -113,6 +113,18 @@ What you will find
 
   :::u-page-feature
   ---
+  icon: i-lucide-calendar-days
+  ---
+  #title
+  Events
+
+  #description
+  Community gatherings off the trail — like our annual Hikers Gathering around a communal campfire 🔥.
+  :::
+
+
+  :::u-page-feature
+  ---
   icon: i-lucide-backpack
   ---
   #title
