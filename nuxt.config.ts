@@ -163,6 +163,13 @@ export default defineNuxtConfig({
     name: siteTitle
   },
 
+  // Site is deployed as a fully prerendered static bundle to GitHub Pages,
+  // so there is no runtime Nitro server to handle dynamic OG image generation.
+  // zeroRuntime strips the runtime endpoint and silences the URL-signing warning.
+  ogImage: {
+    zeroRuntime: true
+  },
+
   // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
   // we point it to a server endpoint that queries the content collections.
   sitemap: {
