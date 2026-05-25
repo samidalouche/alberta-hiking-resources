@@ -6,6 +6,7 @@ defineProps<{
   meteoblueWebcams?: string
   accuweatherForecast?: string
   googleMaps?: string
+  extraWebcams?: Array<{ label: string, url: string }>
 }>()
 </script>
 
@@ -42,6 +43,17 @@ defineProps<{
         variant="soft"
         size="sm"
         label="Meteoblue webcams"
+      />
+      <UButton
+        v-for="webcam in extraWebcams"
+        :key="webcam.url"
+        :to="webcam.url"
+        target="_blank"
+        icon="i-lucide-camera"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        :label="webcam.label"
       />
       <UButton
         v-if="accuweatherForecast"
