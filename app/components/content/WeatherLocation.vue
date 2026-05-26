@@ -5,6 +5,10 @@ defineProps<{
   meteoblueWeather?: string
   meteoblueAirQuality?: string
   meteoblueWebcams?: string
+  windyWind?: string
+  windyRain?: string
+  windySmoke?: string
+  windyWebcams?: string
   accuweather?: string
   iqair?: string
   googleMaps?: string
@@ -66,6 +70,46 @@ defineProps<{
         variant="soft"
         size="sm"
         :label="webcam.label"
+      />
+      <UButton
+        v-if="windyWind"
+        :to="windyWind"
+        target="_blank"
+        icon="i-lucide-wind"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Windy wind"
+      />
+      <UButton
+        v-if="windyRain"
+        :to="windyRain"
+        target="_blank"
+        icon="i-lucide-cloud-rain"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Windy rain"
+      />
+      <UButton
+        v-if="windySmoke"
+        :to="windySmoke"
+        target="_blank"
+        icon="i-lucide-flame"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Windy smoke"
+      />
+      <UButton
+        v-if="windyWebcams"
+        :to="windyWebcams"
+        target="_blank"
+        icon="i-lucide-camera"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Windy webcams"
       />
       <UButton
         v-if="iqair"
