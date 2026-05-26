@@ -2,10 +2,10 @@
 defineProps<{
   name: string
   park?: string
-  meteoblueForecast?: string
+  meteoblueWeather?: string
   meteoblueAirQuality?: string
   meteoblueWebcams?: string
-  accuweatherForecast?: string
+  accuweather?: string
   iqair?: string
   googleMaps?: string
   extraWebcams?: Array<{ label: string, url: string }>
@@ -27,14 +27,14 @@ defineProps<{
     </div>
     <div class="flex flex-wrap gap-2">
       <UButton
-        v-if="meteoblueForecast"
-        :to="meteoblueForecast"
+        v-if="meteoblueWeather"
+        :to="meteoblueWeather"
         target="_blank"
         icon="i-lucide-cloud-sun"
         color="neutral"
         variant="soft"
         size="sm"
-        label="Meteoblue forecast"
+        label="Meteoblue weather"
       />
       <UButton
         v-if="meteoblueAirQuality"
@@ -78,14 +78,14 @@ defineProps<{
         label="IQAir"
       />
       <UButton
-        v-if="accuweatherForecast"
-        :to="accuweatherForecast"
+        v-if="accuweather"
+        :to="accuweather"
         target="_blank"
         icon="i-lucide-thermometer-sun"
         color="neutral"
         variant="soft"
         size="sm"
-        label="Accuweather forecast"
+        label="Accuweather"
       />
       <UButton
         v-if="googleMaps"
