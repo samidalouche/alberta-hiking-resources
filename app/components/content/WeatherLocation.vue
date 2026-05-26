@@ -3,8 +3,10 @@ defineProps<{
   name: string
   park?: string
   meteoblueForecast?: string
+  meteoblueAirQuality?: string
   meteoblueWebcams?: string
   accuweatherForecast?: string
+  iqair?: string
   googleMaps?: string
   extraWebcams?: Array<{ label: string, url: string }>
 }>()
@@ -35,6 +37,16 @@ defineProps<{
         label="Meteoblue forecast"
       />
       <UButton
+        v-if="meteoblueAirQuality"
+        :to="meteoblueAirQuality"
+        target="_blank"
+        icon="i-lucide-wind"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Meteoblue air quality"
+      />
+      <UButton
         v-if="meteoblueWebcams"
         :to="meteoblueWebcams"
         target="_blank"
@@ -54,6 +66,16 @@ defineProps<{
         variant="soft"
         size="sm"
         :label="webcam.label"
+      />
+      <UButton
+        v-if="iqair"
+        :to="iqair"
+        target="_blank"
+        icon="i-lucide-gauge"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="IQAir"
       />
       <UButton
         v-if="accuweatherForecast"
