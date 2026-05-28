@@ -1,11 +1,9 @@
-<script lang="ts" setup>
-const props = withDefaults(defineProps<{ title?: string, description?: string, headline?: string }>(), {
-  title: 'title',
-  description: 'description'
+<script setup>
+defineProps({
+  title: { type: String, required: false, default: '' },
+  description: { type: String, required: false, default: '' },
+  headline: { type: String, required: false, default: '' }
 })
-
-const title = computed(() => (props.title || '').slice(0, 60))
-const description = computed(() => (props.description || '').slice(0, 200))
 </script>
 
 <template>
