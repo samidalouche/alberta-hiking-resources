@@ -19,23 +19,23 @@
     "@nuxtjs/mcp-toolkit": "0.16.1",
     "@nuxtjs/robots": "^6.0.8",
     "@nuxtjs/sitemap": "^8.0.15",
-    "@takumi-rs/core": "1.1.2",
-    "better-sqlite3": "^12.9.0",
+    "@takumi-rs/core": "1.2.1",
+    "better-sqlite3": "^12.10.0",
     "nuxt": "^4.4.5",
     "nuxt-llms": "0.2.0",
     "nuxt-og-image": "^6.5.1",
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.106",
+    "@iconify-json/lucide": "^1.2.108",
     "@nuxt/eslint": "^1.15.2",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/github": "^12.0.8",
     "@semantic-release/release-notes-generator": "^14.1.1",
-    "eslint": "^10.3.0",
+    "eslint": "^10.4.0",
     "semantic-release": "^25.0.3",
     "typescript": "^6.0.3",
-    "vue-tsc": "^3.2.8"
+    "vue-tsc": "^3.2.9"
   },
-  "packageManager": "pnpm@11.1.0"
+  "packageManager": "pnpm@11.1.2"
 }
