@@ -12,7 +12,7 @@
     "build:pages": "nuxt build --preset github_pages"
   },
   "dependencies": {
-    "@nuxt/content": "^3.13.0",
+    "@nuxt/content": "^3.14.0",
     "@nuxt/fonts": "0.14.0",
     "@nuxt/image": "^2.0.0",
     "@nuxt/ui": "^4.7.1",
@@ -21,7 +21,7 @@
     "@nuxtjs/sitemap": "^8.0.15",
     "@takumi-rs/core": "1.2.1",
     "better-sqlite3": "^12.10.0",
-    "nuxt": "^4.4.5",
+    "nuxt": "^4.4.6",
     "nuxt-llms": "0.2.0",
     "nuxt-og-image": "^6.5.1",
     "zod": "^4.4.3"
@@ -35,7 +35,7 @@
     "eslint": "^10.4.0",
     "semantic-release": "^25.0.3",
     "typescript": "^6.0.3",
-    "vue-tsc": "^3.2.9"
+    "vue-tsc": "^3.3.0"
   },
-  "packageManager": "pnpm@11.1.2"
+  "packageManager": "pnpm@11.1.3"
 }
