@@ -23,7 +23,7 @@
     "better-sqlite3": "^12.10.0",
     "nuxt": "^4.4.7",
     "nuxt-llms": "0.2.0",
-    "nuxt-og-image": "^6.5.1",
+    "nuxt-og-image": "^6.6.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {

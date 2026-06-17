@@ -111,7 +111,7 @@ production + GitHub Pages pipeline on top. The major additions and changes:
 - `server/api/__sitemap__/urls.ts` — custom endpoint, since the sitemap module
   doesn't auto-discover Content v3 pages (wired via `sitemap.sources`).
 - `site` block + `runtimeConfig.public.siteUrl`; custom static landing OG image
-  (`public/images/og.png`) alongside the Takumi-rendered `OgImageDocs.takumi.vue`.
+  (`public/images/og.png`) alongside the ejected `Docs` community OG template.
 
 **Toolchain & dependency management** (net-new)
 - [mise](https://mise.jdx.dev) (`mise.toml` + `mise.lock`) pins Node/pnpm and acts
@@ -162,7 +162,26 @@ And specifically, the [Github integration](https://nuxt.com/deploy/github-pages)
 
 #### Open Graph Images
 
-Content pages use auto-generated OG images via `nuxt-og-image` and the Takumi renderer. The landing page uses a custom static image (`public/images/og.png`) for a more branded social preview.
+Content pages use auto-generated OG images via `nuxt-og-image` and the Takumi renderer, using the **`Docs` community template** (`app/components/OgImage/Docs.takumi.vue`). The landing page uses a custom static image (`public/images/og.png`) for a more branded social preview.
+
+> **The `Docs` template is _ejected_, and must stay ejected.** nuxt-og-image v6
+> only ships community templates for dev — production builds fail with
+> _"Community template … must be ejected before production use"_ unless a local
+> copy exists. `Docs.takumi.vue` is that ejected copy (created with
+> `npx nuxt-og-image eject Docs`); we pass `title`/`description`/`site` plus the
+> brand-green `primaryColor`/`primaryTextColor` from `[...slug].vue`.
+>
+> The ejected file is a **point-in-time snapshot** — it does not update when
+> `nuxt-og-image` is upgraded. After a notable upgrade, re-eject to pick up
+> upstream template improvements and re-apply our small tweaks (props are passed
+> at the call site, so only ESLint formatting differs from stock):
+>
+> ```bash
+> npx nuxt-og-image eject Docs   # overwrites app/components/OgImage/Docs.takumi.vue
+> pnpm lint --fix app/components/OgImage/Docs.takumi.vue
+> ```
+>
+> See the official [Community Templates guide](https://nuxtseo.com/docs/og-image/guides/community-templates).
 
 To regenerate the landing page OG image:
 
