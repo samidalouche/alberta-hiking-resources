@@ -17,8 +17,12 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     // Dev-only: exposes the running app's routes, components, and resolved
     // config to an AI assistant over MCP at /__mcp/sse. Excluded from the
-    // prerendered production bundle.
-    ...(process.env.NODE_ENV !== 'production' ? ['nuxt-mcp-dev'] : [])
+    // prerendered production bundle. includeNuxtDocsMcp is disabled because it
+    // injects nuxt.com/mcp as an `sse` server every dev run, but that endpoint
+    // speaks Streamable HTTP — we register it as `http` in .mcp.json instead.
+    ...(process.env.NODE_ENV !== 'production'
+      ? [['nuxt-mcp-dev', { includeNuxtDocsMcp: false }] as [string, Record<string, unknown>]]
+      : [])
   ],
 
   devtools: {
@@ -163,6 +167,9 @@ export default defineNuxtConfig({
     ]
   },
 
+  // `name` is consumed by @nuxtjs/mcp-toolkit (the runtime MCP server). Note
+  // nuxt-mcp-dev shares this same `mcp` configKey; its own options are passed
+  // inline in the `modules` array above to avoid the shared-key type collision.
   mcp: {
     name: siteTitle
   },
