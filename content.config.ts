@@ -1,10 +1,14 @@
 import { defineContentConfig, defineCollection, z } from '@nuxt/content'
+import { defineSitemapSchema } from '@nuxtjs/sitemap/content'
 
 export default defineContentConfig({
   collections: {
     landing: defineCollection({
       type: 'page',
-      source: 'index.md'
+      source: 'index.md',
+      schema: z.object({
+        sitemap: defineSitemapSchema()
+      })
     }),
     docs: defineCollection({
       type: 'page',
@@ -13,6 +17,7 @@ export default defineContentConfig({
         exclude: ['index.md']
       },
       schema: z.object({
+        sitemap: defineSitemapSchema(),
         links: z.array(z.object({
           label: z.string(),
           icon: z.string(),
