@@ -33,6 +33,7 @@
     "@semantic-release/github": "^12.0.8",
     "@semantic-release/release-notes-generator": "^14.1.1",
     "eslint": "^10.4.1",
+    "nuxt-mcp-dev": "^0.3.2",
     "semantic-release": "^25.0.3",
     "typescript": "^6.0.3",
     "vue-tsc": "^3.3.3"

@@ -14,7 +14,11 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'nuxt-llms',
     '@nuxtjs/mcp-toolkit',
-    '@nuxt/fonts'
+    '@nuxt/fonts',
+    // Dev-only: exposes the running app's routes, components, and resolved
+    // config to an AI assistant over MCP at /__mcp/sse. Excluded from the
+    // prerendered production bundle.
+    ...(process.env.NODE_ENV !== 'production' ? ['nuxt-mcp-dev'] : [])
   ],
 
   devtools: {
