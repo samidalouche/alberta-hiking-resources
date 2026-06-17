@@ -35,7 +35,7 @@ useSeoMeta({
 
 const headline = computed(() => findPageHeadline(navigation?.value, page.value?.path))
 
-defineOgImage('DocsTakumi', {
+defineOgImage('HikingDocsTakumi', {
   title,
   description,
   headline: headline.value
