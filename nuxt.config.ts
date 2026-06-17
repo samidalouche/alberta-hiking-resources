@@ -91,6 +91,17 @@ export default defineNuxtConfig({
     provider: 'iconify'
   },
 
+  // Public Sans is the brand font (see app/assets/css/main.css). Declare it
+  // globally so nuxt-og-image's renderer has every weight the OG template uses —
+  // notably 600 (font-semibold), which otherwise falls back to 400/700 with a
+  // "weight not configured" warning. nuxt-og-image only sees globally-loaded
+  // @nuxt/fonts families (ogImage.fonts is deprecated in v6).
+  fonts: {
+    families: [
+      { name: 'Public Sans', weights: [400, 500, 600, 700], global: true }
+    ]
+  },
+
   llms: {
     domain: siteUrl,
     title: siteTitle,
