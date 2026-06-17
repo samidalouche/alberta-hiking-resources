@@ -18,7 +18,7 @@ The project needs a linter (and, in time, a formatter) for the TypeScript + Vue 
 
 ### Decision
 
-We use **ESLint**, configured through the `@nuxt/eslint` module declared in [nuxt.config.ts](nuxt.config.ts).
+We use **ESLint**, configured through the `@nuxt/eslint` module declared in [nuxt.config.ts](../nuxt.config.ts).
 
 ### Rationale
 
@@ -30,5 +30,5 @@ We use **ESLint**, configured through the `@nuxt/eslint` module declared in [nux
 ### Consequences
 
 - Linting is run via `pnpm lint` (`eslint .`), wired up in CI through `mise run ci`.
-- Any rule customization happens in [eslint.config.mjs](eslint.config.mjs); stylistic preferences are set under the `eslint.config.stylistic` block in [nuxt.config.ts](nuxt.config.ts).
+- Any rule customization happens in [eslint.config.mjs](../eslint.config.mjs); stylistic preferences are set under the `eslint.config.stylistic` block in [nuxt.config.ts](../nuxt.config.ts).
 - If a future need arises for a dedicated formatter, Prettier is the natural addition; Biome would only be reconsidered if the Nuxt ecosystem ships a first-party Biome integration.
