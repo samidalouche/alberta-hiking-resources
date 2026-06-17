@@ -1,5 +1,24 @@
 # Building and Testing
 
+## Task reference
+
+The `mise` tasks wrap the underlying `pnpm` scripts:
+
+| Task                  | Description                              |
+| --------------------- | ---------------------------------------- |
+| `mise run install`    | Install dependencies (frozen lockfile)   |
+| `mise run dev`        | Start the Nuxt dev server                |
+| `mise run lint`       | Lint with ESLint                         |
+| `mise run typecheck`  | Run the Nuxt type check                  |
+| `mise run build`      | Build the Nuxt application               |
+| `mise run preview`    | Preview the production build             |
+| `mise run ci`         | Run the full CI pipeline locally         |
+| `mise run update`     | Update all dependencies to latest        |
+
+The sections below cover the build, lint, and CI tasks in more detail; see
+[setup-development-environment.md](setup-development-environment.md) for
+`install` and `dev`.
+
 ## Linting and type checking
 
 ```bash
