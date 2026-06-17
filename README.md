@@ -123,6 +123,18 @@ To regenerate the landing page OG image:
 4. Take a screenshot of the viewport (DevTools > Run command > "Capture screenshot")
 5. Save as `public/images/og.png`
 
+> **Keep a safe margin.** X (Twitter) crops the `summary_large_image` card
+> slightly inward, so content flush against the edges (the "Alberta … Resources"
+> title) gets clipped. Keep important content within the central ~80% — i.e.
+> roughly a 10% margin on every side. A raw viewport screenshot puts the title
+> hard against the left edge, so scale the screenshot down to ~80% and center it
+> on a 1200×630 white canvas before saving, e.g. with `sips`:
+>
+> ```bash
+> sips -z 1011 1920 og-raw.png --out og-scaled.png
+> sips -p 1264 2400 --padColor FFFFFF og-scaled.png --out public/images/og.png
+> ```
+
 #### Validate Open Graph Image rendering
 
 - [X Card Validator](https://www.schedulethreads.com/tools/twitter-x-card-validator)
