@@ -19,6 +19,8 @@ useSeoMeta({
   description,
   ogDescription: description,
   ogImage: ogImage,
+  twitterTitle: title,
+  twitterDescription: description,
   twitterImage: ogImage
 })
 </script>

@@ -1,5 +1,7 @@
 <script setup lang="ts">
 const { seo } = useAppConfig()
+const route = useRoute()
+const config = useRuntimeConfig()
 
 const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('docs'))
 const { data: files } = useLazyAsyncData('search', () => queryCollectionSearchSections('docs'), {
@@ -21,6 +23,8 @@ useHead({
 useSeoMeta({
   titleTemplate: `%s - ${seo?.siteName}`,
   ogSiteName: seo?.siteName,
+  // Canonical absolute URL of the current page (og:url was otherwise missing)
+  ogUrl: () => `${config.public.siteUrl}${route.path}`,
   twitterCard: 'summary_large_image'
 })
 
