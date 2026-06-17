@@ -1,5 +1,5 @@
 [tools]
-node = "25.2.1"
+node = "26.3.0"
 pnpm = "11.5.1"
 
 [tasks.install]
