@@ -7,7 +7,7 @@ definePageMeta({
 })
 
 const route = useRoute()
-const { toc } = useAppConfig()
+const { toc, seo } = useAppConfig()
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 
 const { data: page } = await useAsyncData(route.path, () => queryCollection('docs').path(route.path).first())
@@ -35,10 +35,14 @@ useSeoMeta({
 
 const headline = computed(() => findPageHeadline(navigation?.value, page.value?.path))
 
-defineOgImage('HikingDocsTakumi', {
+defineOgImage('Docs', {
   title,
   description,
-  headline: headline.value
+  site: seo.siteName,
+  // Brand green (mirrors --color-green-400 in app/assets/css/main.css); passed
+  // as a literal because the OG renderer can't resolve CSS variables.
+  primaryColor: 'rgba(0, 220, 130, 0.35)',
+  primaryTextColor: '#00DC82'
 })
 
 const links = computed(() => {
