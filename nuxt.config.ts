@@ -179,11 +179,5 @@ export default defineNuxtConfig({
   // zeroRuntime strips the runtime endpoint and silences the URL-signing warning.
   ogImage: {
     zeroRuntime: true
-  },
-
-  // @nuxtjs/sitemap doesn't auto-discover Nuxt Content v3 pages;
-  // we point it to a server endpoint that queries the content collections.
-  sitemap: {
-    sources: ['/api/__sitemap__/urls']
   }
 })
