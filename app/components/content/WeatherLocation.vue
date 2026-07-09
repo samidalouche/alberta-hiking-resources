@@ -11,6 +11,7 @@ defineProps<{
   windyWebcams?: string
   accuweather?: string
   theweathernetwork?: string
+  environmentCanada?: string
   iqair?: string
   googleMaps?: string
   extraWebcams?: Array<{ label: string, url: string }>
@@ -141,6 +142,16 @@ defineProps<{
         variant="soft"
         size="sm"
         label="The Weather Network"
+      />
+      <UButton
+        v-if="environmentCanada"
+        :to="environmentCanada"
+        target="_blank"
+        icon="i-lucide-radar"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="Environment Canada"
       />
       <UButton
         v-if="googleMaps"
