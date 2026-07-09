@@ -4,12 +4,20 @@
     "group:all"
   ],
   "minimumReleaseAge": "14 days",
+  "packageRules": [
+    {
+      "description": "Replacement and pin updates carry no release timestamp, so the release-age check can never be satisfied and would leave renovate/stability-days pending forever. security:minimumReleaseAgeNpm exempts these for npm; we do the same for all datasources. lockFileMaintenance is exempted in its own config block below.",
+      "matchUpdateTypes": ["replacement", "pin"],
+      "minimumReleaseAge": null
+    },
+    {
+      "matchDepTypes": ["resolutions"],
+      "enabled": false
+    }
+  ],
   "lockFileMaintenance": {
-    "enabled": true
+    "enabled": true,
+    "minimumReleaseAge": null
   },
-  "packageRules": [{
-    "matchDepTypes": ["resolutions"],
-    "enabled": false
-  }],
   "postUpdateOptions": ["pnpmDedupe"]
 }
