@@ -10,6 +10,7 @@ defineProps<{
   windySmoke?: string
   windyWebcams?: string
   accuweather?: string
+  theweathernetwork?: string
   iqair?: string
   googleMaps?: string
   extraWebcams?: Array<{ label: string, url: string }>
@@ -130,6 +131,16 @@ defineProps<{
         variant="soft"
         size="sm"
         label="Accuweather"
+      />
+      <UButton
+        v-if="theweathernetwork"
+        :to="theweathernetwork"
+        target="_blank"
+        icon="i-lucide-cloud-sun-rain"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="The Weather Network"
       />
       <UButton
         v-if="googleMaps"
