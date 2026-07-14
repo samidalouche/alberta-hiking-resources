@@ -52,7 +52,7 @@ importers:
         version: 4.4.3
     devDependencies:
       '@iconify-json/lucide':
-        specifier: ^1.2.114
+        specifier: ^1.2.115
         version: 1.2.116
       '@nuxt/eslint':
         specifier: ^1.16.0
@@ -79,7 +79,7 @@ importers:
         specifier: ^6.0.3
         version: 6.0.3
       vue-tsc:
-        specifier: ^3.3.5
+        specifier: ^3.3.6
         version: 3.3.7(typescript@6.0.3)
 
 packages:
