@@ -113,6 +113,19 @@ What you will find
 
   :::u-page-feature
   ---
+  icon: i-lucide-tent-tree
+  to: /accommodation
+  ---
+  #title
+  Accommodation
+
+  #description
+  Campgrounds, hostels, and backcountry huts near the trailheads — and how to book them 🏕️.
+  :::
+
+
+  :::u-page-feature
+  ---
   icon: i-lucide-calendar-days
   ---
   #title
