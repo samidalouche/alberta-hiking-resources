@@ -18,6 +18,11 @@
       "description": "Hold TypeScript on the 6.x line. TypeScript 7 (the native port) is not yet supported by typescript-eslint, whose peer range is still <6.1.0. typescript-eslint reaches us transitively via @nuxt/eslint -> @nuxt/eslint-config, so we cannot bump it independently; forcing TS7 crashes eslint with \"Cannot read properties of undefined (reading 'Cjs')\". Lift this once @nuxt/eslint-config ships a typescript-eslint release that supports TS7.",
       "matchPackageNames": ["typescript"],
       "allowedVersions": "<7"
+    },
+    {
+      "description": "Hold Nuxt on the 4.4.x line. Nuxt 4.5 migrated its head stack to @unhead/vue v3, but the latest @nuxt/ui (4.10.0) still depends on @unhead/vue ^2. With shamefullyHoist the v2 copy lands at the root, so Nuxt's generated unhead-options.mjs (which imports the v3-only `legacyPlugins`) resolves against v2 and the build fails with \"legacyPlugins is not exported by @unhead/vue/dist/legacy.mjs\". Keeping Nuxt on 4.4.x keeps the whole head stack on unhead v2, matching @nuxt/ui. Lift this once @nuxt/ui ships a release that depends on @unhead/vue v3.",
+      "matchPackageNames": ["nuxt"],
+      "allowedVersions": "<4.5"
     }
   ],
   "lockFileMaintenance": {
