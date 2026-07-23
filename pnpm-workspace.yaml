@@ -1,13 +1,5 @@
 shamefullyHoist: true
 
-# Pin h3 to the v1 line used by Nuxt 4 / Nitro. Dev tooling (@nuxtjs/mcp-toolkit,
-# @nuxt/eslint's config-inspector) pulls in an h3 v2 RC; with shamefullyHoist that
-# v2 copy lands at the root and @nuxt/content (which has no nested h3) imports it,
-# then calls v2's getRequestHeaders() on a v1 request event -> "event.req.headers
-# .entries is not a function", so every content query throws and every page 404s.
-overrides:
-  h3: 1.15.11
-
 allowBuilds:
   '@parcel/watcher': false
   '@tailwindcss/oxide': false
