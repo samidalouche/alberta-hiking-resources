@@ -13,6 +13,11 @@
     {
       "matchDepTypes": ["resolutions"],
       "enabled": false
+    },
+    {
+      "description": "Hold TypeScript on the 6.x line. TypeScript 7 (the native port) is not yet supported by typescript-eslint, whose peer range is still <6.1.0. typescript-eslint reaches us transitively via @nuxt/eslint -> @nuxt/eslint-config, so we cannot bump it independently; forcing TS7 crashes eslint with \"Cannot read properties of undefined (reading 'Cjs')\". Lift this once @nuxt/eslint-config ships a typescript-eslint release that supports TS7.",
+      "matchPackageNames": ["typescript"],
+      "allowedVersions": "<7"
     }
   ],
   "lockFileMaintenance": {
