@@ -73,7 +73,7 @@ importers:
         specifier: ^25.0.8
         version: 25.0.8(supports-color@10.2.2)(typescript@6.0.3)
       typescript:
-        specifier: ^6.0.3
+        specifier: ~6.0.3
         version: 6.0.3
       vue-tsc:
         specifier: ^3.3.7

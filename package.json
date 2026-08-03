@@ -35,7 +35,7 @@
     "eslint": "^10.7.0",
     "nuxt-mcp-dev": "^0.3.2",
     "semantic-release": "^25.0.8",
-    "typescript": "^6.0.3",
+    "typescript": "~6.0.3",
     "vue-tsc": "^3.3.7"
   },
   "packageManager": "pnpm@11.15.1"
