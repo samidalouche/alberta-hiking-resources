@@ -21,7 +21,7 @@
     "@nuxtjs/sitemap": "^8.2.3",
     "@takumi-rs/core": "2.3.3",
     "better-sqlite3": "^12.11.1",
-    "nuxt": "^4.4.8",
+    "nuxt": "^4.5.1",
     "nuxt-llms": "0.2.0",
     "nuxt-og-image": "^6.7.3",
     "zod": "^4.4.3"
