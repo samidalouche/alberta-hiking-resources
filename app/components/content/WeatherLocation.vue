@@ -12,6 +12,8 @@ defineProps<{
   accuweather?: string
   theweathernetwork?: string
   environmentCanada?: string
+  // US counterpart to environmentCanada, for locations south of the border.
+  nws?: string
   iqair?: string
   googleMaps?: string
   extraWebcams?: Array<{ label: string, url: string }>
@@ -152,6 +154,16 @@ defineProps<{
         variant="soft"
         size="sm"
         label="Environment Canada"
+      />
+      <UButton
+        v-if="nws"
+        :to="nws"
+        target="_blank"
+        icon="i-lucide-radar"
+        color="neutral"
+        variant="soft"
+        size="sm"
+        label="NWS forecast"
       />
       <UButton
         v-if="googleMaps"
