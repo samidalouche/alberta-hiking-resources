@@ -96,7 +96,35 @@ export default defineNuxtConfig({
   },
 
   icon: {
-    provider: 'iconify'
+    provider: 'iconify',
+
+    // Without this, only the icons @nuxt/ui registers itself end up in the
+    // client bundle; every other icon is fetched from api.iconify.design at
+    // render time, which logs "[Icon] failed to load icon" for each one and
+    // leaves the site dependent on a third-party host at runtime — a problem
+    // for a statically prerendered build. Scanning bundles the icons we
+    // actually use instead.
+    //
+    // `scan: true` keeps @nuxt/icon's default globs, which cover .vue and .md
+    // — the latter matters most here, since most of our icons are declared in
+    // content frontmatter rather than in components. Setting globInclude to
+    // extend that list is tempting but replaces it, pinning a copy of the
+    // module's internals that silently goes stale when upstream adds an
+    // extension.
+    clientBundle: {
+      scan: true,
+
+      // Those default globs skip .ts, so nothing in app.config.ts is scanned.
+      // These are the icons it declares that nothing else pulls in:
+      // i-lucide-history on the header's Changelog link, and i-lucide-circle-dot
+      // on the footer's Contact Us link. It declares two others that are covered
+      // incidentally and so are not repeated here — i-lucide-github also appears
+      // in a scanned .vue file, and i-lucide-star is one of the icons @nuxt/ui
+      // registers itself. Nothing guarantees either stays true, but the failure
+      // is loud rather than silent: an icon that is neither scanned nor listed
+      // warns on every render.
+      icons: ['lucide:history', 'lucide:circle-dot']
+    }
   },
 
   llms: {
