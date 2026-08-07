@@ -1,55 +1,14 @@
 # Setup Development Environment
 
-There are three ways to work on this site. If you only want to fix a typo or add
-an entry to a content page, start with StackBlitz and skip the rest.
+There are two ways to work on this site. A third — StackBlitz — does not
+currently work; see [below](#stackblitz-does-not-currently-work) for why, so that
+nobody has to rediscover it.
 
 | | What it is | Setup | Can run |
 |---|---|---|---|
-| [StackBlitz](#stackblitz-no-setup) | Node compiled to WebAssembly, in a browser tab | One click, no account | Dev server; edit and preview content |
 | [Dev container](#dev-container-codespaces-codesandbox-local-docker) | A real Linux container | Sign in, a few minutes to build | Everything |
 | [Local](#local-setup) | Your own machine | Install mise | Everything |
-
-## StackBlitz (no setup)
-
-**[Open this project in StackBlitz →](https://stackblitz.com/github/samidalouche/alberta-hiking-resources)**
-
-It boots the repo, installs dependencies, and starts the dev server with a live
-preview beside the editor. No account, no install, nothing to clean up
-afterwards. To contribute a change, use StackBlitz's *Fork* then *Create a Pull
-Request* buttons.
-
-Configuration lives in [.stackblitzrc](../.stackblitzrc).
-
-### How it copes with native dependencies
-
-StackBlitz does not run a container or a virtual machine. It runs a
-reimplementation of Node.js, compiled to WebAssembly, inside the browser tab
-itself. That is what makes it start in seconds without an account — and it is
-also why native `.node` addons cannot be loaded: there is no dynamic linker to
-load them into. This project depends on several, and none of them needed
-handling here, because the toolchain already detects the environment:
-
-- `std-env` reports the runtime as the `stackblitz` provider, and Nuxt, Nitro and
-  the modules below all key off it.
-- **better-sqlite3**, the SQLite driver behind `@nuxt/content`, is swapped for
-  the `sqlite3` connector that StackBlitz implements natively. Nuxt skips its
-  usual "may I install this?" prompt under StackBlitz, so that happens unattended.
-- **@takumi-rs/core**, the renderer behind `nuxt-og-image`, is swapped for its
-  WebAssembly build — the module carries a compatibility profile for the
-  `stackblitz` and `codesandbox` providers.
-
-That is why [nuxt.config.ts](../nuxt.config.ts) contains no StackBlitz-specific
-branches: adding any would mean overriding decisions the modules already make
-correctly, and would make what a contributor sees in StackBlitz differ from what
-everyone else sees. If something does turn out to need overriding, prefer
-`provider` from `std-env` over hand-rolled detection, so it agrees with the rest
-of the stack.
-
-Treat StackBlitz as the place to edit content and preview it, and the dev
-container as the place to verify a change. A full `pnpm build` in a browser tab
-is at best slow and memory-hungry, and is not something CI or anyone else
-exercises, so do not rely on it passing there — `mise run ci` in the dev
-container is the check that matters.
+| [StackBlitz](#stackblitz-does-not-currently-work) | Node compiled to WebAssembly, in a browser tab | — | **Nothing — blocked** |
 
 ## Dev container (Codespaces, CodeSandbox, local Docker)
 
@@ -73,7 +32,7 @@ The same file also works with the VS Code
 [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 extension against local Docker — *Dev Containers: Reopen in Container*. Note that
 Codespaces bills compute against *your* GitHub account's monthly free quota;
-local Docker and StackBlitz do not.
+local Docker does not.
 
 ## Local setup
 
@@ -98,6 +57,58 @@ local Docker and StackBlitz do not.
     ```
 
    The site is served at `http://localhost:3000`.
+
+## StackBlitz (does not currently work)
+
+[.stackblitzrc](../.stackblitzrc) is kept in the repo, but **StackBlitz cannot
+build this project today.** The blocker is WebContainer's package manager, and it
+is not something a change here can fix. This is written down so the investigation
+does not have to be repeated.
+
+StackBlitz does not run a container or a virtual machine. It runs a
+reimplementation of Node.js, compiled to WebAssembly, inside the browser tab. That
+is what makes it start in seconds with no account, and it is also why parts of the
+Node platform are missing or only partly implemented.
+
+What was tried, in order, on 2026-08-07 (WebContainer Node v22.22.3, bundled pnpm
+8.15.6):
+
+| Attempt | Result |
+|---|---|
+| The bundled pnpm 8.15.6 | `ERR_PNPM_INVALID_WORKSPACE_CONFIGURATION` — rejects [pnpm-workspace.yaml](../pnpm-workspace.yaml) for having no `packages:` field |
+| corepack, which would honour `packageManager` | Not present in WebContainer |
+| `npm i -g pnpm@11.15.1` | `EACCES` — no writable global prefix and no sudo |
+| `npx pnpm@11.15.1` | `this.db.exec is not a function` — pnpm 11 backs its store index with `node:sqlite`, which WebContainer only partly implements |
+| `npx pnpm@10` | Reads `packageManager` and self-upgrades to pnpm 11, then crashes inside StackBlitz's own injected `/home/.pnpm/.pnpmfile.cjs` |
+
+The root cause is a version squeeze with nothing in the middle. `packages:` only
+became optional in pnpm 10, and `allowBuilds` is pnpm 11, so **this repo needs
+pnpm 10 or newer** — while the newest pnpm WebContainer can actually execute is
+older than that. Nothing in between satisfies both.
+
+Note that `packageManager: pnpm@11.15.1` in [package.json](../package.json) is
+already set and does not help: WebContainer did not adopt it, and pnpm 10 honoured
+it only by trying to upgrade itself into the version that cannot run.
+
+Deliberately not worked around. Every fix would have to be applied on top of the
+last, StackBlitz would end up running a different pnpm major than CI — so a green
+result there would prove nothing — and no CI anywhere can test the arrangement.
+Downgrading the project's own pnpm to suit it would mean giving up the workspace
+settings and penalising the primary workflow for the optional one.
+
+**Retest when** WebContainer ships a working `node:sqlite`, which would let
+`npx pnpm@11` run and likely clears the whole chain at once. Check with
+`npx --yes pnpm@11 install` in a StackBlitz terminal; if that succeeds, restore the
+badge in [README.md](../README.md) and the entry on the in-site
+[contributing page](../content/1.getting-started/2.contributing.md).
+
+For context on the native dependencies, which were *not* the blocker: Nuxt and its
+modules already detect this environment on their own — `std-env` reports the
+`stackblitz` provider, `@nuxt/content` swaps `better-sqlite3` for the `sqlite3`
+connector, and `nuxt-og-image` swaps `@takumi-rs/core` for its WebAssembly build.
+That is why [nuxt.config.ts](../nuxt.config.ts) has no StackBlitz-specific
+branches, and it should stay that way; if something ever does need overriding,
+prefer `provider` from `std-env` over hand-rolled detection.
 
 ## Editor setup
 
