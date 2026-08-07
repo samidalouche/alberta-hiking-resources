@@ -1,0 +1,5 @@
+{
+  "//": "STACKBLITZ DOES NOT CURRENTLY WORK. This config is correct but never gets far enough to matter: WebContainer's bundled pnpm (8.15.6) rejects pnpm-workspace.yaml for having no `packages:` field, and no pnpm it can actually execute is new enough for this repo -- `packages:` became optional in pnpm 10, `allowBuilds` is pnpm 11, and pnpm 11 needs a working `node:sqlite` that WebContainer only partly implements. Kept so the setup is ready if that gap closes. Full diagnosis, what was tried, and how to retest: docs/setup-development-environment.md, section 'StackBlitz (does not currently work)'.",
+  "installDependencies": true,
+  "startCommand": "pnpm dev"
+}

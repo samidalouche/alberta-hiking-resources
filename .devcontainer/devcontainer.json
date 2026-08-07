@@ -1,0 +1,58 @@
+{
+  // A full Linux environment for the project, usable from GitHub Codespaces,
+  // CodeSandbox, or the VS Code Dev Containers extension against local Docker.
+  //
+  // This exists alongside .stackblitzrc, which covers StackBlitz. The two are
+  // not interchangeable: StackBlitz runs Node compiled to WebAssembly inside a
+  // browser tab, so there is no container for a devcontainer.json to describe
+  // and no way to load the project's native addons. StackBlitz is the
+  // no-account, instant path for previewing content edits; this is the one where
+  // `mise run ci` -- build, lint, typecheck -- actually runs.
+  "name": "Alberta Hiking Resources",
+
+  // A plain Ubuntu base rather than a Node image, because mise installs Node and
+  // pnpm from mise.lock. See the rationale in setup.sh.
+  //
+  // 26.04, the current LTS. Note the tag spelling: Microsoft publishes the
+  // dashed form (`ubuntu-24.04`) only up to 24.04, so this one has no dash.
+  //
+  // This deliberately runs ahead of CI, where `ubuntu-latest` still resolves to
+  // ubuntu-24.04 (see the "Runner Image" line in any CI job's setup step). The
+  // divergence is narrow: the base image contributes little beyond glibc, curl,
+  // and the C++ toolchain that compiles better-sqlite3 from source, and that
+  // binary never leaves the container. Everything that determines what the app
+  // actually runs on -- Node, pnpm -- comes from mise.lock and is identical in
+  // both. The gap closes on its own when GitHub moves `ubuntu-latest` to 26.04.
+  //
+  // If a native module ever builds here but fails in CI, this is the first place
+  // to look, and pinning back to `ubuntu-24.04` is the fix.
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu26.04",
+
+  // onCreateCommand rather than postCreateCommand so that Codespaces prebuilds
+  // bake the apt packages, the toolchain, and node_modules into the image. Left
+  // as a postCreateCommand it would re-run on every codespace start.
+  "onCreateCommand": "bash .devcontainer/setup.sh",
+
+  "forwardPorts": [3000],
+
+  "portsAttributes": {
+    "3000": {
+      "label": "Nuxt dev server",
+      "onAutoForward": "openPreview"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      // nuxt.mdc mirrors .vscode/extensions.json; the rest are the ones a
+      // contributor would otherwise have to discover from
+      // docs/setup-development-environment.md.
+      "extensions": [
+        "nuxt.mdc",
+        "Vue.volar",
+        "dbaeumer.vscode-eslint",
+        "hverlin.mise-vscode"
+      ]
+    }
+  }
+}

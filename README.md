@@ -16,7 +16,19 @@ template, with content authored in Markdown and deployed to GitHub Pages.
 
 ## Development
 
-See [docs/setup-development-environment.md](docs/setup-development-environment.md).
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/samidalouche/alberta-hiking-resources)
+
+No install needed to try a change. **Codespaces** — or any other
+[dev container](.devcontainer/devcontainer.json) host, including CodeSandbox and
+local Docker — gives a full Linux environment where the whole build and test
+pipeline runs.
+
+StackBlitz would be the zero-account option, but it
+[cannot currently build this project](docs/setup-development-environment.md#stackblitz-does-not-currently-work);
+the reason and how to retest are written up rather than left to be rediscovered.
+
+For those, and for a local setup, see
+[docs/setup-development-environment.md](docs/setup-development-environment.md).
 
 ## Contribute
 
