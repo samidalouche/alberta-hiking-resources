@@ -40,6 +40,18 @@ export default defineNuxtConfig({
     name: siteTitle
   },
   content: {
+    // `experimental.sqliteConnector` is deliberately not set. @nuxt/content
+    // defaults to better-sqlite3 and switches to the sqlite3 connector by itself
+    // when it detects a WebContainer — the only environment here that needs a
+    // different one, and the connector its own docs recommend there. Setting it
+    // explicitly would pin a choice upstream already makes correctly, and would
+    // stop tracking it if their recommendation changes.
+    //
+    // `native` (Node's built-in node:sqlite) is the interesting alternative: it
+    // would remove the better-sqlite3 addon entirely, and a full build on the
+    // pinned Node 26 works. It is not adopted here because it applies everywhere
+    // rather than only where it is needed, and node:sqlite is still flagged
+    // experimental in Node. See docs/setup-development-environment.md.
     build: {
       markdown: {
         toc: {
