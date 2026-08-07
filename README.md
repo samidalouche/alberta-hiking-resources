@@ -16,7 +16,17 @@ template, with content authored in Markdown and deployed to GitHub Pages.
 
 ## Development
 
-See [docs/setup-development-environment.md](docs/setup-development-environment.md).
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/samidalouche/alberta-hiking-resources)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/samidalouche/alberta-hiking-resources)
+
+No install needed to try a change. **StackBlitz** boots the dev server in a
+browser tab in seconds with no account — enough to edit content and see it
+rendered. **Codespaces** (or any other
+[dev container](.devcontainer/devcontainer.json) host, including local Docker)
+gives a full Linux environment where the whole build and test pipeline runs.
+
+For those, and for a local setup, see
+[docs/setup-development-environment.md](docs/setup-development-environment.md).
 
 ## Contribute
 

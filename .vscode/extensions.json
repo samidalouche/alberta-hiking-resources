@@ -1,5 +1,8 @@
 {
-    "recommendations": [
-        "nuxt.mdc"
-    ]
+  "recommendations": [
+    "nuxt.mdc",
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "hverlin.mise-vscode"
+  ]
 }
