@@ -60,55 +60,176 @@ local Docker does not.
 
 ## StackBlitz (does not currently work)
 
-[.stackblitzrc](../.stackblitzrc) is kept in the repo, but **StackBlitz cannot
-build this project today.** The blocker is WebContainer's package manager, and it
-is not something a change here can fix. This is written down so the investigation
-does not have to be repeated.
+[.stackblitzrc](../.stackblitzrc) is kept in the repo and configured to get as far
+as it can, but **StackBlitz cannot run this project today**, and no change here can
+fix it. This is written down so the investigation does not have to be repeated.
 
 StackBlitz does not run a container or a virtual machine. It runs a
 reimplementation of Node.js, compiled to WebAssembly, inside the browser tab. That
-is what makes it start in seconds with no account, and it is also why parts of the
-Node platform are missing or only partly implemented.
+is what makes it start in seconds with no account, and it is also why native code
+and parts of the Node platform behave differently there.
 
-What was tried, in order, on 2026-08-07 (WebContainer Node v22.22.3, bundled pnpm
-8.15.6):
+**`@nuxt/content` keeps its parsed content in SQLite, and a WebContainer offers no
+working SQLite to give it.** Two unrelated gaps close every available route, which
+is why fixing either one alone gets you nowhere.
+
+**Gap one: native addons are refused.** WebContainer loads only addons compiled to
+WebAssembly. Ones that are compile fine — `rolldown` and `oxc-parser` fetched
+`wasm32-wasi` builds during these runs and worked. A native `.node` binary is
+rejected by policy, not for want of a file:
+
+```
+Error: Cannot load native addon because loading addons is disabled:
+  node_modules/sqlite3/build/Release/node_sqlite3.node
+  code: 'ERR_DLOPEN_DISABLED'
+```
+
+That rules out both of Content's addon-based drivers:
+
+- `better-sqlite3` — native addon, cannot be loaded.
+- `sqlite3` — also a native addon, despite its reputation. Its binary can even be
+  *obtained* (see below) and still cannot be loaded.
+- There is no built-in `sqlite3` to fall back on either: with the package removed,
+  `require('sqlite3')` is a plain `MODULE_NOT_FOUND`.
+
+**Gap two: `node:sqlite` is a stub.** Content's `native` connector needs no addon
+at all, so gap one does not apply to it — and it still fails, because
+WebContainer's built-in module is hollow. `DatabaseSync` can be constructed, and
+its prototype contains only `constructor`; no `exec`, no `prepare`, nothing:
+
+```
+node -e "const s=require('node:sqlite'); const d=new s.DatabaseSync(':memory:');
+  console.log(Object.getOwnPropertyNames(Object.getPrototypeOf(d)).join(', '))"
+→ constructor
+```
+
+Tried with `content.experimental.sqliteConnector: 'native'` set temporarily, it
+otherwise does exactly what it should: no addon involved, no `sqlite3` prompt,
+clean install, and Nuxt 4.5.2 boots. It dies on `getDB().exec is not a function`.
+That same missing method is why `npx pnpm@11` fails with
+`this.db.exec is not a function` — pnpm 11 backs its store index with `node:sqlite`
+too. One stub, two failures that looked unrelated. (That setting is not in the repo;
+see the end of this section.)
+
+Note that [Nuxt Content's documentation](https://content.nuxt.com/docs/getting-started/configuration)
+states the `sqlite3` connector "Works in Node environments, GitHub CI, and
+StackBlitz". On this WebContainer build it does not. Advice found online repeats
+that claim and describes `sqlite3` as the "pure JavaScript" driver — it is not; it
+is a native addon that ships prebuilt `.node` binaries, exactly like
+`better-sqlite3`. Do not take any of it as evidence the problem is on our side, and
+do not spend time on the usual suggestion of setting
+`content.experimental.sqliteConnector: 'sqlite3'`: `@nuxt/content` already selects
+that connector whenever it detects a WebContainer, which is why it offers to
+install `sqlite3` unprompted. Both were tested directly.
+
+Tried on 2026-08-07, on WebContainer Node v22.22.3 with its bundled pnpm 8.15.6.
+First, getting a usable package manager:
 
 | Attempt | Result |
 |---|---|
 | The bundled pnpm 8.15.6 | `ERR_PNPM_INVALID_WORKSPACE_CONFIGURATION` — rejects [pnpm-workspace.yaml](../pnpm-workspace.yaml) for having no `packages:` field |
 | corepack, which would honour `packageManager` | Not present in WebContainer |
 | `npm i -g pnpm@11.15.1` | `EACCES` — no writable global prefix and no sudo |
-| `npx pnpm@11.15.1` | `this.db.exec is not a function` — pnpm 11 backs its store index with `node:sqlite`, which WebContainer only partly implements |
+| `npx pnpm@11.15.1` | `this.db.exec is not a function` — pnpm 11 backs its store index with `node:sqlite` |
 | `npx pnpm@10` | Reads `packageManager` and self-upgrades to pnpm 11, then crashes inside StackBlitz's own injected `/home/.pnpm/.pnpmfile.cjs` |
 
-The root cause is a version squeeze with nothing in the middle. `packages:` only
-became optional in pnpm 10, and `allowBuilds` is pnpm 11, so **this repo needs
-pnpm 10 or newer** — while the newest pnpm WebContainer can actually execute is
-older than that. Nothing in between satisfies both.
+pnpm is squeezed from both sides: `packages:` became optional only in pnpm 10 and
+`allowBuilds` is pnpm 11, so **this repo needs pnpm 10 or newer**, while the newest
+pnpm WebContainer can execute is older. `packageManager: pnpm@11.15.1` in
+[package.json](../package.json) does not help — WebContainer ignores it, and pnpm
+10 honours it only by trying to upgrade into the version that cannot run.
 
-Note that `packageManager: pnpm@11.15.1` in [package.json](../package.json) is
-already set and does not help: WebContainer did not adopt it, and pnpm 10 honoured
-it only by trying to upgrade itself into the version that cannot run.
+**npm gets past all of that, and still fails.** This is the part worth knowing,
+because it shows the package manager was never the real problem:
 
-Deliberately not worked around. Every fix would have to be applied on top of the
-last, StackBlitz would end up running a different pnpm major than CI — so a green
-result there would prove nothing — and no CI anywhere can test the arrangement.
-Downgrading the project's own pnpm to suit it would mean giving up the workspace
-settings and penalising the primary workflow for the optional one.
+| Attempt | Result |
+|---|---|
+| `npm install --legacy-peer-deps` | Installs. `--legacy-peer-deps` is required — three unmet peers (`oxc-parser`, `unplugin`, `cac`) that pnpm tolerates and npm rejects |
+| `nuxt prepare` postinstall | `@nuxt/content` asks to install `sqlite3`, then delegates to `nypm`, which reads `packageManager`, runs `pnpm add sqlite3`, and fails with `ERR_PNPM_ADDING_TO_ROOT` |
+| `npm install --ignore-scripts`, then `sqlite3` by hand, then `nuxt dev` | **Nuxt 4.5.2 boots and the dev server starts**, then dies on `Could not locate the bindings file` |
+| The same, plus `sqliteConnector: 'native'` | **Furthest anything reached.** Clean install, no `sqlite3` prompt, no addon, Nuxt boots — then `getDB().exec is not a function`, the `node:sqlite` stub |
 
-**Retest when** WebContainer ships a working `node:sqlite`, which would let
-`npx pnpm@11` run and likely clears the whole chain at once. Check with
-`npx --yes pnpm@11 install` in a StackBlitz terminal; if that succeeds, restore the
-badge in [README.md](../README.md) and the entry on the in-site
+That last failure is worth following through, because the obvious reading of it is
+wrong. `sqlite3` 6.x ships prebuilt N-API binaries, so no compiler is needed — but
+`prebuild-install` fetches them from GitHub releases, and **GitHub is unreachable
+from WebContainer** (`socket hang up`), while `registry.npmjs.org` is fine. It
+reports that as a *warning*, so the install appears to succeed and silently leaves
+no binding.
+
+That obstacle is solvable — the binary downloads fine from a mirror:
+
+```bash
+npm_config_sqlite3_binary_host_mirror=https://registry.npmmirror.com/-/binary/sqlite3
+```
+
+With the binary in place, `require('sqlite3')` still fails, with
+`ERR_DLOPEN_DISABLED`. That is the wall. Fetching the binary was necessary and not
+sufficient.
+
+[.stackblitzrc](../.stackblitzrc) therefore boots via npm, which is what gets it
+from failing instantly to reaching the database. That is as far as configuration
+can take it. Note npm cannot read `pnpm-lock.yaml`, so it resolves fresh from
+`package.json` ranges every boot, bypassing the 14-day `minimumReleaseAge` policy
+in [renovate.json](../renovate.json) — tolerable only because nothing can actually
+start this way, and a problem to solve before anyone relies on it.
+
+The remaining gap is deliberately not worked around. The only route left is
+pointing `@nuxt/content` at a WebAssembly database such as PGlite, which would have
+StackBlitz running a different database engine than everyone else, behind
+environment-specific branching in [nuxt.config.ts](../nuxt.config.ts) that this
+project does not have. That is no longer previewing the site; it is previewing a
+variant of it. Nothing in CI could test it either.
+
+Weigh the payoff too: the "Edit this page" link already covers drive-by content
+fixes without a sandbox, and the dev container covers anyone who wants a real
+preview. StackBlitz would add convenience, not capability.
+
+**Retest** with one command in a StackBlitz terminal. `node:sqlite` is the signal
+to watch, because it would make native addons unnecessary altogether:
+
+```bash
+node -e "const {DatabaseSync}=require('node:sqlite'); new DatabaseSync(':memory:').exec('create table t(x)'); console.log('node:sqlite works')"
+```
+
+If that prints, WebContainer has implemented `node:sqlite` and this is worth
+reopening — `npx pnpm@11` should start working at the same moment, for the same
+reason. Reaching it would then need `content.experimental.sqliteConnector: 'native'`
+in [nuxt.config.ts](../nuxt.config.ts), since Content otherwise stays on `sqlite3`
+in a WebContainer.
+
+The more likely fix is the other one: WebContainer allowing addons compiled to
+WebAssembly to satisfy `sqlite3`. Nothing needs changing for that at all —
+[.stackblitzrc](../.stackblitzrc) already installs `sqlite3` with its binary, and
+Content already selects that connector on its own here, so opening the project
+would simply work.
+
+Note a working `node:sqlite` clears only the database. The pnpm obstacles above are
+separate, and the lockfile caveat still applies — solve that before treating
+StackBlitz as supported. If it all works, restore the badge in
+[README.md](../README.md) and the entry on the in-site
 [contributing page](../content/1.getting-started/2.contributing.md).
 
-For context on the native dependencies, which were *not* the blocker: Nuxt and its
-modules already detect this environment on their own — `std-env` reports the
-`stackblitz` provider, `@nuxt/content` swaps `better-sqlite3` for the `sqlite3`
-connector, and `nuxt-og-image` swaps `@takumi-rs/core` for its WebAssembly build.
-That is why [nuxt.config.ts](../nuxt.config.ts) has no StackBlitz-specific
-branches, and it should stay that way; if something ever does need overriding,
-prefer `provider` from `std-env` over hand-rolled detection.
+Everything else in the stack copes fine, which is worth preserving: `std-env`
+reports the `stackblitz` provider, `nuxt-og-image` swaps `@takumi-rs/core` for its
+WebAssembly build, and `rolldown` and `oxc-parser` fetch `wasm32-wasi` builds on
+their own — all observed working in the runs above. That is why
+[nuxt.config.ts](../nuxt.config.ts) carries no `if (webcontainer)` branches, and it
+should stay that way; if something ever does need overriding, prefer `provider`
+from `std-env` over hand-rolled detection.
+
+`content.experimental.sqliteConnector` is likewise left unset, which is what keeps
+that true. Content defaults to `better-sqlite3` and switches to `sqlite3` by itself
+in a WebContainer, so pinning either would only override a decision upstream
+already makes — and would stop tracking it if their recommendation changes.
+
+The exception worth knowing about is `native`, which uses Node's built-in
+`node:sqlite` and so needs no addon anywhere. A full `mise run ci` on the pinned
+Node 26 passes with it, `better-sqlite3` never loaded, which would let that
+dependency go along with the `build-essential` and `python3` that
+[.devcontainer/setup.sh](../.devcontainer/setup.sh) installs to build it. It is not
+adopted because it would apply everywhere rather than only where it helps, and
+`node:sqlite` is still flagged experimental in Node. Worth revisiting once it is
+not.
 
 ## Editor setup
 
