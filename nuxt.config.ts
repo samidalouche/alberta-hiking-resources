@@ -72,7 +72,11 @@ export default defineNuxtConfig({
     asyncContext: true
   },
 
-  compatibilityDate: '2024-07-11',
+  // Matches the upstream docs template. This opts into the Nuxt/Nitro defaults
+  // as of that date rather than the 2024-07-11 ones the project was scaffolded
+  // with; raise it deliberately alongside a build+prerender check, never
+  // automatically, since it changes framework behaviour rather than a version.
+  compatibilityDate: '2026-06-30',
 
   nitro: {
     prerender: {

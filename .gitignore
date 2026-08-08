@@ -9,6 +9,12 @@ dist
 # Node dependencies
 node_modules
 
+# Local pnpm content-addressable store. Not the store this project uses -- pnpm
+# resolves to the global one (`pnpm store path`) -- but sandbox environments with
+# a different HOME (devcontainer, StackBlitz) drop one here, and its SQLite
+# index plus -shm/-wal files are per-machine state that must never be committed.
+.pnpm-store
+
 # Logs
 logs
 *.log

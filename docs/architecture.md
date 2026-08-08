@@ -63,11 +63,33 @@ production + GitHub Pages pipeline on top. The major additions and changes:
   as the task runner (`mise run ci/dev/build`), wrapping the npm scripts.
 - Renovate (`renovate.json`, grouped "all" updates, 14-day min age) +
   `renovate-mise-lock.yml` to keep the mise lock in sync.
-- `pnpm-workspace.yaml` with `shamefullyHoist` and explicit `allowBuilds`
-  (notably `better-sqlite3`, `sharp`); `better-sqlite3` added as a direct dependency.
-- Trimmed the template's explicit deps (`@nuxtjs/mdc`, `@vueuse/core`, `minimark`,
-  `tailwindcss`, `ufo`, `unist-util-visit`, `simple-icons`/`vscode-icons`),
-  relying on transitive resolution + `@iconify-json/lucide`.
+- `pnpm-workspace.yaml` with explicit `allowBuilds` (notably `better-sqlite3`,
+  `sharp`); `better-sqlite3` added as a direct dependency. Matches the template
+  except for the `better-sqlite3` entry, which the template no longer needs since
+  it moved to the `native` sqlite connector.
+- No `shamefullyHoist`. It was carried from the pre-Nuxt-4 `.npmrc` purely to let
+  undeclared transitive imports resolve, and it caused a full-site outage once
+  (an h3 v2 RC hoisted to the root, `@nuxt/content` picked it up, every content
+  query threw and every page 404'd — see `790d3661`). With every package we import
+  now declared, the flat root is unnecessary, and a strict tree means an
+  undeclared import fails at build time rather than silently resolving to
+  whatever hoist order picked.
+- Trimmed the template's explicit deps that this site genuinely does not use:
+  `@nuxtjs/mdc` and `unist-util-visit` (unimported in the template too), and
+  `simple-icons`/`vscode-icons` (every `i-simple-icons-*` was swapped for
+  `i-lucide-*`, so only `@iconify-json/lucide` is needed).
+- `@vueuse/core`, `minimark`, `tailwindcss` and `ufo` were trimmed too, and have
+  been restored as direct dependencies. They are imported directly by our own
+  code — `@vueuse/core` in `app/components/PageHeaderLinks.vue`, `minimark` and
+  `ufo` in `server/routes/raw/[...slug].md.get.ts`, `tailwindcss` in
+  `app/assets/css/main.css` — so leaving them undeclared meant the versions we
+  compiled against were whatever `shamefullyHoist` happened to lift to the root,
+  with nothing pinning them. That is not merely theoretical: `@vueuse/core` still
+  resolves to two versions in the tree (10.x transitively, 14.x for us), and a
+  stale local `node_modules` was observed hoisting a different major of `h3` than
+  a clean `pnpm install --frozen-lockfile` did, which broke `typecheck` locally
+  while CI stayed green. Import it, declare it. Declaring these four is what made
+  dropping `shamefullyHoist` possible.
 
 ### Other `nuxt.config.ts` tweaks
 
