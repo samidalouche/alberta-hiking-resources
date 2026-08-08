@@ -6,14 +6,13 @@ nobody has to rediscover it.
 
 | | What it is | Setup | Can run |
 |---|---|---|---|
-| [Dev container](#dev-container-codespaces-codesandbox-local-docker) | A real Linux container | Sign in, a few minutes to build | Everything |
+| [Dev container](#dev-container-codespaces-local-docker) | A real Linux container | Sign in, a few minutes to build | Everything |
 | [Local](#local-setup) | Your own machine | Install mise | Everything |
 | [StackBlitz](#stackblitz-does-not-currently-work) | Node compiled to WebAssembly, in a browser tab | — | **Nothing — blocked** |
 
-## Dev container (Codespaces, CodeSandbox, local Docker)
+## Dev container (Codespaces, local Docker)
 
 **[Open in GitHub Codespaces →](https://codespaces.new/samidalouche/alberta-hiking-resources)**
-· **[Open in CodeSandbox →](https://codesandbox.io/p/github/samidalouche/alberta-hiking-resources/main)**
 
 A full Linux container defined by
 [.devcontainer/devcontainer.json](../.devcontainer/devcontainer.json), so every
@@ -33,6 +32,28 @@ The same file also works with the VS Code
 extension against local Docker — *Dev Containers: Reopen in Container*. Note that
 Codespaces bills compute against *your* GitHub account's monthly free quota;
 local Docker does not.
+
+### Why CodeSandbox is not listed
+
+It used to be, and the link no longer works. CodeSandbox retired its Repositories
+feature — the `codesandbox.io/p/github/...` flow that opened a git repo directly —
+on 15 July 2026, having stopped new imports that April. Devboxes still exist, but
+without repo import there is no "open this project" entry point to offer. Be aware
+that the URL still returns HTTP 200: it is a single-page app that renders the error
+client-side, so a link check will not catch this.
+
+A second problem would bite even if that came back. `std-env` reports the
+`codesandbox` provider whenever `CODESANDBOX_HOST` or `CODESANDBOX_SSE` is set, and
+`nuxt-og-image` maps that provider to the same profile it uses for WebContainer,
+switching to a WebAssembly renderer. Building with `CODESANDBOX_HOST` set locally
+reproduces it: all 56 prerendered OG images return 500 and the build aborts with
+"Exiting due to prerender errors". Adding `@takumi-rs/wasm` resolves the import but
+does not fix it — the WASM path then fails inside `unwasm`.
+
+That mapping is an upstream assumption that CodeSandbox means a browser sandbox,
+which a Devbox is not; it is a real VM where the default native renderer works.
+Overriding `nuxt-og-image`'s compatibility for that provider is the likely fix, and
+is untested.
 
 ## Local setup
 
