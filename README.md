@@ -19,9 +19,8 @@ template, with content authored in Markdown and deployed to GitHub Pages.
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/samidalouche/alberta-hiking-resources)
 
 No install needed to try a change. **Codespaces** — or any other
-[dev container](.devcontainer/devcontainer.json) host, including CodeSandbox and
-local Docker — gives a full Linux environment where the whole build and test
-pipeline runs.
+[dev container](.devcontainer/devcontainer.json) host, including local Docker —
+gives a full Linux environment where the whole build and test pipeline runs.
 
 StackBlitz would be the zero-account option, but it
 [cannot currently build this project](docs/setup-development-environment.md#stackblitz-does-not-currently-work);
