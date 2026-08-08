@@ -65,9 +65,21 @@ production + GitHub Pages pipeline on top. The major additions and changes:
   `renovate-mise-lock.yml` to keep the mise lock in sync.
 - `pnpm-workspace.yaml` with `shamefullyHoist` and explicit `allowBuilds`
   (notably `better-sqlite3`, `sharp`); `better-sqlite3` added as a direct dependency.
-- Trimmed the template's explicit deps (`@nuxtjs/mdc`, `@vueuse/core`, `minimark`,
-  `tailwindcss`, `ufo`, `unist-util-visit`, `simple-icons`/`vscode-icons`),
-  relying on transitive resolution + `@iconify-json/lucide`.
+- Trimmed the template's explicit deps that this site genuinely does not use:
+  `@nuxtjs/mdc` and `unist-util-visit` (unimported in the template too), and
+  `simple-icons`/`vscode-icons` (every `i-simple-icons-*` was swapped for
+  `i-lucide-*`, so only `@iconify-json/lucide` is needed).
+- `@vueuse/core`, `minimark`, `tailwindcss` and `ufo` were trimmed too, and have
+  been restored as direct dependencies. They are imported directly by our own
+  code — `@vueuse/core` in `app/components/PageHeaderLinks.vue`, `minimark` and
+  `ufo` in `server/routes/raw/[...slug].md.get.ts`, `tailwindcss` in
+  `app/assets/css/main.css` — so leaving them undeclared meant the versions we
+  compiled against were whatever `shamefullyHoist` happened to lift to the root,
+  with nothing pinning them. That is not merely theoretical: `@vueuse/core` still
+  resolves to two versions in the tree (10.x transitively, 14.x for us), and a
+  stale local `node_modules` was observed hoisting a different major of `h3` than
+  a clean `pnpm install --frozen-lockfile` did, which broke `typecheck` locally
+  while CI stayed green. Import it, declare it.
 
 ### Other `nuxt.config.ts` tweaks
 
